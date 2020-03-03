@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2a710ee-eb5b-4667-b309-504051a5c329" name="Default Changelist" comment="" />
+    <list default="true" id="d2a710ee-eb5b-4667-b309-504051a5c329" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/catboost_training.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/learn_error.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn_error.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catboost_info/time_left.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/time_left.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catcopy25-50.py" beforeDir="false" afterPath="$PROJECT_DIR$/catcopy25-50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catcopy_higher50.py" beforeDir="false" afterPath="$PROJECT_DIR$/catcopy_higher50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cross_validation_lower than 25.py" beforeDir="false" afterPath="$PROJECT_DIR$/cross_validation_lower than 25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsupervised_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/unsupervised_variables.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +26,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YIExf62ChLjon56yNMLQwH2jGX" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -37,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cross_validation_lower than 25">
+  <component name="RunManager" selected="Python.unsupervised_variables">
     <configuration name="catcopy25-50" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="miscatch_classifier" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xgb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="unsupervised_variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="miscatch_classifier" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +170,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xgb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unsupervised_variables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.unsupervised_variables" />
+        <item itemvalue="Python.catcopy25-50" />
         <item itemvalue="Python.cross_validation_lower than 25" />
         <item itemvalue="Python.catcopy_higher50" />
-        <item itemvalue="Python.catcopy25-50" />
         <item itemvalue="Python.for_schmidt&amp;eran" />
-        <item itemvalue="Python.xgb" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +201,17 @@
       <updated>1582621955665</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -221,28 +247,8 @@
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/cross_validation_lower than 25.py</url>
-          <line>304</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/catcopy_higher50.py</url>
-          <line>304</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/catcopy_higher50.py</url>
-          <line>303</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/cross_validation_lower than 25.py</url>
-          <line>301</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/catcopy25-50.py</url>
-          <line>312</line>
+          <line>360</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>

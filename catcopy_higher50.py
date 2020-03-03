@@ -188,7 +188,30 @@ def get_agebin(x):
 X_train = pd.read_csv(os.path.join(input_path, "X_train.csv"))
 y_train = pd.read_csv(os.path.join(input_path, "y_train.csv"))
 
-features = [i for i in X_train.columns if ((('P3b' in i) or ('P3a' in i)) and ('miscatch' not in i))]
+features = ['P3a_Delta_Novel_similarity_spatial',
+            'P3a_Delta_Novel_similarity_locationLR',
+            'P3a_Delta_Novel_similarity_locationPA',
+            'P3a_Delta_Novel_similarity_timing',
+            'P3a_Delta_Novel_similarity_amplitude',
+            'P3a_Delta_Novel_matchScore',
+            'P3a_Delta_Novel_attr_timeMSfromTriger',
+            'P3a_Delta_Novel_attr_leftRight',
+            'P3a_Delta_Novel_attr_posteriorAnterior',
+            'P3a_Delta_Novel_attr_amplitude',
+            'P3a_Delta_Novel_topo_topographicCorrCoeffAligned',
+            'P3a_Delta_Novel_topo_topographicSimilarity',
+            'P3b_Delta_Target_similarity_spatial',
+             'P3b_Delta_Target_similarity_locationLR',
+             'P3b_Delta_Target_similarity_locationPA',
+             'P3b_Delta_Target_similarity_timing',
+             'P3b_Delta_Target_similarity_amplitude',
+             'P3b_Delta_Target_matchScore',
+             'P3b_Delta_Target_attr_timeMSfromTriger',
+             'P3b_Delta_Target_attr_leftRight',
+             'P3b_Delta_Target_attr_posteriorAnterior',
+             'P3b_Delta_Target_attr_amplitude',
+             'P3b_Delta_Target_topo_topographicCorrCoeffAligned',
+             'P3b_Delta_Target_topo_topographicSimilarity']
 
 # splitting to agebins should be done here
 df = pd.merge(y_train, X_train, on='taskData._id.$oid')
@@ -238,9 +261,9 @@ for train_index, test_index in cv.split(df_vis1[features+targets], df_vis1['targ
     yt = pd.concat([df_vis1_train[targets + ['target']], df_vis2_train[targets + ['target']]])
     yv = pd.concat([df_vis1_test[targets + ['target']], df_vis2_test[targets + ['target']]])
 
-    target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(Xt, yt[targets[0]], ).predict_proba(Xv)[:, 0]
-    target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(Xt, yt[targets[1]]).predict_proba(Xv)[:, 0]
-    target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(Xt, yt['target']).predict_proba(Xv)[:, 0]
+    target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(Xt, yt[targets[0]], ).predict_proba(Xv)[:, 0]
+    target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(Xt, yt[targets[1]]).predict_proba(Xv)[:, 0]
+    target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth= 8, n_estimators=1000, reg_lambda=10).fit(Xt, yt['target']).predict_proba(Xv)[:, 0]
 
     target_out = target_out0 * target_out1 * target_out2
     print('auc',  roc_auc_score(yv['target'], 1 - target_out))
@@ -255,8 +278,30 @@ for train_index, test_index in cv.split(df_vis1[features+targets], df_vis1['targ
 X_test = pd.read_csv(os.path.join(input_path, "X_test.csv"))
 y_test = pd.read_csv(os.path.join(input_path, "y_test.csv"))
 
-features = [i for i in X_train.columns if ((('P3b' in i) or ('P3a' in i)) and ('miscatch' not in i))]
-
+features = ['P3a_Delta_Novel_similarity_spatial',
+            'P3a_Delta_Novel_similarity_locationLR',
+            'P3a_Delta_Novel_similarity_locationPA',
+            'P3a_Delta_Novel_similarity_timing',
+            'P3a_Delta_Novel_similarity_amplitude',
+            'P3a_Delta_Novel_matchScore',
+            'P3a_Delta_Novel_attr_timeMSfromTriger',
+            'P3a_Delta_Novel_attr_leftRight',
+            'P3a_Delta_Novel_attr_posteriorAnterior',
+            'P3a_Delta_Novel_attr_amplitude',
+            'P3a_Delta_Novel_topo_topographicCorrCoeffAligned',
+            'P3a_Delta_Novel_topo_topographicSimilarity',
+            'P3b_Delta_Target_similarity_spatial',
+             'P3b_Delta_Target_similarity_locationLR',
+             'P3b_Delta_Target_similarity_locationPA',
+             'P3b_Delta_Target_similarity_timing',
+             'P3b_Delta_Target_similarity_amplitude',
+             'P3b_Delta_Target_matchScore',
+             'P3b_Delta_Target_attr_timeMSfromTriger',
+             'P3b_Delta_Target_attr_leftRight',
+             'P3b_Delta_Target_attr_posteriorAnterior',
+             'P3b_Delta_Target_attr_amplitude',
+             'P3b_Delta_Target_topo_topographicCorrCoeffAligned',
+             'P3b_Delta_Target_topo_topographicSimilarity']
 # splitting to agebins should be done here
 df_test = pd.merge(y_test, X_test, on='taskData._id.$oid')
 
@@ -284,9 +329,9 @@ features = features +['moc', 'osvm', 'isof', 'gmm2_0', 'gmm2_1', 'gmm3_0', 'gmm3
 df_test = df_test.dropna(subset=features)
 df_test['target'] = df_test[targets[0]] | df_test[targets[1]]
 
-target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df[targets[0]]).predict_proba(df_test[features])[:, 0]
-target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df[targets[1]]).predict_proba(df_test[features])[:, 0]
-target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df['target']).predict_proba(df_test[features])[:, 0]
+target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df[targets[0]]).predict_proba(df_test[features])[:, 0]
+target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df[targets[1]]).predict_proba(df_test[features])[:, 0]
+target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10],depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df['target']).predict_proba(df_test[features])[:, 0]
 
 target_out = target_out0 * target_out1 * target_out2
 print('auc',  roc_auc_score(df_test['target'], 1 - target_out))
@@ -298,19 +343,25 @@ clf = CatBoostClassifier(verbose=0, class_weights=[1, 5]).fit(df[features], df['
 for i, j in sorted(zip(clf.feature_importances_, features), reverse=1):
     print(i, j)
 
-
-### test set
-
+### real
 df = pd.concat([df, df_test])
+
+features = [i for i in X_train.columns if ((('P3b' in i) or ('P3a' in i)) and ('miscatch' not in i))]
+X_pred = all_data[~all_data['taskData._id.$oid'].isin(df['taskData._id.$oid'])]
+agebins_df = []
+for age in X_pred['agebin'].unique():
+    agedf = X_pred[X_pred['agebin'] == age]
+    agedf = make_unsup(X_pred, all_data[all_data['agebin'] == age], features)
+    # IQR & Z score
+    agebins_df.append(agedf)
 features = features +['moc', 'osvm', 'isof', 'gmm2_0', 'gmm2_1', 'gmm3_0', 'gmm3_1', 'gmm3_2', 'gmm4_0', 'gmm4_1', 'gmm4_2','gmm4_3', 'iqr', 'zscore']
 
-X_pred = all_data[~all_data['taskData._id.$oid'].isin(df['taskData._id.$oid'])][features]
+X_pred = pd.concat(agebins_df).dropna(subset=features)[features]
 
-
-target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df[targets[0]]).predict(X_pred)[:, 0]
-target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df[targets[1]]).predict(X_pred)[:, 0]
-target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df['target']).predict(X_pred)[:, 0]
+target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df[targets[0]]).predict_proba(X_pred)[:, 0]
+target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df[targets[1]]).predict_proba(X_pred)[:, 0]
+target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df['target']).predict_proba(X_pred)[:, 0]
 
 target_out = target_out0 * target_out1 * target_out2
 print(all_data[target_out<0.75]['taskData._id.$oid'])
-all_data[target_out<0.75]['taskData._id.$oid'].to_csv('delegated_reports_higher50.csv')
+all_data[target_out<0.75]['taskData._id.$oid'].to_csv(r'S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\resource_files\miscatches_detected\higher50\delegated_reports.csv')

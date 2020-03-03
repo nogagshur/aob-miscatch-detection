@@ -22,7 +22,8 @@ from statsmodels.formula.api import ols
 
 random_state = 41
 
-erp_name = 'miscatch_P3b_target'
+#erp_name = 'miscatch_P3b_target'
+erp_name = 'miscatch_P3a_novel'
 targets = ['miscatch_P3a_novel', 'miscatch_P3b_target']
 input_path = rf"S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\kaggle_miscatches\{erp_name}"
 
@@ -116,15 +117,54 @@ y_train = pd.read_csv(os.path.join(input_path, "y_train.csv"))
 X_test = pd.read_csv(os.path.join(input_path, "X_test.csv"))
 y_test = pd.read_csv(os.path.join(input_path, "y_test.csv"))
 
-features = [i for i in X_train.columns if ('P3b' in i) and ('miscatch' not in i)]
+
+
+features = ['P3b_Delta_Target_similarity_spatial',
+             'P3b_Delta_Target_similarity_locationLR',
+             'P3b_Delta_Target_similarity_locationPA',
+             'P3b_Delta_Target_similarity_timing',
+             'P3b_Delta_Target_similarity_amplitude',
+             'P3b_Delta_Target_matchScore',
+             'P3b_Delta_Target_attr_timeMSfromTriger',
+             'P3b_Delta_Target_attr_leftRight',
+             'P3b_Delta_Target_attr_posteriorAnterior',
+             'P3b_Delta_Target_attr_amplitude',
+             'P3b_Delta_Target_topo_topographicCorrCoeffAligned',
+             'P3b_Delta_Target_topo_topographicSimilarity']
+
+features = [
+             'P3b_Delta_Target_attr_timeMSfromTriger',
+             'P3b_Delta_Target_attr_leftRight',
+             'P3b_Delta_Target_attr_posteriorAnterior',
+             'P3b_Delta_Target_attr_amplitude']
+
+
+# features = ['P3a_Delta_Novel_attr_timeMSfromTriger',
+#             'P3a_Delta_Novel_attr_leftRight',
+#             'P3a_Delta_Novel_attr_posteriorAnterior',
+#             'P3a_Delta_Novel_attr_amplitude']
+
+
+features = ['P3a_Delta_Novel_similarity_spatial',
+            'P3a_Delta_Novel_similarity_locationLR',
+            'P3a_Delta_Novel_similarity_locationPA',
+            'P3a_Delta_Novel_similarity_timing',
+            'P3a_Delta_Novel_similarity_amplitude',
+            'P3a_Delta_Novel_matchScore',
+            'P3a_Delta_Novel_attr_timeMSfromTriger',
+            'P3a_Delta_Novel_attr_leftRight',
+            'P3a_Delta_Novel_attr_posteriorAnterior',
+            'P3a_Delta_Novel_attr_amplitude',
+            'P3a_Delta_Novel_topo_topographicCorrCoeffAligned',
+            'P3a_Delta_Novel_topo_topographicSimilarity']
 
 # splitting to agebins should be done here
 
 df_train = pd.merge(y_train, X_train, on='taskData._id.$oid')
 df_test = pd.merge(y_test, X_test, on='taskData._id.$oid')
 df = pd.concat([df_train, df_test])
-
-dq_df = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Target.csv")
+#dq_df = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Target.csv")
+dq_df = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Novel.csv")
 dq_df['agebin'] = dq_df.apply(get_agebin, axis=1)
 
 dq_df = dq_df.dropna(subset=features)
@@ -145,4 +185,5 @@ for age in df['agebin'].unique():
 
 features = ['moc', 'osvm', 'isof', 'gmm2_0', 'gmm2_1', 'gmm3_0', 'gmm3_1', 'gmm3_2', 'gmm4_0', 'gmm4_1', 'gmm4_2','gmm4_3', 'iqr', 'zscore', 'taskData._id.$oid']
 df = pd.concat(agebins_df).dropna(subset=features)[features]
-df.to_csv(r'S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\DQ\unsupervised\P3b\unsupervised.csv')
+#df.to_csv(r'S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\DQ\unsupervised\P3b\unsupervised_attr_only.csv')
+df.to_csv(r'S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\DQ\unsupervised\P3a\unsupervised.csv')
