@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2a710ee-eb5b-4667-b309-504051a5c329" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/catboost_training.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" afterDir="false" />
@@ -11,7 +10,6 @@
       <change beforePath="$PROJECT_DIR$/catcopy25-50.py" beforeDir="false" afterPath="$PROJECT_DIR$/catcopy25-50.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catcopy_higher50.py" beforeDir="false" afterPath="$PROJECT_DIR$/catcopy_higher50.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cross_validation_lower than 25.py" beforeDir="false" afterPath="$PROJECT_DIR$/cross_validation_lower than 25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsupervised_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/unsupervised_variables.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.unsupervised_variables">
+  <component name="RunManager" selected="Python.catcopy_higher50">
     <configuration name="catcopy25-50" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="miscatch_classifier" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,10 +179,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.unsupervised_variables" />
+        <item itemvalue="Python.catcopy_higher50" />
         <item itemvalue="Python.catcopy25-50" />
         <item itemvalue="Python.cross_validation_lower than 25" />
-        <item itemvalue="Python.catcopy_higher50" />
+        <item itemvalue="Python.unsupervised_variables" />
         <item itemvalue="Python.for_schmidt&amp;eran" />
       </list>
     </recent_temporary>
@@ -207,7 +205,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -248,8 +248,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/catcopy25-50.py</url>
-          <line>360</line>
+          <line>389</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/catcopy25-50.py</url>
+          <line>234</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/catcopy25-50.py</url>
+          <line>235</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/catcopy_higher50.py</url>
+          <line>385</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/catcopy25-50.py</url>
+          <line>387</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

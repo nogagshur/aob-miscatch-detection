@@ -217,7 +217,7 @@ features = ['P3a_Delta_Novel_similarity_spatial',
 df = pd.merge(y_train, X_train, on='taskData._id.$oid')
 
 df = df[(df['agebin'] == "aob_50-65") | (df['agebin'] == "aob_65-75")| (df['agebin'] == "aob_75-85")]
-
+df = df[df.visit==1]
 dq_df = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Novel.csv")
 featuresP3a = [i for i in dq_df.columns if ('P3a' in i) and ('miscatch' not in i)] + ['taskData.elm_id']
 dq_df = dq_df[featuresP3a].merge(pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Target.csv"), on='taskData.elm_id')
@@ -225,7 +225,7 @@ dq_df['agebin'] = dq_df.apply(get_agebin, axis=1)
 dq_df = dq_df[(dq_df['agebin'] == "aob_50-65") | (dq_df['agebin'] == "aob_65-75") | (dq_df['agebin'] == "aob_75-85")]
 
 
-cv = StratifiedKFold(7)
+cv = StratifiedKFold(3)
 #all_d#ata = dq_df[features]
 dq_df = dq_df.dropna(subset=features)
 
@@ -236,6 +236,8 @@ all_data = pd.DataFrame(ss.fit_transform(dq_df[features]), columns=features)
 df[features] = ss.transform(df[features])
 
 all_data['taskData._id.$oid'] = dq_df['taskData.elm_id'].values
+all_data['visit'] = dq_df['visit'].values
+
 all_data['agebin'] = dq_df['agebin'].values
 agebins_df = []
 for age in df['agebin'].unique():
@@ -250,20 +252,18 @@ features = features +['moc', 'osvm', 'isof', 'gmm2_0', 'gmm2_1', 'gmm3_0', 'gmm3
 df = df.dropna(subset=features)
 df['target'] = df[targets[0]] | df[targets[1]]
 df_vis1 = df[df.visit == 1]
-df_vis2 = df[df.visit == 2]
 
 for train_index, test_index in cv.split(df_vis1[features+targets], df_vis1['target']):
     df_vis1_train, df_vis1_test = df_vis1.iloc[train_index], df_vis1.iloc[test_index]
-    df_vis2_train = df_vis2[df_vis2['reference'].isin(list(df_vis1_train['reference']))]
-    df_vis2_test = df_vis2[df_vis2['reference'].isin(list(df_vis1_test['reference']))]
-    Xt = pd.concat([df_vis1_train[features], df_vis2_train[features]])
-    Xv = pd.concat([df_vis1_test[features], df_vis2_test[features]])
-    yt = pd.concat([df_vis1_train[targets + ['target']], df_vis2_train[targets + ['target']]])
-    yv = pd.concat([df_vis1_test[targets + ['target']], df_vis2_test[targets + ['target']]])
 
-    target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(Xt, yt[targets[0]], ).predict_proba(Xv)[:, 0]
-    target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(Xt, yt[targets[1]]).predict_proba(Xv)[:, 0]
-    target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth= 8, n_estimators=1000, reg_lambda=10).fit(Xt, yt['target']).predict_proba(Xv)[:, 0]
+    Xt = pd.concat([df_vis1_train[features]])
+    Xv = pd.concat([df_vis1_test[features]])
+    yt = pd.concat([df_vis1_train[targets + ['target']]])
+    yv = pd.concat([df_vis1_test[targets + ['target']]])
+
+    target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(Xt, yt[targets[0]],  early_stopping_rounds=5).predict_proba(Xv)[:, 0]
+    target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(Xt, yt[targets[1]],  early_stopping_rounds=5).predict_proba(Xv)[:, 0]
+    target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(Xt, yt['target'],  early_stopping_rounds=5).predict_proba(Xv)[:, 0]
 
     target_out = target_out0 * target_out1 * target_out2
     print('auc',  roc_auc_score(yv['target'], 1 - target_out))
@@ -274,7 +274,7 @@ for train_index, test_index in cv.split(df_vis1[features+targets], df_vis1['targ
 
 ### test set
 
-
+print("test set")
 X_test = pd.read_csv(os.path.join(input_path, "X_test.csv"))
 y_test = pd.read_csv(os.path.join(input_path, "y_test.csv"))
 
@@ -308,13 +308,14 @@ df_test = pd.merge(y_test, X_test, on='taskData._id.$oid')
 df_test = df_test[(df_test['agebin'] == "aob_50-65") | (df_test['agebin'] == "aob_65-75")| (df_test['agebin'] == "aob_75-85")]
 
 df_test = df_test.dropna(subset=features)
-
+df_test = df_test[df_test.visit==1]
 ss = StandardScaler()
 all_data = pd.DataFrame(ss.fit_transform(dq_df[features]), columns=features)
 df_test[features] = ss.transform(df_test[features])
 
 all_data['taskData._id.$oid'] = dq_df['taskData.elm_id'].values
 all_data['agebin'] = dq_df['agebin'].values
+all_data['visit'] = dq_df['visit'].values
 agebins_df = []
 for age in df_test['agebin'].unique():
     agedf = df_test[df_test['agebin'] == age]
@@ -329,9 +330,9 @@ features = features +['moc', 'osvm', 'isof', 'gmm2_0', 'gmm2_1', 'gmm3_0', 'gmm3
 df_test = df_test.dropna(subset=features)
 df_test['target'] = df_test[targets[0]] | df_test[targets[1]]
 
-target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df[targets[0]]).predict_proba(df_test[features])[:, 0]
-target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df[targets[1]]).predict_proba(df_test[features])[:, 0]
-target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10],depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df['target']).predict_proba(df_test[features])[:, 0]
+target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df[targets[0]],  early_stopping_rounds=5).predict_proba(df_test[features])[:, 0]
+target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df[targets[1]], early_stopping_rounds=5).predict_proba(df_test[features])[:, 0]
+target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10],depth=8).fit(df[features], df['target'],  early_stopping_rounds=5).predict_proba(df_test[features])[:, 0]
 
 target_out = target_out0 * target_out1 * target_out2
 print('auc',  roc_auc_score(df_test['target'], 1 - target_out))
@@ -339,14 +340,39 @@ print('recall', recall_score(df_test['target'], target_out < 0.75))
 print('precision', precision_score(df_test['target'], target_out < 0.75))
 print('confusion martix\n', confusion_matrix(df_test['target'], target_out < 0.75), '\n')
 
-clf = CatBoostClassifier(verbose=0, class_weights=[1, 5]).fit(df[features], df['target'])
-for i, j in sorted(zip(clf.feature_importances_, features), reverse=1):
-    print(i, j)
+# clf = CatBoostClassifier(verbose=0, class_weights=[1, 5]).fit(df[features], df['target'])
+# for i, j in sorted(zip(clf.feature_importances_, features), reverse=1):
+#     print(i, j)
 
 ### real
+print("real pred")
 df = pd.concat([df, df_test])
 
-features = [i for i in X_train.columns if ((('P3b' in i) or ('P3a' in i)) and ('miscatch' not in i))]
+features = ['P3a_Delta_Novel_similarity_spatial',
+            'P3a_Delta_Novel_similarity_locationLR',
+            'P3a_Delta_Novel_similarity_locationPA',
+            'P3a_Delta_Novel_similarity_timing',
+            'P3a_Delta_Novel_similarity_amplitude',
+            'P3a_Delta_Novel_matchScore',
+            'P3a_Delta_Novel_attr_timeMSfromTriger',
+            'P3a_Delta_Novel_attr_leftRight',
+            'P3a_Delta_Novel_attr_posteriorAnterior',
+            'P3a_Delta_Novel_attr_amplitude',
+            'P3a_Delta_Novel_topo_topographicCorrCoeffAligned',
+            'P3a_Delta_Novel_topo_topographicSimilarity',
+            'P3b_Delta_Target_similarity_spatial',
+             'P3b_Delta_Target_similarity_locationLR',
+             'P3b_Delta_Target_similarity_locationPA',
+             'P3b_Delta_Target_similarity_timing',
+             'P3b_Delta_Target_similarity_amplitude',
+             'P3b_Delta_Target_matchScore',
+             'P3b_Delta_Target_attr_timeMSfromTriger',
+             'P3b_Delta_Target_attr_leftRight',
+             'P3b_Delta_Target_attr_posteriorAnterior',
+             'P3b_Delta_Target_attr_amplitude',
+             'P3b_Delta_Target_topo_topographicCorrCoeffAligned',
+             'P3b_Delta_Target_topo_topographicSimilarity']
+
 X_pred = all_data[~all_data['taskData._id.$oid'].isin(df['taskData._id.$oid'])]
 agebins_df = []
 for age in X_pred['agebin'].unique():
@@ -356,12 +382,13 @@ for age in X_pred['agebin'].unique():
     agebins_df.append(agedf)
 features = features +['moc', 'osvm', 'isof', 'gmm2_0', 'gmm2_1', 'gmm3_0', 'gmm3_1', 'gmm3_2', 'gmm4_0', 'gmm4_1', 'gmm4_2','gmm4_3', 'iqr', 'zscore']
 
-X_pred = pd.concat(agebins_df).dropna(subset=features)[features]
-
-target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df[targets[0]]).predict_proba(X_pred)[:, 0]
-target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df[targets[1]]).predict_proba(X_pred)[:, 0]
-target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8, n_estimators=1000, reg_lambda=10).fit(df[features], df['target']).predict_proba(X_pred)[:, 0]
+X_pred = pd.concat(agebins_df).dropna(subset=features)
+X_pred = X_pred[X_pred.visit==1]
+target_out0 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df[targets[0]], early_stopping_rounds=5).predict_proba(X_pred[features])[:, 0]
+target_out1 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df[targets[1]],  early_stopping_rounds=5).predict_proba(X_pred[features])[:, 0]
+target_out2 = CatBoostClassifier(verbose=0, class_weights=[1, 10], depth=8).fit(df[features], df['target'],  early_stopping_rounds=5).predict_proba(X_pred[features])[:, 0]
 
 target_out = target_out0 * target_out1 * target_out2
-print(all_data[target_out<0.75]['taskData._id.$oid'])
-all_data[target_out<0.75]['taskData._id.$oid'].to_csv(r'S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\resource_files\miscatches_detected\higher50\delegated_reports.csv')
+print(X_pred['taskData._id.$oid'])
+print(X_pred[target_out<0.75]['taskData._id.$oid'])
+X_pred[target_out<0.75]['taskData._id.$oid'].to_csv(r'S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\resource_files\miscatches_detected\higher50\delegated_reports.csv')
