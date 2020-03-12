@@ -1,0 +1,1098 @@
+Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1,Unnamed: 0.1.1.1.1.1.1.1.1,acqsys,free_text_AOB,miscatch_P3a_novel,miscatch_P3b_target,reviewer,taskData._id.$oid,time,version
+0.0,0.0,,,,,,,55d02733a2d6341843000000,"Comments: Pz (P3b peak) caught double peak. there is no FC3, but the algorithm caught F3 and C3 (even though there is no green marks on those electrodes)",no,no,Aviv,55cfb2b05de8844106164222,1810.850373,miscatches
+1.0,,,,,,,,5601d740a2d634148e000000,Comments: ,no,no,Aviv,5601e1b54071c0807469de30,54.54005,miscatches
+,,,,,,,,55fb5954a2d63479ea000000,Comments: ,no,no,Aviv,55fb612f4071c0807469d581,67.375715,miscatches
+,,,,,,,,56560b0e256140735b000000,Comments: ,no,no,Aviv,56561302f7a5496b79ede4d8,114.455363,miscatches
+,,,,,,,,5525883b6c40b162be000000,Comments: P3a caught posterior activity,yes,no,Aviv,552bd9e01f2e8ffb507b11c3,89.481769,miscatches
+,,,,,,,,550ddb726c40b12529000000,Comments:P3b catch is on broad time,no,no,Aviv,550de8b7694f0bc90e5a7784,118.560259,miscatches
+,,,,,,,,56071a49a2d63405a1000000,Comments: P3b caught mostly later,no,no,Aviv,5607235d4071c0807469e294,48.27917,miscatches
+,,,,,,,,55d658262561400df1000000,Comments: ,no,no,Aviv,55d6628d32991e86075a0e58,1264.966679,miscatches
+,,,,,,,,571906e6c09c5de50c254884,Comments: ,no,no,Aviv,571911f52cbb7066795a786c,99.766962,miscatches
+,,,,,,,,55d1fee42561406187000000,Comments: ,no,no,Aviv,55d208fc32991e86075a0a35,413.868177,miscatches
+,,,,,,,,552ebdd78c149b22ac000000,Comments: ,yes,no,Aviv,5534e68ed16471ab5c2c6017,281.642782,miscatches
+,,,,,,,,55106cb56c40b131e5000000,Comments: ,yes,no,Aviv,55107472694f0bc90e5a78b5,84.426221,miscatches
+,,,,,,,,561312e6a2d634311e000000,Comments: ,no,no,Aviv,56131b684071c0807469eade,84.693435,miscatches
+,,,,,,,,5654f4d8a2d63472de000000,Comments: ,yes,no,Aviv,5654fe2ff7a5496b79ede2d4,67.762333,miscatches
+,,,,,,,,54ff61b06c40b12068000000,Comments: ,yes,no,Aviv,54ff6a4040a873c1062bdd82,72.23051,miscatches
+,,,,,,,,55e8d3eea2d6344a4d000000,Comments: ,yes,no,Aviv,55e8dd5e32991e86075a1af0,182.925793,miscatches
+,,,,,,,,554299301ee54a1442000000,Comments: P3b caught earlier,yes,no,Aviv,5542a753f37cae8908b4e07a,230.19088,miscatches
+,,,,,,,,5536ad811ee54a1ffd000000,Comments: ,yes,no,Aviv,553f7daf35e8a5cf705eea6c,400.209656,miscatches
+0.0,0.0,0.0,0.0,0.0,,,,55d02733a2d6341843000000,"Comments: Pz (P3b peak) caught double peak. there is no FC3, but the algorithm caught F3 and C3 (even though there is no green marks on those electrodes)",no,no,Aviv,55cfb2b05de8844106164222,1810.850373,miscatches
+1.0,1.0,1.0,1.0,,,,,5601d740a2d634148e000000,Comments: ,no,no,Aviv,5601e1b54071c0807469de30,54.54005,miscatches
+2.0,2.0,2.0,,,,,,55fb5954a2d63479ea000000,Comments: ,no,no,Aviv,55fb612f4071c0807469d581,67.375715,miscatches
+3.0,3.0,3.0,,,,,,56560b0e256140735b000000,Comments: ,no,no,Aviv,56561302f7a5496b79ede4d8,114.455363,miscatches
+4.0,4.0,4.0,,,,,,5525883b6c40b162be000000,Comments: P3a caught posterior activity,yes,no,Aviv,552bd9e01f2e8ffb507b11c3,89.481769,miscatches
+5.0,5.0,5.0,,,,,,550ddb726c40b12529000000,Comments:P3b catch is on broad time,no,no,Aviv,550de8b7694f0bc90e5a7784,118.560259,miscatches
+6.0,6.0,6.0,,,,,,56071a49a2d63405a1000000,Comments: P3b caught mostly later,no,no,Aviv,5607235d4071c0807469e294,48.27917,miscatches
+7.0,7.0,7.0,,,,,,55d658262561400df1000000,Comments: ,no,no,Aviv,55d6628d32991e86075a0e58,1264.966679,miscatches
+8.0,8.0,8.0,,,,,,571906e6c09c5de50c254884,Comments: ,no,no,Aviv,571911f52cbb7066795a786c,99.766962,miscatches
+9.0,9.0,9.0,,,,,,55d1fee42561406187000000,Comments: ,no,no,Aviv,55d208fc32991e86075a0a35,413.868177,miscatches
+10.0,10.0,10.0,,,,,,552ebdd78c149b22ac000000,Comments: ,yes,no,Aviv,5534e68ed16471ab5c2c6017,281.642782,miscatches
+11.0,11.0,11.0,,,,,,55106cb56c40b131e5000000,Comments: ,yes,no,Aviv,55107472694f0bc90e5a78b5,84.426221,miscatches
+12.0,12.0,12.0,,,,,,561312e6a2d634311e000000,Comments: ,no,no,Aviv,56131b684071c0807469eade,84.693435,miscatches
+13.0,13.0,13.0,,,,,,5654f4d8a2d63472de000000,Comments: ,yes,no,Aviv,5654fe2ff7a5496b79ede2d4,67.762333,miscatches
+14.0,14.0,14.0,,,,,,54ff61b06c40b12068000000,Comments: ,yes,no,Aviv,54ff6a4040a873c1062bdd82,72.23051,miscatches
+15.0,15.0,15.0,,,,,,55e8d3eea2d6344a4d000000,Comments: ,yes,no,Aviv,55e8dd5e32991e86075a1af0,182.925793,miscatches
+16.0,16.0,16.0,,,,,,554299301ee54a1442000000,Comments: P3b caught earlier,yes,no,Aviv,5542a753f37cae8908b4e07a,230.19088,miscatches
+17.0,17.0,17.0,,,,,,5536ad811ee54a1ffd000000,Comments: ,yes,no,Aviv,553f7daf35e8a5cf705eea6c,400.209656,miscatches
+18.0,18.0,18.0,,,,,,5536ad811ee54a1ffd000000,Comments: ,yes,no,Aviv,553f7daf35e8a5cf705eea6c,400.380539,miscatches
+19.0,19.0,,,,,,,56d0f0a2dc35d3b51fe8e373,Comments: ,no,no,Aviv,56d0fa1b201e63163804039c,63630.567992,miscatches
+20.0,20.0,,,,,,,566788cfa2d6340283000000,"Comments: P3a caught mostly in posterior, and peak is also more posterior",yes,no,Aviv,56679352f7a5496b79edef2c,468.943856,miscatches
+21.0,21.0,,,,,,,55f5f76da2d6345df9000000,Comments: ,yes,no,Aviv,55f6018432991e86075a24e7,11216.003529,miscatches
+22.0,22.0,,,,,,,55f5f76da2d6345df9000000,Comments: ,yes,no,Aviv,55f6018432991e86075a24e7,11216.180111,miscatches
+23.0,23.0,,,,,,,5536bdc91ee54a1973000000,Comments: ,yes,no,Aviv,553f7daf35e8a5cf705eea5c,107.071909,miscatches
+24.0,24.0,,,,,,,561186d825614064f5000000,Comments: P3a too frontal,yes,no,Aviv,56118f344071c0807469e94a,826.035533,miscatches
+25.0,25.0,,,,,,,563e8795a2d6344000000000,Comments: P3a too frontal.,yes,no,Aviv,563e91de98d49e7e5f332494,117.938638,miscatches
+26.0,26.0,,,,,,,5526d7db6c40b10825000000,Comments: ,no,no,Aviv,552bda56bb13491c5132d174,75.656479,miscatches
+27.0,27.0,,,,,,,551b1ff56c40b14693000000,Comments: ,no,no,Aviv,5536534c24e6cdd83608c97c,125.039312,miscatches
+28.0,28.0,,,,,,,55fb60602561403644000000,Comments: ,yes,no,Aviv,55fb68384071c0807469d595,1814.220568,miscatches
+29.0,29.0,,,,,,,55d69898a2d63457dc000000,Comments: ,no,no,Aviv,55d6234132991e86075a0df5,128.875685,miscatches
+30.0,30.0,,,,,,,55f22531a2d63451f7000000,Comments: green line is not visible in P3a.,no,no,Aviv,55f22d9532991e86075a218d,147.578356,miscatches
+31.0,31.0,,,,,,,553026028c149b6380000000,Comments:P3a posterior,yes,no,Aviv,5534e642d16471ab5c2c5cbf,84.278539,miscatches
+32.0,32.0,,,,,,,5637ca11256140455b000000,Comments: P3a & P3b posterior due to negative shift ,yes,yes,Aviv,5637d1a8048db6162fb421bc,462.391261,miscatches
+33.0,33.0,,,,,,,56425548a2d6347f49000000,"Comments: activity more frontal, normal for young age",no,no,Aviv,56425f6098d49e7e5f332768,131.016111,miscatches
+34.0,34.0,,,,,,,550352a46c40b13676000000,Comments: ,no,no,Aviv,55035cbb40a873c1062bde9f,72.0651,miscatches
+35.0,35.0,,,,,,,55d54e7aa2d6346a5a000000,Comments: ,no,no,Aviv,55d4d8b432991e86075a0cba,233.854216,miscatches
+36.0,36.0,,,,,,,563e2ae0a2d6345fb6000000,Comments: P3a the peak is a bit frontal,no,no,Aviv,563e31ad98d49e7e5f332333,135.689067,miscatches
+37.0,37.0,,,,,,,55f8a1f6a2d6347c41000000,Comments: Time of the peak in needed for P3b,no,no,Aviv,55f8a95d32991e86075a26a8,126.8342,miscatches
+38.0,38.0,,,,,,,562ba500a2d6343406000000,Comments: ,no,no,Aviv,562bacf5048db6162fb416d2,497.774652,miscatches
+39.0,39.0,,,,,,,5669c0432561407f15000000,Comments: ,no,no,Aviv,5669c8a2d3acecc6549348f8,49.631095,miscatches
+40.0,40.0,,,,,,,5623e34f2561402c04000000,Comments: P3b double peak,yes,no,Aviv,5623eb49048db6162fb41043,64.147983,miscatches
+41.0,41.0,,,,,,,5542ad071ee54a1ef5000000,Comments: ,yes,no,Aviv,5542b7c1f37cae8908b4e09d,320.965986,miscatches
+42.0,42.0,,,,,,,566461692561405dc2000000,Comments: ,yes,no,Aviv,56646c67f7a5496b79edebfd,37.136952,miscatches
+43.0,43.0,,,,,,,566461692561405dc2000000,Comments: ,yes,no,Aviv,56646c67f7a5496b79edebfd,37.304767,miscatches
+44.0,44.0,,,,,,,5664bc5725614053fb000000,Comments: ,no,no,Aviv,5664c331f7a5496b79edec4e,46.09992,miscatches
+45.0,45.0,,,,,,,56d0f0a2dc35d3b51fe8e373,Comments: ,no,yes,Aviv,56d0fa1b201e63163804039c,143115.27344,miscatches
+46.0,46.0,,,,,,,563924845dbed713fa000000,"Comments:P3b not sure, catch is small and tend to the right, while p3 is visible in broad band in central electrodes too (this happens because of the negative shift)",no,no,Aviv,56392cb0048db6162fb423af,451.140573,miscatches
+47.0,47.0,,,,,,,557c3f4671a87f3a83000000,Comments: ,no,no,Aviv,557c491d04b3802b60a6a963,41.829738,miscatches
+48.0,48.0,,,,,,,5678478ffb0133672988fd9a,Comments: ,no,no,Aviv,56792aa8fcc5549d1b32f69c,36.885226,miscatches
+49.0,49.0,,,,,,,555d00f171a87f742b000000,Comments: ,no,no,Aviv,555ddda49201bcd934abe4e1,47.916374,miscatches
+50.0,50.0,,,,,,,5734ff1bcc9fe7320d2e7e92,Comments: Time point is needed for P3b,no,no,Aviv,57350a10053bfc7d172702f5,496.019696,miscatches
+51.0,51.0,,,,,,,,Comments: Time point is needed for P3b,no,no,Aviv,50ae4126fcf69ff41000001b,101.705543,miscatches
+52.0,52.0,,,,,,,,Comments: ,no,no,Aviv,509c22fa5b4378bc1000006a,59.71287,miscatches
+53.0,53.0,,,,,,,,Comments: P3b peak is a bit more frontal but not a miscatch,no,no,Aviv,52209688ad36552025000022,124.004934,miscatches
+54.0,54.0,,,,,,,,Comments: ,no,no,Aviv,50d40a6cce596ad005000068,59.333543,miscatches
+55.0,55.0,,,,,,,,Comments: Time point is needed for P3a.,no,no,Aviv,509cad455b4378bc10000129,232.424318,miscatches
+56.0,56.0,,,,,,,,Comments: Time point is needed for P3b,no,no,Aviv,50801917d6947ee41f000007,307.186991,miscatches
+57.0,57.0,,,,,,,,"Comments: Time point is needed for P3b, P3b more is frontal because of the negative shift of the comparison group",no,no,Aviv,508961e7b1d61ba83b00001d,143.189538,miscatches
+58.0,58.0,,,,,,,,Comments: P3b tiny catch,no,no,Aviv,5080239ed6947ee41f000043,91.335886,miscatches
+59.0,59.0,,,,,,,,Comments: p3a too frontal,yes,no,Aviv,50896251b1d61ba83b000032,78.470109,miscatches
+60.0,60.0,,,,,,,,Comments: ,no,no,Aviv,50ae4ee9fcf69ff410000027,116.046314,miscatches
+61.0,,,,,,,,,Comments: Time point is needed for P3a,no,no,Aviv,50abc8eb9f4a93d007000003,1257.280822,miscatches
+62.0,,,,,,,,,Comments: Time point is needed for P3b,no,no,Aviv,5080250fd6947ee41f000055,90.747913,miscatches
+63.0,,,,,,,,,Comments: P3a too frontal,yes,no,Aviv,5080198ed6947ee41f000010,303.657513,miscatches
+64.0,,,,,,,,,"Comments: large N200 in frontal electrodes reduce the P3a, and therefore it caught in posterior area",yes,no,Aviv,50896245b1d61ba83b000030,378.453632,miscatches
+65.0,,,,,,,,,Comments: ,no,no,Aviv,52209aedad36552025000026,66.857993,miscatches
+66.0,,,,,,,,,Comments: tiny catch due to flat signal in posterior electrodes,no,yes,Aviv,5220717cad36552025000004,165.660172,miscatches
+67.0,,,,,,,,,Comments: ,no,no,Aviv,50ae4349ac907de00500002a,82.368672,miscatches
+,,,,,,,,5612f9a2a158c62d2c000000,Comments: ,no,no,Aviv,5613019c4071c0807469ea7c,129.396777,miscatches
+,,,,,,,,56256d7ba2d6342f17000000,Comments: ,no,no,Aviv,562579d4048db6162fb41162,37.593678,miscatches
+,,,,,,,,556643ed71a87f0f0e000000,Comments: Time point is needed for P3b,no,no,Aviv,556718d8262166a430abe28b,36.683879,miscatches
+,,,,,,,,,Comments: ,no,yes,Aviv,518a10b5c7c602d013000006,1270.138838,miscatches
+,,,,,,,,,Comments: ,no,no,Aviv,50a52386b90a25dc070000a2,32.809325,miscatches
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,,55d02733a2d6341843000000,"Comments: Pz (P3b peak) caught double peak. there is no FC3, but the algorithm caught F3 and C3 (even though there is no green marks on those electrodes)",no,no,Aviv,55cfb2b05de8844106164222,1810.850373,miscatches
+1.0,1.0,1.0,1.0,1.0,1.0,,,5601d740a2d634148e000000,Comments: ,no,no,Aviv,5601e1b54071c0807469de30,54.54005,miscatches
+2.0,2.0,2.0,2.0,2.0,,,,55fb5954a2d63479ea000000,Comments: ,no,no,Aviv,55fb612f4071c0807469d581,67.375715,miscatches
+3.0,3.0,3.0,3.0,3.0,,,,56560b0e256140735b000000,Comments: ,no,no,Aviv,56561302f7a5496b79ede4d8,114.455363,miscatches
+4.0,4.0,4.0,4.0,4.0,,,,5525883b6c40b162be000000,Comments: P3a caught posterior activity,yes,no,Aviv,552bd9e01f2e8ffb507b11c3,89.481769,miscatches
+5.0,5.0,5.0,5.0,5.0,,,,550ddb726c40b12529000000,Comments:P3b catch is on broad time,no,no,Aviv,550de8b7694f0bc90e5a7784,118.560259,miscatches
+6.0,6.0,6.0,6.0,6.0,,,,56071a49a2d63405a1000000,Comments: P3b caught mostly later,no,no,Aviv,5607235d4071c0807469e294,48.27917,miscatches
+7.0,7.0,7.0,7.0,7.0,,,,55d658262561400df1000000,Comments: ,no,no,Aviv,55d6628d32991e86075a0e58,1264.966679,miscatches
+8.0,8.0,8.0,8.0,8.0,,,,571906e6c09c5de50c254884,Comments: ,no,no,Aviv,571911f52cbb7066795a786c,99.766962,miscatches
+9.0,9.0,9.0,9.0,9.0,,,,55d1fee42561406187000000,Comments: ,no,no,Aviv,55d208fc32991e86075a0a35,413.868177,miscatches
+10.0,10.0,10.0,10.0,10.0,,,,552ebdd78c149b22ac000000,Comments: ,yes,no,Aviv,5534e68ed16471ab5c2c6017,281.642782,miscatches
+11.0,11.0,11.0,11.0,11.0,,,,55106cb56c40b131e5000000,Comments: ,yes,no,Aviv,55107472694f0bc90e5a78b5,84.426221,miscatches
+12.0,12.0,12.0,12.0,12.0,,,,561312e6a2d634311e000000,Comments: ,no,no,Aviv,56131b684071c0807469eade,84.693435,miscatches
+13.0,13.0,13.0,13.0,13.0,,,,5654f4d8a2d63472de000000,Comments: ,yes,no,Aviv,5654fe2ff7a5496b79ede2d4,67.762333,miscatches
+14.0,14.0,14.0,14.0,14.0,,,,54ff61b06c40b12068000000,Comments: ,yes,no,Aviv,54ff6a4040a873c1062bdd82,72.23051,miscatches
+15.0,15.0,15.0,15.0,15.0,,,,55e8d3eea2d6344a4d000000,Comments: ,yes,no,Aviv,55e8dd5e32991e86075a1af0,182.925793,miscatches
+16.0,16.0,16.0,16.0,16.0,,,,554299301ee54a1442000000,Comments: P3b caught earlier,yes,no,Aviv,5542a753f37cae8908b4e07a,230.19088,miscatches
+17.0,17.0,17.0,17.0,17.0,,,,5536ad811ee54a1ffd000000,Comments: ,yes,no,Aviv,553f7daf35e8a5cf705eea6c,400.209656,miscatches
+18.0,18.0,18.0,18.0,18.0,,,,5536ad811ee54a1ffd000000,Comments: ,yes,no,Aviv,553f7daf35e8a5cf705eea6c,400.380539,miscatches
+19.0,19.0,19.0,19.0,,,,,56d0f0a2dc35d3b51fe8e373,Comments: ,no,no,Aviv,56d0fa1b201e63163804039c,63630.567992,miscatches
+20.0,20.0,20.0,20.0,,,,,566788cfa2d6340283000000,"Comments: P3a caught mostly in posterior, and peak is also more posterior",yes,no,Aviv,56679352f7a5496b79edef2c,468.943856,miscatches
+21.0,21.0,21.0,21.0,,,,,55f5f76da2d6345df9000000,Comments: ,yes,no,Aviv,55f6018432991e86075a24e7,11216.003529,miscatches
+22.0,22.0,22.0,22.0,,,,,55f5f76da2d6345df9000000,Comments: ,yes,no,Aviv,55f6018432991e86075a24e7,11216.180111,miscatches
+23.0,23.0,23.0,23.0,,,,,5536bdc91ee54a1973000000,Comments: ,yes,no,Aviv,553f7daf35e8a5cf705eea5c,107.071909,miscatches
+24.0,24.0,24.0,24.0,,,,,561186d825614064f5000000,Comments: P3a too frontal,yes,no,Aviv,56118f344071c0807469e94a,826.035533,miscatches
+25.0,25.0,25.0,25.0,,,,,563e8795a2d6344000000000,Comments: P3a too frontal.,yes,no,Aviv,563e91de98d49e7e5f332494,117.938638,miscatches
+26.0,26.0,26.0,26.0,,,,,5526d7db6c40b10825000000,Comments: ,no,no,Aviv,552bda56bb13491c5132d174,75.656479,miscatches
+27.0,27.0,27.0,27.0,,,,,551b1ff56c40b14693000000,Comments: ,no,no,Aviv,5536534c24e6cdd83608c97c,125.039312,miscatches
+28.0,28.0,28.0,28.0,,,,,55fb60602561403644000000,Comments: ,yes,no,Aviv,55fb68384071c0807469d595,1814.220568,miscatches
+29.0,29.0,29.0,29.0,,,,,55d69898a2d63457dc000000,Comments: ,no,no,Aviv,55d6234132991e86075a0df5,128.875685,miscatches
+30.0,30.0,30.0,30.0,,,,,55f22531a2d63451f7000000,Comments: green line is not visible in P3a.,no,no,Aviv,55f22d9532991e86075a218d,147.578356,miscatches
+31.0,31.0,31.0,31.0,,,,,553026028c149b6380000000,Comments:P3a posterior,yes,no,Aviv,5534e642d16471ab5c2c5cbf,84.278539,miscatches
+32.0,32.0,32.0,32.0,,,,,5637ca11256140455b000000,Comments: P3a & P3b posterior due to negative shift ,yes,yes,Aviv,5637d1a8048db6162fb421bc,462.391261,miscatches
+33.0,33.0,33.0,33.0,,,,,56425548a2d6347f49000000,"Comments: activity more frontal, normal for young age",no,no,Aviv,56425f6098d49e7e5f332768,131.016111,miscatches
+34.0,34.0,34.0,34.0,,,,,550352a46c40b13676000000,Comments: ,no,no,Aviv,55035cbb40a873c1062bde9f,72.0651,miscatches
+35.0,35.0,35.0,35.0,,,,,55d54e7aa2d6346a5a000000,Comments: ,no,no,Aviv,55d4d8b432991e86075a0cba,233.854216,miscatches
+36.0,36.0,36.0,36.0,,,,,563e2ae0a2d6345fb6000000,Comments: P3a the peak is a bit frontal,no,no,Aviv,563e31ad98d49e7e5f332333,135.689067,miscatches
+37.0,37.0,37.0,37.0,,,,,55f8a1f6a2d6347c41000000,Comments: Time of the peak in needed for P3b,no,no,Aviv,55f8a95d32991e86075a26a8,126.8342,miscatches
+38.0,38.0,38.0,38.0,,,,,562ba500a2d6343406000000,Comments: ,no,no,Aviv,562bacf5048db6162fb416d2,497.774652,miscatches
+39.0,39.0,39.0,39.0,,,,,5669c0432561407f15000000,Comments: ,no,no,Aviv,5669c8a2d3acecc6549348f8,49.631095,miscatches
+40.0,40.0,40.0,40.0,,,,,5623e34f2561402c04000000,Comments: P3b double peak,yes,no,Aviv,5623eb49048db6162fb41043,64.147983,miscatches
+41.0,41.0,41.0,41.0,,,,,5542ad071ee54a1ef5000000,Comments: ,yes,no,Aviv,5542b7c1f37cae8908b4e09d,320.965986,miscatches
+42.0,42.0,42.0,42.0,,,,,566461692561405dc2000000,Comments: ,yes,no,Aviv,56646c67f7a5496b79edebfd,37.136952,miscatches
+43.0,43.0,43.0,43.0,,,,,566461692561405dc2000000,Comments: ,yes,no,Aviv,56646c67f7a5496b79edebfd,37.304767,miscatches
+44.0,44.0,44.0,44.0,,,,,5664bc5725614053fb000000,Comments: ,no,no,Aviv,5664c331f7a5496b79edec4e,46.09992,miscatches
+45.0,45.0,45.0,45.0,,,,,56d0f0a2dc35d3b51fe8e373,Comments: ,no,yes,Aviv,56d0fa1b201e63163804039c,143115.27344,miscatches
+46.0,46.0,46.0,46.0,,,,,563924845dbed713fa000000,"Comments:P3b not sure, catch is small and tend to the right, while p3 is visible in broad band in central electrodes too (this happens because of the negative shift)",no,no,Aviv,56392cb0048db6162fb423af,451.140573,miscatches
+47.0,47.0,47.0,47.0,,,,,557c3f4671a87f3a83000000,Comments: ,no,no,Aviv,557c491d04b3802b60a6a963,41.829738,miscatches
+48.0,48.0,48.0,48.0,,,,,5678478ffb0133672988fd9a,Comments: ,no,no,Aviv,56792aa8fcc5549d1b32f69c,36.885226,miscatches
+49.0,49.0,49.0,49.0,,,,,555d00f171a87f742b000000,Comments: ,no,no,Aviv,555ddda49201bcd934abe4e1,47.916374,miscatches
+50.0,50.0,50.0,50.0,,,,,5734ff1bcc9fe7320d2e7e92,Comments: Time point is needed for P3b,no,no,Aviv,57350a10053bfc7d172702f5,496.019696,miscatches
+51.0,51.0,51.0,51.0,,,,,,Comments: Time point is needed for P3b,no,no,Aviv,50ae4126fcf69ff41000001b,101.705543,miscatches
+52.0,52.0,52.0,52.0,,,,,,Comments: ,no,no,Aviv,509c22fa5b4378bc1000006a,59.71287,miscatches
+53.0,53.0,53.0,53.0,,,,,,Comments: P3b peak is a bit more frontal but not a miscatch,no,no,Aviv,52209688ad36552025000022,124.004934,miscatches
+54.0,54.0,54.0,54.0,,,,,,Comments: ,no,no,Aviv,50d40a6cce596ad005000068,59.333543,miscatches
+55.0,55.0,55.0,55.0,,,,,,Comments: Time point is needed for P3a.,no,no,Aviv,509cad455b4378bc10000129,232.424318,miscatches
+56.0,56.0,56.0,56.0,,,,,,Comments: Time point is needed for P3b,no,no,Aviv,50801917d6947ee41f000007,307.186991,miscatches
+57.0,57.0,57.0,57.0,,,,,,"Comments: Time point is needed for P3b, P3b more is frontal because of the negative shift of the comparison group",no,no,Aviv,508961e7b1d61ba83b00001d,143.189538,miscatches
+58.0,58.0,58.0,58.0,,,,,,Comments: P3b tiny catch,no,no,Aviv,5080239ed6947ee41f000043,91.335886,miscatches
+59.0,59.0,59.0,59.0,,,,,,Comments: p3a too frontal,yes,no,Aviv,50896251b1d61ba83b000032,78.470109,miscatches
+60.0,60.0,60.0,60.0,,,,,,Comments: ,no,no,Aviv,50ae4ee9fcf69ff410000027,116.046314,miscatches
+61.0,61.0,61.0,,,,,,,Comments: Time point is needed for P3a,no,no,Aviv,50abc8eb9f4a93d007000003,1257.280822,miscatches
+62.0,62.0,62.0,,,,,,,Comments: Time point is needed for P3b,no,no,Aviv,5080250fd6947ee41f000055,90.747913,miscatches
+63.0,63.0,63.0,,,,,,,Comments: P3a too frontal,yes,no,Aviv,5080198ed6947ee41f000010,303.657513,miscatches
+64.0,64.0,64.0,,,,,,,"Comments: large N200 in frontal electrodes reduce the P3a, and therefore it caught in posterior area",yes,no,Aviv,50896245b1d61ba83b000030,378.453632,miscatches
+65.0,65.0,65.0,,,,,,,Comments: ,no,no,Aviv,52209aedad36552025000026,66.857993,miscatches
+66.0,66.0,66.0,,,,,,,Comments: tiny catch due to flat signal in posterior electrodes,no,yes,Aviv,5220717cad36552025000004,165.660172,miscatches
+67.0,67.0,67.0,,,,,,,Comments: ,no,no,Aviv,50ae4349ac907de00500002a,82.368672,miscatches
+68.0,68.0,,,,,,,5612f9a2a158c62d2c000000,Comments: ,no,no,Aviv,5613019c4071c0807469ea7c,129.396777,miscatches
+69.0,69.0,,,,,,,56256d7ba2d6342f17000000,Comments: ,no,no,Aviv,562579d4048db6162fb41162,37.593678,miscatches
+70.0,70.0,,,,,,,556643ed71a87f0f0e000000,Comments: Time point is needed for P3b,no,no,Aviv,556718d8262166a430abe28b,36.683879,miscatches
+71.0,71.0,,,,,,,,Comments: ,no,yes,Aviv,518a10b5c7c602d013000006,1270.138838,miscatches
+72.0,72.0,,,,,,,,Comments: ,no,no,Aviv,50a52386b90a25dc070000a2,32.809325,miscatches
+73.0,,,,,,,,,Comments: P3b is a bit anterior ,no,yes,Aviv,50f6528c93c0dde416000006,79.807934,miscatches
+74.0,,,,,,,,,Comments: ,no,no,Aviv,50a54bd0b90a25dc070000b1,40.607472,miscatches
+75.0,,,,,,,,,Comments: P3b is left lateralized,no,yes,Aviv,50a46013b90a25dc07000058,41.926179,miscatches
+76.0,,,,,,,,,Comments: ,yes,no,Aviv,50a59714b90a25dc070000c9,91.002854,miscatches
+77.0,,,,,,,,,Comments: ,no,no,Aviv,515c713e20514aa412000002,269.21798,miscatches
+78.0,,,,,,,,,Comments: ,no,no,Aviv,50f28445c1bd1cc80e000125,124.878906,miscatches
+79.0,,,,,,,,,Comments: P3 b anterior,no,yes,Aviv,5180999dcf0921641d000002,65.007551,miscatches
+80.0,,,,,,,,,Comments: ,no,no,Aviv,50a3bfcab90a25dc07000017,56.408549,miscatches
+81.0,,,,,,,,,Comments: ,no,no,Aviv,513c38d5cc6229e411000006,40.534953,miscatches
+82.0,,,,,,,,,Comments: ,no,no,Aviv,50a37b72b90a25dc07000003,22.089386,miscatches
+83.0,,,,,,,,,Comments: P3a posteior ,yes,no,Aviv,50a497ffb90a25dc0700006f,71.831117,miscatches
+,,,,,,,,563a5331a158c658a7000000,Comments: ,,,Aviv,563a5ad298d49e7e5f331f20,783.368503,miscatches
+,,,,,,,,563118d52561407143000000,Comments: P3a is miscatch ,yes,no,Aviv,56312243048db6162fb41c31,39.578563,miscatches
+,,,,,,,,563920e9a2d6346375000000,Comments: P3b is left lateralized and peak is strange (double peak),no,yes,Aviv,56392a58048db6162fb423a7,119.824505,miscatches
+,,,,,,,,553013578c149b0f9a000000,Comments: ,yes,yes,Aviv,5534e643d16471ab5c2c5cd4,57.724009,miscatches
+,,,,,,,,56367b832561403135000000,Comments: ,no,no,Aviv,5819c62503086d311508461c,44.692281,miscatches
+,,,,,,,,564280dfa2d634220e000000,Comments: P3b is strange (double peak) ,no,no,Aviv,5642874298d49e7e5f3327f1,44.675633,miscatches
+,,,,,,,,55119a676c40b1360e000000,Comments: ,no,no,Aviv,5511a535694f0bc90e5a7951,24.194598,miscatches
+,,,,,,,,5633cba9a2d63474da000000,Comments: ,no,yes,Aviv,5633d5e0048db6162fb41f2b,27.393337,miscatches
+,,,,,,,,56380cc6a2d6344eeb000000,Comments: P3b is anterior ,no,yes,Aviv,563815a7048db6162fb42295,41.374883,miscatches
+,,,,,,,,562be254a158c61ad6000000,Comments: ,no,no,Aviv,562be9ec048db6162fb41794,26.891229,miscatches
+,,,,,,,,55f71fcea158c63fb1000000,"Comments: P3a is a miscatch in genaral, posterior activity is incorrect and frontal activity is strange",yes,no,Aviv,55f728e532991e86075a257b,62.166461,miscatches
+,,,,,,,,563a5f41a2d63434b0000000,Comments: P3a is posterior ,yes,no,Aviv,563a668d98d49e7e5f331f45,65.908212,miscatches
+,,,,,,,,551d7fd16c40b16bf7000000,Comments: ,no,no,Aviv,552bd9e91f2e8ffb507b12b8,44.466682,miscatches
+,,,,,,,,55356b7b1ee54a0045000000,Comments: ,no,no,Aviv,55361173d16471ab5c2cc281,48.200776,miscatches
+,,,,,,,,55f9b7702561404e99000000,Comments: P3a is miscatch ,yes,no,Aviv,55f9bfe34071c0807469d3c0,50.784155,miscatches
+,,,,,,,,56194daba158c62d01000000,Comments: P3a there is some posterior miscatch ,no,yes,Aviv,5619563a83609b152d5ebd60,74.910743,miscatches
+,,,,,,,,550b5b616c40b11b92000000,Comments: P3b is anterior ,no,yes,Aviv,550b68b8694f0bc90e5a76c0,44.112237,miscatches
+,,,,,,,,5643ce562561400525000000,"Comments: P3a too learly, P3b left lateralized",yes,yes,Aviv,5643d46198d49e7e5f33292c,76.895259,miscatches
+,,,,,,,,551ad7ec6c40b17e5d000000,Comments: ,no,no,Aviv,55211a2c720ce0a974fa5f8b,32.374101,miscatches
+,,,,,,,,55f8445aa158c62bf6000000,Comments: ,no,no,Aviv,55f8504732991e86075a2634,25.979062,miscatches
+0.0,0.0,0.0,,,,,,55d02733a2d6341843000000,"Comments: Pz (P3b peak) caught double peak. there is no FC3, but the algorithm caught F3 and C3 (even though there is no green marks on those electrodes)",no,no,Aviv,55cfb2b05de8844106164222,1810.850373,miscatches
+1.0,1.0,,,,,,,5601d740a2d634148e000000,Comments: ,no,no,Aviv,5601e1b54071c0807469de30,54.54005,miscatches
+2.0,,,,,,,,55fb5954a2d63479ea000000,Comments: ,no,no,Aviv,55fb612f4071c0807469d581,67.375715,miscatches
+3.0,,,,,,,,56560b0e256140735b000000,Comments: ,no,no,Aviv,56561302f7a5496b79ede4d8,114.455363,miscatches
+4.0,,,,,,,,5525883b6c40b162be000000,Comments: P3a caught posterior activity,yes,no,Aviv,552bd9e01f2e8ffb507b11c3,89.481769,miscatches
+5.0,,,,,,,,550ddb726c40b12529000000,Comments:P3b catch is on broad time,no,no,Aviv,550de8b7694f0bc90e5a7784,118.560259,miscatches
+6.0,,,,,,,,56071a49a2d63405a1000000,Comments: P3b caught mostly later,no,no,Aviv,5607235d4071c0807469e294,48.27917,miscatches
+7.0,,,,,,,,55d658262561400df1000000,Comments: ,no,no,Aviv,55d6628d32991e86075a0e58,1264.966679,miscatches
+8.0,,,,,,,,571906e6c09c5de50c254884,Comments: ,no,no,Aviv,571911f52cbb7066795a786c,99.766962,miscatches
+9.0,,,,,,,,55d1fee42561406187000000,Comments: ,no,no,Aviv,55d208fc32991e86075a0a35,413.868177,miscatches
+10.0,,,,,,,,552ebdd78c149b22ac000000,Comments: ,yes,no,Aviv,5534e68ed16471ab5c2c6017,281.642782,miscatches
+11.0,,,,,,,,55106cb56c40b131e5000000,Comments: ,yes,no,Aviv,55107472694f0bc90e5a78b5,84.426221,miscatches
+12.0,,,,,,,,561312e6a2d634311e000000,Comments: ,no,no,Aviv,56131b684071c0807469eade,84.693435,miscatches
+13.0,,,,,,,,5654f4d8a2d63472de000000,Comments: ,yes,no,Aviv,5654fe2ff7a5496b79ede2d4,67.762333,miscatches
+14.0,,,,,,,,54ff61b06c40b12068000000,Comments: ,yes,no,Aviv,54ff6a4040a873c1062bdd82,72.23051,miscatches
+15.0,,,,,,,,55e8d3eea2d6344a4d000000,Comments: ,yes,no,Aviv,55e8dd5e32991e86075a1af0,182.925793,miscatches
+16.0,,,,,,,,554299301ee54a1442000000,Comments: P3b caught earlier,yes,no,Aviv,5542a753f37cae8908b4e07a,230.19088,miscatches
+17.0,,,,,,,,5536ad811ee54a1ffd000000,Comments: ,yes,no,Aviv,553f7daf35e8a5cf705eea6c,400.209656,miscatches
+18.0,,,,,,,,5536ad811ee54a1ffd000000,Comments: ,yes,no,Aviv,553f7daf35e8a5cf705eea6c,400.380539,miscatches
+,,,,,,,,56d0f0a2dc35d3b51fe8e373,Comments: ,no,no,Aviv,56d0fa1b201e63163804039c,63630.567992,miscatches
+,,,,,,,,566788cfa2d6340283000000,"Comments: P3a caught mostly in posterior, and peak is also more posterior",yes,no,Aviv,56679352f7a5496b79edef2c,468.943856,miscatches
+,,,,,,,,55f5f76da2d6345df9000000,Comments: ,yes,no,Aviv,55f6018432991e86075a24e7,11216.003529,miscatches
+,,,,,,,,5536bdc91ee54a1973000000,Comments: ,yes,no,Aviv,553f7daf35e8a5cf705eea5c,107.071909,miscatches
+,,,,,,,,561186d825614064f5000000,Comments: P3a too frontal,yes,no,Aviv,56118f344071c0807469e94a,826.035533,miscatches
+,,,,,,,,563e8795a2d6344000000000,Comments: P3a too frontal.,yes,no,Aviv,563e91de98d49e7e5f332494,117.938638,miscatches
+,,,,,,,,5526d7db6c40b10825000000,Comments: ,no,no,Aviv,552bda56bb13491c5132d174,75.656479,miscatches
+,,,,,,,,551b1ff56c40b14693000000,Comments: ,no,no,Aviv,5536534c24e6cdd83608c97c,125.039312,miscatches
+,,,,,,,,55fb60602561403644000000,Comments: ,yes,no,Aviv,55fb68384071c0807469d595,1814.220568,miscatches
+,,,,,,,,55d69898a2d63457dc000000,Comments: ,no,no,Aviv,55d6234132991e86075a0df5,128.875685,miscatches
+,,,,,,,,55f22531a2d63451f7000000,Comments: green line is not visible in P3a.,no,no,Aviv,55f22d9532991e86075a218d,147.578356,miscatches
+,,,,,,,,553026028c149b6380000000,Comments:P3a posterior,yes,no,Aviv,5534e642d16471ab5c2c5cbf,84.278539,miscatches
+,,,,,,,,5637ca11256140455b000000,Comments: P3a & P3b posterior due to negative shift ,yes,yes,Aviv,5637d1a8048db6162fb421bc,462.391261,miscatches
+,,,,,,,,56425548a2d6347f49000000,"Comments: activity more frontal, normal for young age",no,no,Aviv,56425f6098d49e7e5f332768,131.016111,miscatches
+,,,,,,,,550352a46c40b13676000000,Comments: ,no,no,Aviv,55035cbb40a873c1062bde9f,72.0651,miscatches
+,,,,,,,,55d54e7aa2d6346a5a000000,Comments: ,no,no,Aviv,55d4d8b432991e86075a0cba,233.854216,miscatches
+,,,,,,,,563e2ae0a2d6345fb6000000,Comments: P3a the peak is a bit frontal,no,no,Aviv,563e31ad98d49e7e5f332333,135.689067,miscatches
+,,,,,,,,55f8a1f6a2d6347c41000000,Comments: Time of the peak in needed for P3b,no,no,Aviv,55f8a95d32991e86075a26a8,126.8342,miscatches
+,,,,,,,,562ba500a2d6343406000000,Comments: ,no,no,Aviv,562bacf5048db6162fb416d2,497.774652,miscatches
+,,,,,,,,5669c0432561407f15000000,Comments: ,no,no,Aviv,5669c8a2d3acecc6549348f8,49.631095,miscatches
+,,,,,,,,5623e34f2561402c04000000,Comments: P3b double peak,yes,no,Aviv,5623eb49048db6162fb41043,64.147983,miscatches
+,,,,,,,,5542ad071ee54a1ef5000000,Comments: ,yes,no,Aviv,5542b7c1f37cae8908b4e09d,320.965986,miscatches
+,,,,,,,,566461692561405dc2000000,Comments: ,yes,no,Aviv,56646c67f7a5496b79edebfd,37.136952,miscatches
+,,,,,,,,5664bc5725614053fb000000,Comments: ,no,no,Aviv,5664c331f7a5496b79edec4e,46.09992,miscatches
+,,,,,,,,56d0f0a2dc35d3b51fe8e373,Comments: ,no,yes,Aviv,56d0fa1b201e63163804039c,143115.27344,miscatches
+,,,,,,,,563924845dbed713fa000000,"Comments:P3b not sure, catch is small and tend to the right, while p3 is visible in broad band in central electrodes too (this happens because of the negative shift)",no,no,Aviv,56392cb0048db6162fb423af,451.140573,miscatches
+,,,,,,,,557c3f4671a87f3a83000000,Comments: ,no,no,Aviv,557c491d04b3802b60a6a963,41.829738,miscatches
+,,,,,,,,5678478ffb0133672988fd9a,Comments: ,no,no,Aviv,56792aa8fcc5549d1b32f69c,36.885226,miscatches
+,,,,,,,,555d00f171a87f742b000000,Comments: ,no,no,Aviv,555ddda49201bcd934abe4e1,47.916374,miscatches
+,,,,,,,,5734ff1bcc9fe7320d2e7e92,Comments: Time point is needed for P3b,no,no,Aviv,57350a10053bfc7d172702f5,496.019696,miscatches
+,,,,,,,,,Comments: Time point is needed for P3b,no,no,Aviv,50ae4126fcf69ff41000001b,101.705543,miscatches
+,,,,,,,,,Comments: ,no,no,Aviv,509c22fa5b4378bc1000006a,59.71287,miscatches
+,,,,,,,,,Comments: P3b peak is a bit more frontal but not a miscatch,no,no,Aviv,52209688ad36552025000022,124.004934,miscatches
+,,,,,,,,,Comments: ,no,no,Aviv,50d40a6cce596ad005000068,59.333543,miscatches
+,,,,,,,,,Comments: Time point is needed for P3a.,no,no,Aviv,509cad455b4378bc10000129,232.424318,miscatches
+,,,,,,,,,Comments: Time point is needed for P3b,no,no,Aviv,50801917d6947ee41f000007,307.186991,miscatches
+0.0,0.0,,,,,,,563a8e0ea2d6340632000000,Comments: P3a is miscatch unrelated to peak ,yes,no,Keren,563a957898d49e7e5f331f77,3594.711348,miscatches
+1.0,1.0,,,,,,,563fb6ef256140241e000000,Comments: P3a max peak of subject is in Fz,yes,no,Keren,563fc07998d49e7e5f3325cb,227.435794,miscatches
+2.0,2.0,,,,,,,560d7598a158c625fc000000,Comments: No group  in Novel,no,no,Keren,560d7e534071c0807469e65e,16131.383245,miscatches
+3.0,,,,,,,,554a41431ee54a37af000000,Comments: ,no,no,Keren,554a4ce1f37cae8908b4e269,76852.618193,miscatches
+4.0,,,,,,,,563a59f425614003cf000000,Comments: terrible data ,yes,yes,Keren,563a61dc98d49e7e5f331f39,53.172988,miscatches
+5.0,,,,,,,,551442bb6c40b17a6a000000,Comments: ,no,no,Keren,55144c6e694f0bc90e5a89d0,42.88678,miscatches
+6.0,,,,,,,,551460376c40b10747000000,Comments: ,no,no,Keren,55146f9a694f0bc90e5a89fa,24.268803,miscatches
+7.0,,,,,,,,56429b41a2d6344356000000,Comments: P3a bad ,yes,no,Keren,5642a5c198d49e7e5f33281c,35.255672,miscatches
+8.0,,,,,,,,563962d9a2d6347586000000,Comments: ,no,no,Keren,56396c08048db6162fb42486,21.331911,miscatches
+9.0,,,,,,,,564233e125614051f5000000,"Comments: P3a miscatch of frontal electrodes, P3b is also miscatch ",no,yes,Keren,56423c2f98d49e7e5f332706,63.36851,miscatches
+,,,,,,,,56422362a158c60f04000000,Comments: ,,,Keren,56422bc398d49e7e5f3326d9,25.427671,miscatches
+,,,,,,,,5632648025614049e6000000,Comments: ,yes,no,Keren,56326f2c048db6162fb41dbc,2336.122384,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,518031c7a7d22c1001000002,266.263154,miscatches
+,,,,,,,,,Comments: P3a posterior,yes,no,Keren,50a43387b90a25dc07000046,29.343342,miscatches
+,,,,,,,,,Comments: ,yes,yes,Keren,5177081e296de05819000002,981.551848,miscatches
+,,,,,,,,,Comments: ,yes,yes,Keren,50f2862bb006368814000013,1432.157166,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,518a187ac7c602d01300000a,156.462049,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50a3d62ab90a25dc07000020,212.107797,miscatches
+,,,,,,,,,Comments: ,yes,no,Keren,521b296a18e526f027000003,31.641077,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,518a093fc7c602d013000002,25.567811,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50a3e4feb90a25dc07000026,40.603775,miscatches
+,,,,,,,,,Comments: P3b is anterior ,no,yes,Keren,50a53b48b90a25dc070000ab,2102.016334,miscatches
+,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,50a55bc8b90a25dc070000b7,37.925333,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50a48914b90a25dc07000069,83.194449,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50a49f2fb90a25dc07000072,33.497951,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50a509d5b90a25dc07000099,38.029676,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50f28318b006368814000008,28.164566,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50802f91d6947ee41f0000fa,35.559696,miscatches
+,,,,,,,,,Comments: P3b is not clear ,no,yes,Keren,509cb7ae5b4378bc10000138,50.005084,miscatches
+,,,,,,,,,Comments: ,yes,no,Keren,50803362d6947ee41f000145,67.286832,miscatches
+,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,509be21b5b4378bc1000000e,55.798668,miscatches
+,,,,,,,,,Comments: ,yes,no,Keren,50ae6be6ac907de005000057,32.269872,miscatches
+,,,,,,,,,Comments: ,yes,no,Keren,509c91c55b4378bc10000100,44.588679,miscatches
+,,,,,,,,,Comments: P3b is left lateralized ,no,yes,Keren,509c2c2f5b4378bc10000076,42.027477,miscatches
+,,,,,,,,,Comments: P3b anterior ,no,yes,Keren,5080302ed6947ee41f000106,29.405268,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,508030f4d6947ee41f000115,4521.289015,miscatches
+,,,,,,,,,Comments: P3b anterior ,no,yes,Keren,508962eab1d61ba83b000051,45.268792,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,509bd221bd31eb1816000008,41.424796,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50802e1ed6947ee41f0000df,38.204128,miscatches
+,,,,,,,,,Comments: P3b anterior ,no,yes,Keren,509c01c35b4378bc1000003a,33.66029,miscatches
+,,,,,,,,,Comments: P3b is bad,no,yes,Keren,5089633cb1d61ba83b000060,35.892134,miscatches
+,,,,,,,,,Comments: ,no,yes,Keren,50896404b1d61ba83b000085,3275.660345,miscatches
+,,,,,,,,,Comments: P3b anterior ,no,yes,Keren,5080307fd6947ee41f00010c,2405.640012,miscatches
+,,,,,,,,,Comments: P3a posterior ,yes,no,Keren,509bd626bd31eb181600000e,57.246978,miscatches
+,,,,,,,,,Comments: P3a posterior ,yes,no,Keren,50802be9d6947ee41f0000b5,42.346283,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50896362b1d61ba83b000068,50.873296,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,509c273f5b4378bc10000070,34.977556,miscatches
+,,,,,,,,,Comments: P3a posterior ,yes,no,Keren,50802dcfd6947ee41f0000d9,90.710239,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50802f0ed6947ee41f0000f1,40.537948,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,5089634ab1d61ba83b000063,49.043115,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50802fdfd6947ee41f000100,64.324761,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50b38ed6b22510d810000027,34.017097,miscatches
+,,,,,,,,,Comments: P3b posterior ,no,yes,Keren,50803008d6947ee41f000103,76.898438,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,508963a1b1d61ba83b000074,47.287535,miscatches
+,,,,,,,,55cb8ff4b078d61ccd000000,Comments: ,no,no,Keren,55cb9d215de8844106164011,471.762224,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,509c6bd35b4378bc100000c7,81.099319,miscatches
+,,,,,,,,558c641c71a87f69d2000000,Comments: P3b anterior ,no,yes,Keren,558c701e04b3802b60a6aded,45.286144,miscatches
+,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,50b38ee3b22510d810000028,85.583471,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50802584d6947ee41f00005b,101.371094,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50ae5e24ac907de005000045,172.518052,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50802d5fd6947ee41f0000d0,78.672165,miscatches
+,,,,,,,,,Comments: P,no,no,Keren,509bf4c15b4378bc10000028,3310.042566,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,508031dbd6947ee41f000127,83.163665,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,509a691c4fb9ac7c07000001,335.843768,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50990e90178828cc12000001,35.277354,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,5080270ad6947ee41f000070,58.210876,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,509bd4c6bd31eb181600000c,70.169117,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50803226d6947ee41f00012d,22.166547,miscatches
+,,,,,,,,,Comments: P3b not detected ,no,yes,Keren,50896303b1d61ba83b000056,42.488536,miscatches
+,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,509c85915b4378bc100000ee,39.819866,miscatches
+,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,50802c13d6947ee41f0000b8,62.037402,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,508963eab1d61ba83b000080,67.62392,miscatches
+,,,,,,,,,Comments: ,yes,no,Keren,50803312d6947ee41f00013f,26.046967,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,508033ffd6947ee41f000151,47.621764,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50803142d6947ee41f00011b,34.288442,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,509ced0c5bc83eb417000002,32.707948,miscatches
+,,,,,,,,,Comments: P3b anterior ,no,yes,Keren,5089631bb1d61ba83b00005b,61.542723,miscatches
+,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,50803168d6947ee41f00011e,343.166196,miscatches
+,,,,,,,,,Comments: P3b is very spread ,no,yes,Keren,50802d84d6947ee41f0000d3,52.141975,miscatches
+,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,5080318ed6947ee41f000121,296.366072,miscatches
+,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,509c58395b4378bc100000a9,83.396692,miscatches
+,,,,,,,,,Comments: not clear why the P3b peak is in C3,no,yes,Keren,50802e70d6947ee41f0000e5,45190.256305,miscatches
+,,,,,,,,,Comments: P3a posterior and lateralized to the left,yes,no,Keren,50896292b1d61ba83b000040,42.97881,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50802daad6947ee41f0000d6,33.575754,miscatches
+,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,50802d15d6947ee41f0000ca,37.245568,miscatches
+,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,509c8f875b4378bc100000fd,41.720705,miscatches
+,,,,,,,,566d9b115dbed77366000000,Comments: ,yes,yes,Keren,566da1ced3acecc654934acb,81.785839,miscatches
+,,,,,,,,564760c55dbed77ed8000000,Comments: Peaks hardly detected and left lateralized ,yes,yes,Keren,5647672a98d49e7e5f332b81,66.992316,miscatches
+,,,,,,,,5576077f71a87f58b9000000,Comments: P3b looks like a miscatch not just because of location ,no,yes,Keren,55768fe704b3802b60a6a65e,206.790922,miscatches
+,,,,,,,,5644f4955dbed715f7000000,Comments: ,no,no,Keren,5644fbee98d49e7e5f332a21,66.616061,miscatches
+,,,,,,,,566f261d5dbed70e83000000,Comments: P3b looks like a mismatch regardless of site,no,yes,Keren,566f2e40d3acecc654934b40,432.357249,miscatches
+,,,,,,,,,Comments: P3b miscatch ,no,yes,Keren,50a3c0762bc73e541c000009,1953.819592,miscatches
+,,,,,,,,,Comments: P3a is miscatch ,yes,no,Keren,50801a44d6947ee41f00001c,63.38926,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,5220a9f1ad36552025000032,53.300554,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,522325c727fb0f9c16000001,71.893536,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50ae30cf0ffd6c401e000001,43.834741,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50b75327ebe23e6415000007,43.972099,miscatches
+,,,,,,,,,Comments: ,no,no,Keren,50b3985c33cb300c10000002,32.18339,miscatches
+,,,,,,,,,Comments: ,yes,yes,Keren,5089618cb1d61ba83b00000a,34.708595,miscatches
+0.0,0.0,0.0,,,,,,563a8e0ea2d6340632000000,Comments: P3a is miscatch unrelated to peak ,yes,no,Keren,563a957898d49e7e5f331f77,3594.711348,miscatches
+1.0,1.0,1.0,,,,,,563fb6ef256140241e000000,Comments: P3a max peak of subject is in Fz,yes,no,Keren,563fc07998d49e7e5f3325cb,227.435794,miscatches
+2.0,2.0,2.0,,,,,,560d7598a158c625fc000000,Comments: No group  in Novel,no,no,Keren,560d7e534071c0807469e65e,16131.383245,miscatches
+3.0,3.0,,,,,,,554a41431ee54a37af000000,Comments: ,no,no,Keren,554a4ce1f37cae8908b4e269,76852.618193,miscatches
+4.0,4.0,,,,,,,563a59f425614003cf000000,Comments: terrible data ,yes,yes,Keren,563a61dc98d49e7e5f331f39,53.172988,miscatches
+5.0,5.0,,,,,,,551442bb6c40b17a6a000000,Comments: ,no,no,Keren,55144c6e694f0bc90e5a89d0,42.88678,miscatches
+6.0,6.0,,,,,,,551460376c40b10747000000,Comments: ,no,no,Keren,55146f9a694f0bc90e5a89fa,24.268803,miscatches
+7.0,7.0,,,,,,,56429b41a2d6344356000000,Comments: P3a bad ,yes,no,Keren,5642a5c198d49e7e5f33281c,35.255672,miscatches
+8.0,8.0,,,,,,,563962d9a2d6347586000000,Comments: ,no,no,Keren,56396c08048db6162fb42486,21.331911,miscatches
+9.0,9.0,,,,,,,564233e125614051f5000000,"Comments: P3a miscatch of frontal electrodes, P3b is also miscatch ",no,yes,Keren,56423c2f98d49e7e5f332706,63.36851,miscatches
+10.0,,,,,,,,56422362a158c60f04000000,Comments: ,,,Keren,56422bc398d49e7e5f3326d9,25.427671,miscatches
+11.0,,,,,,,,5632648025614049e6000000,Comments: ,yes,no,Keren,56326f2c048db6162fb41dbc,2336.122384,miscatches
+12.0,,,,,,,,,Comments: ,no,no,Keren,518031c7a7d22c1001000002,266.263154,miscatches
+13.0,,,,,,,,,Comments: P3a posterior,yes,no,Keren,50a43387b90a25dc07000046,29.343342,miscatches
+14.0,,,,,,,,,Comments: ,yes,yes,Keren,5177081e296de05819000002,981.551848,miscatches
+15.0,,,,,,,,,Comments: ,yes,yes,Keren,50f2862bb006368814000013,1432.157166,miscatches
+16.0,,,,,,,,,Comments: ,no,no,Keren,518a187ac7c602d01300000a,156.462049,miscatches
+17.0,,,,,,,,,Comments: ,no,no,Keren,50a3d62ab90a25dc07000020,212.107797,miscatches
+18.0,,,,,,,,,Comments: ,yes,no,Keren,521b296a18e526f027000003,31.641077,miscatches
+19.0,,,,,,,,,Comments: ,no,no,Keren,518a093fc7c602d013000002,25.567811,miscatches
+20.0,,,,,,,,,Comments: ,no,no,Keren,50a3e4feb90a25dc07000026,40.603775,miscatches
+21.0,,,,,,,,,Comments: P3b is anterior ,no,yes,Keren,50a53b48b90a25dc070000ab,2102.016334,miscatches
+22.0,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,50a55bc8b90a25dc070000b7,37.925333,miscatches
+23.0,,,,,,,,,Comments: ,no,no,Keren,50a48914b90a25dc07000069,83.194449,miscatches
+24.0,,,,,,,,,Comments: ,no,no,Keren,50a49f2fb90a25dc07000072,33.497951,miscatches
+25.0,,,,,,,,,Comments: ,no,no,Keren,50a509d5b90a25dc07000099,38.029676,miscatches
+26.0,,,,,,,,,Comments: ,no,no,Keren,50f28318b006368814000008,28.164566,miscatches
+27.0,,,,,,,,,Comments: ,no,no,Keren,50802f91d6947ee41f0000fa,35.559696,miscatches
+28.0,,,,,,,,,Comments: P3b is not clear ,no,yes,Keren,509cb7ae5b4378bc10000138,50.005084,miscatches
+29.0,,,,,,,,,Comments: ,yes,no,Keren,50803362d6947ee41f000145,67.286832,miscatches
+30.0,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,509be21b5b4378bc1000000e,55.798668,miscatches
+31.0,,,,,,,,,Comments: ,yes,no,Keren,50ae6be6ac907de005000057,32.269872,miscatches
+32.0,,,,,,,,,Comments: ,yes,no,Keren,509c91c55b4378bc10000100,44.588679,miscatches
+33.0,,,,,,,,,Comments: P3b is left lateralized ,no,yes,Keren,509c2c2f5b4378bc10000076,42.027477,miscatches
+34.0,,,,,,,,,Comments: P3b anterior ,no,yes,Keren,5080302ed6947ee41f000106,29.405268,miscatches
+35.0,,,,,,,,,Comments: ,no,no,Keren,508030f4d6947ee41f000115,4521.289015,miscatches
+36.0,,,,,,,,,Comments: P3b anterior ,no,yes,Keren,508962eab1d61ba83b000051,45.268792,miscatches
+37.0,,,,,,,,,Comments: ,no,no,Keren,509bd221bd31eb1816000008,41.424796,miscatches
+38.0,,,,,,,,,Comments: ,no,no,Keren,50802e1ed6947ee41f0000df,38.204128,miscatches
+39.0,,,,,,,,,Comments: P3b anterior ,no,yes,Keren,509c01c35b4378bc1000003a,33.66029,miscatches
+40.0,,,,,,,,,Comments: P3b is bad,no,yes,Keren,5089633cb1d61ba83b000060,35.892134,miscatches
+41.0,,,,,,,,,Comments: ,no,yes,Keren,50896404b1d61ba83b000085,3275.660345,miscatches
+42.0,,,,,,,,,Comments: P3b anterior ,no,yes,Keren,5080307fd6947ee41f00010c,2405.640012,miscatches
+43.0,,,,,,,,,Comments: P3a posterior ,yes,no,Keren,509bd626bd31eb181600000e,57.246978,miscatches
+44.0,,,,,,,,,Comments: P3a posterior ,yes,no,Keren,50802be9d6947ee41f0000b5,42.346283,miscatches
+45.0,,,,,,,,,Comments: ,no,no,Keren,50896362b1d61ba83b000068,50.873296,miscatches
+46.0,,,,,,,,,Comments: ,no,no,Keren,509c273f5b4378bc10000070,34.977556,miscatches
+47.0,,,,,,,,,Comments: P3a posterior ,yes,no,Keren,50802dcfd6947ee41f0000d9,90.710239,miscatches
+48.0,,,,,,,,,Comments: ,no,no,Keren,50802f0ed6947ee41f0000f1,40.537948,miscatches
+49.0,,,,,,,,,Comments: ,no,no,Keren,5089634ab1d61ba83b000063,49.043115,miscatches
+50.0,,,,,,,,,Comments: ,no,no,Keren,50802fdfd6947ee41f000100,64.324761,miscatches
+51.0,,,,,,,,,Comments: ,no,no,Keren,50b38ed6b22510d810000027,34.017097,miscatches
+52.0,,,,,,,,5632648025614049e6000000,Comments: ,yes,no,Keren,56326f2c048db6162fb41dbc,19147.908297,miscatches
+53.0,,,,,,,,,Comments: P3b posterior ,no,yes,Keren,50803008d6947ee41f000103,76.898438,miscatches
+54.0,,,,,,,,,Comments: ,no,no,Keren,508963a1b1d61ba83b000074,47.287535,miscatches
+55.0,,,,,,,,55cb8ff4b078d61ccd000000,Comments: ,no,no,Keren,55cb9d215de8844106164011,471.762224,miscatches
+56.0,,,,,,,,,Comments: ,no,no,Keren,509c6bd35b4378bc100000c7,81.099319,miscatches
+57.0,,,,,,,,558c641c71a87f69d2000000,Comments: P3b anterior ,no,yes,Keren,558c701e04b3802b60a6aded,45.286144,miscatches
+58.0,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,50b38ee3b22510d810000028,85.583471,miscatches
+59.0,,,,,,,,,Comments: ,no,no,Keren,50802584d6947ee41f00005b,101.371094,miscatches
+60.0,,,,,,,,,Comments: ,no,no,Keren,50ae5e24ac907de005000045,172.518052,miscatches
+61.0,,,,,,,,,Comments: ,no,no,Keren,50802d5fd6947ee41f0000d0,78.672165,miscatches
+62.0,,,,,,,,,Comments: P,no,no,Keren,509bf4c15b4378bc10000028,3310.042566,miscatches
+63.0,,,,,,,,,Comments: ,no,no,Keren,508031dbd6947ee41f000127,83.163665,miscatches
+64.0,,,,,,,,,Comments: ,no,no,Keren,509a691c4fb9ac7c07000001,335.843768,miscatches
+65.0,,,,,,,,,Comments: ,no,no,Keren,50990e90178828cc12000001,35.277354,miscatches
+66.0,,,,,,,,,Comments: ,no,no,Keren,5080270ad6947ee41f000070,58.210876,miscatches
+67.0,,,,,,,,,Comments: ,no,no,Keren,509bd4c6bd31eb181600000c,70.169117,miscatches
+68.0,,,,,,,,,Comments: ,no,no,Keren,50803226d6947ee41f00012d,22.166547,miscatches
+69.0,,,,,,,,,Comments: P3b not detected ,no,yes,Keren,50896303b1d61ba83b000056,42.488536,miscatches
+70.0,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,509c85915b4378bc100000ee,39.819866,miscatches
+71.0,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,50802c13d6947ee41f0000b8,62.037402,miscatches
+72.0,,,,,,,,,Comments: ,no,no,Keren,508963eab1d61ba83b000080,67.62392,miscatches
+73.0,,,,,,,,,Comments: ,yes,no,Keren,50803312d6947ee41f00013f,26.046967,miscatches
+74.0,,,,,,,,,Comments: ,no,no,Keren,508033ffd6947ee41f000151,47.621764,miscatches
+75.0,,,,,,,,,Comments: ,no,no,Keren,50803142d6947ee41f00011b,34.288442,miscatches
+76.0,,,,,,,,,Comments: ,no,no,Keren,509ced0c5bc83eb417000002,32.707948,miscatches
+77.0,,,,,,,,,Comments: P3b anterior ,no,yes,Keren,5089631bb1d61ba83b00005b,61.542723,miscatches
+78.0,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,50803168d6947ee41f00011e,343.166196,miscatches
+79.0,,,,,,,,,Comments: P3b is very spread ,no,yes,Keren,50802d84d6947ee41f0000d3,52.141975,miscatches
+80.0,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,5080318ed6947ee41f000121,296.366072,miscatches
+81.0,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,509c58395b4378bc100000a9,83.396692,miscatches
+82.0,,,,,,,,,Comments: not clear why the P3b peak is in C3,no,yes,Keren,50802e70d6947ee41f0000e5,45190.256305,miscatches
+83.0,,,,,,,,,Comments: P3a posterior and lateralized to the left,yes,no,Keren,50896292b1d61ba83b000040,42.97881,miscatches
+84.0,,,,,,,,,Comments: ,no,no,Keren,50802daad6947ee41f0000d6,33.575754,miscatches
+85.0,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,50802d15d6947ee41f0000ca,37.245568,miscatches
+86.0,,,,,,,,,Comments: P3a is posterior ,yes,no,Keren,509c8f875b4378bc100000fd,41.720705,miscatches
+87.0,,,,,,,,566d9b115dbed77366000000,Comments: ,yes,yes,Keren,566da1ced3acecc654934acb,81.785839,miscatches
+88.0,,,,,,,,564760c55dbed77ed8000000,Comments: Peaks hardly detected and left lateralized ,yes,yes,Keren,5647672a98d49e7e5f332b81,66.992316,miscatches
+89.0,,,,,,,,5576077f71a87f58b9000000,Comments: P3b looks like a miscatch not just because of location ,no,yes,Keren,55768fe704b3802b60a6a65e,206.790922,miscatches
+90.0,,,,,,,,5644f4955dbed715f7000000,Comments: ,no,no,Keren,5644fbee98d49e7e5f332a21,66.616061,miscatches
+91.0,,,,,,,,566f261d5dbed70e83000000,Comments: P3b looks like a mismatch regardless of site,no,yes,Keren,566f2e40d3acecc654934b40,432.357249,miscatches
+92.0,,,,,,,,,Comments: P3b miscatch ,no,yes,Keren,50a3c0762bc73e541c000009,1953.819592,miscatches
+93.0,,,,,,,,,Comments: P3a is miscatch ,yes,no,Keren,50801a44d6947ee41f00001c,63.38926,miscatches
+94.0,,,,,,,,,Comments: ,no,no,Keren,5220a9f1ad36552025000032,53.300554,miscatches
+95.0,,,,,,,,,Comments: ,no,no,Keren,522325c727fb0f9c16000001,71.893536,miscatches
+96.0,,,,,,,,,Comments: ,no,no,Keren,50ae30cf0ffd6c401e000001,43.834741,miscatches
+97.0,,,,,,,,,Comments: ,no,no,Keren,50b75327ebe23e6415000007,43.972099,miscatches
+98.0,,,,,,,,,Comments: ,no,no,Keren,50b3985c33cb300c10000002,32.18339,miscatches
+99.0,,,,,,,,,Comments: ,yes,yes,Keren,5089618cb1d61ba83b00000a,34.708595,miscatches
+,,,,,,,,,Comments: P3b hardly detected,no,no,Keren,509c20e35b4378bc10000067,71.011494,miscatches
+,,,,,,,,563a8e0ea2d6340632000000,Comments: P3a is miscatch unrelated to peak ,yes,no,Keren,563a957898d49e7e5f331f77,3594.711348,miscatches
+,,,,,,,,563fb6ef256140241e000000,Comments: P3a max peak of subject is in Fz,yes,no,Keren,563fc07998d49e7e5f3325cb,227.435794,miscatches
+,,,,,,,,560d7598a158c625fc000000,Comments: No group  in Novel,no,no,Keren,560d7e534071c0807469e65e,16131.383245,miscatches
+0.0,0.0,0.0,0.0,,,,,561837b0a2d6344896000000,Comments: ,yes,no,Limin,561843ee83609b152d5ebc5a,650.904774,miscatches
+1.0,1.0,1.0,1.0,,,,,562903c5a158c64706000000,Comments: ,no,no,Limin,56290e7a048db6162fb41542,49.146664,miscatches
+2.0,2.0,2.0,2.0,,,,,55c9511ba2d63417c3000000,Comments: ,no,no,Limin,55c8e0295de8844106163dcf,146.284834,miscatches
+3.0,3.0,3.0,3.0,,,,,,Comments: ,no,no,Limin,50802b35d6947ee41f0000a9,974.2317,miscatches
+4.0,4.0,4.0,4.0,,,,,55c8e491b078d65cb9000000,mismatch in p3a,no,no,Limin,55c8f0935de8844106163e1d,85.974857,miscatches
+5.0,5.0,5.0,5.0,,,,,56d1f97ddc35d3b51fe8e434,Comments: ,no,no,Limin,56d20466fd617eb25007ed95,462.639362,miscatches
+6.0,6.0,6.0,6.0,,,,,,Comments: ,no,no,Limin,50f28225c1bd1cc80e0000be,968.458073,miscatches
+7.0,7.0,7.0,7.0,,,,,,Comments: ,no,no,Limin,50802695d6947ee41f00006a,257.074319,miscatches
+8.0,8.0,8.0,8.0,,,,,,Comments: ,no,no,Limin,5240596945b1304c25000015,593.993865,miscatches
+9.0,9.0,9.0,9.0,,,,,554287821ee54a35b0000000,Comments: ,no,no,Limin,55429491f37cae8908b4e058,406.542354,miscatches
+10.0,10.0,10.0,10.0,,,,,58c9385ded2ec87d75c1b989,Comments: ,no,no,Limin,58c941f0e325a6609b0c7b09,836.309804,miscatches
+11.0,11.0,11.0,11.0,,,,,561837b0a2d6344896000000,Comments: ,yes,no,Limin,561843ee83609b152d5ebc5a,60885.664006,miscatches
+12.0,12.0,12.0,12.0,,,,,589dddd459f496210cf8795e,Comments: ,no,no,Limin,58b585711f81ac1ef93f8e72,87.449127,miscatches
+13.0,13.0,13.0,13.0,,,,,58efca6c40f55574c4f17b25,Comments: ,yes,no,Limin,58efd6a612bb131833efa896,58.544555,miscatches
+14.0,14.0,14.0,14.0,,,,,58e525d6f509a91edbc7caba,Comments: ,no,no,Limin,58e52f97e325a6609b0c8d21,72.111217,miscatches
+15.0,15.0,15.0,15.0,,,,,589482af59f496210cf85310,Comments: ,no,no,Limin,58b585301f81ac1ef93f8bd0,40.532552,miscatches
+16.0,16.0,16.0,16.0,,,,,57d990d0221fce2c0ca1c6e8,Comments: ,no,no,Limin,57d998c5cbe27b5f476bf931,54.202029,miscatches
+17.0,17.0,17.0,17.0,,,,,560eb811a158c62b8a000000,Comments: ,no,no,Limin,560ebf7f4071c0807469e736,128.384345,miscatches
+18.0,18.0,18.0,18.0,,,,,,Comments: ,yes,no,Limin,509cb34a5b4378bc10000132,49.450378,miscatches
+19.0,19.0,19.0,19.0,,,,,,double peak caught in P3b,no,no,Limin,5254d4cd468eba4033000013,97.281184,miscatches
+20.0,20.0,20.0,20.0,,,,,,Comments: ,no,no,Limin,52aa93d4fb349a4e7e000004,639.325442,miscatches
+21.0,21.0,21.0,21.0,,,,,,Comments: ,no,no,Limin,525a1e0894a9e3a65300000d,65.92161,miscatches
+22.0,22.0,22.0,,,,,,58dbe84df509a91edbc7aeb3,Comments: ,no,no,Limin,58dbf315e325a6609b0c86be,32.488875,miscatches
+23.0,23.0,,,,,,,58dbe84df509a91edbc7aeb3,Comments: ,no,no,Limin,58dbf315e325a6609b0c86be,62.637913,miscatches
+24.0,24.0,,,,,,,5907690240f55574c4f1ca56,double peak caught in p3a,no,no,Limin,5909c6d1f5486f4cc7a960a1,92.66054,miscatches
+25.0,,,,,,,,591458e940f55574c4f1fb7e,missing data ,yes,,Limin,591480fc3506906168f8a83f,303.717339,miscatches
+26.0,,,,,,,,591b0f5fb97297439d0c0e8f,Comments: ,no,no,Limin,591b1acd3506906168f8ae31,424.372402,miscatches
+27.0,,,,,,,,595fdca31795742c271e6bd1,Comments: ,yes,no,Limin,595fe878e1e78f74fc795fd1,321.350197,miscatches
+28.0,,,,,,,,59d7b5b02ef73d101dfc83e2,Comments: ,no,no,Limin,59d7bdfde1e78f74fc79b09b,75.810847,miscatches
+29.0,,,,,,,,5a4fd93114e37f0f0315eadd,significant time difference,no,no,Limin,5a502c17aa1e352d75ddf277,100.151751,miscatches
+30.0,,,,,,,,570c25644900eaa95630d98a,Comments: ,yes,no,Limin,570c2f732cbb7066795a7488,67.281874,miscatches
+31.0,,,,,,,,57a257bf2c7d4d6a5fc01004,Comments: ,yes,no,Limin,57a260fd0c1b1b056f688e20,768.440409,miscatches
+32.0,,,,,,,,55e8eecca2d6346423000000,Comments: ,no,no,Limin,55e8f98032991e86075a1b1e,137.240688,miscatches
+33.0,,,,,,,,56f6c9214900eaa956309a67,p3a caught much earlier peak,yes,no,Limin,56f6d5973c05772f364b9946,49.37584,miscatches
+34.0,,,,,,,,56bb977adc35d3b51fe8c192,p3a caught earlier peak,yes,no,Limin,56bba0cd4d4324a813a2b2ee,78.518377,miscatches
+35.0,,,,,,,,55d26b162561407a7f000000,Comments: ,no,no,Limin,55d2798432991e86075a0ac6,74.708115,miscatches
+36.0,,,,,,,,553ac7041ee54a6aa2000000,Comments: ,no,no,Limin,5541f9d2f37cae8908b4e010,43.190735,miscatches
+37.0,,,,,,,,566a0e8125614012e0000000,Comments: ,no,no,Limin,566a160dd3acecc654934991,38.473429,miscatches
+38.0,,,,,,,,55d658262561400df1000000,Comments: ,no,no,Limin,55d6628d32991e86075a0e58,34.670541,miscatches
+39.0,,,,,,,,56256d7ba2d6342f17000000,Comments: ,no,no,Limin,562579d4048db6162fb41162,104.911051,miscatches
+40.0,,,,,,,,,Comments: ,no,no,Limin,5089618cb1d61ba83b00000a,40.24219,miscatches
+,,,,,,,,56674fd8f477ce5b3a000000,Comments: ,no,no,Limin,56675652f7a5496b79edee4c,44.941138,miscatches
+,,,,,,,,567465fd5dbed761d7000000,Comments: ,no,no,Limin,56767908fcc5549d1b32f518,405.59033,miscatches
+,,,,,,,,55f3570425614043e5000000,p3a caught early peak,yes,,Limin,55f360b132991e86075a22a8,139.031754,miscatches
+,,,,,,,,55f8a3232561402019000000,Comments: ,no,yes,Limin,55f8abb532991e86075a26ac,142.613765,miscatches
+,,,,,,,,561d7fdba2d6344f44000000,Comments: ,no,yes,Limin,561d881783609b152d5ec13f,112.862814,miscatches
+,,,,,,,,552d92748c149b5c02000000,Comments: ,no,no,Limin,5541f779f37cae8908b4dffc,169.95127,miscatches
+,,,,,,,,587f8b5406c12f1a0cc16e53,mismatch in p3b,no,,Limin,587f9885f7f92aef6c641688,75.987389,miscatches
+,,,,,,,,,Comments: ,no,yes,Limin,509ca1c95b4378bc10000118,82.753714,miscatches
+,,,,,,,,588623e606c12f1a0cc186ca,Comments: ,no,no,Limin,588639d1f7f92aef6c641a33,38.743465,miscatches
+,,,,,,,,,Comments: ,no,no,Limin,526a1d605082fca452000002,62.709793,miscatches
+,,,,,,,,,Comments: ,no,no,Limin,52787d67db1cd02a27000003,71.98082,miscatches
+,,,,,,,,55e3296925614063cb000000,Comments: caught the P200 in novel,yes,no,Maayan_S,55e3323932991e86075a16cb,7910.297559,miscatches
+,,,,,,,,561146cb2561400988000000,Comments: ,yes,no,Maayan_S,56114fe74071c0807469e8da,111.108269,miscatches
+,,,,,,,,55550b9b1ee54a5ffa000000,Comments: ,no,no,Maayan_S,555516c7f37cae8908b4e5f0,819.201517,miscatches
+,,,,,,,,55de8748a2d6346313000000,Comments: ,no,yes,Maayan_S,55de13c232991e86075a1374,408.073506,miscatches
+,,,,,,,,570963b74900eaa95630d468,Comments: ,no,no,Maayan_S,57096d61a94a992747af0987,457.394052,miscatches
+,,,,,,,,55fc936ba2d6343c4f000000,Comments: ,no,yes,Maayan_S,55fc9b534071c0807469d6a4,70.503695,miscatches
+,,,,,,,,5606da6325614061d2000000,Comments: ,no,yes,Maayan_S,5606e4104071c0807469e22a,248.957845,miscatches
+,,,,,,,,5634dcea2561403694000000,Comments: ,no,no,Maayan_S,5634e5cf048db6162fb41f90,53.700096,miscatches
+,,,,,,,,55fda2bba2d634145c000000,Comments: ,no,no,Maayan_S,55fdab464071c0807469d7ac,77.239697,miscatches
+,,,,,,,,55f8c073256140161d000000,Comments: P3a depends on time of peak activity at CP1,no,no,Maayan_S,55f8c7d732991e86075a26de,296.87016,miscatches
+,,,,,,,,5601f793a2d634499f000000,Comments: ,yes,no,Maayan_S,560200304071c0807469de7c,69.939222,miscatches
+,,,,,,,,571282e14900eaa95630ea9a,Comments: ,yes,no,Maayan_S,5712896c2cbb7066795a768f,57.672704,miscatches
+,,,,,,,,555a58ec1ee54a1f01000000,Comments: P3a is questionable since the posterior activation is not separated in tim,yes,no,Maayan_S,555a6542251ad38e6d99d23f,306.534526,miscatches
+,,,,,,,,56031f51a158c62e4e000000,Comments: ,no,no,Maayan_S,560329ee4071c0807469dfe0,56.370294,miscatches
+,,,,,,,,5634e18ba2d6341809000000,Comments: despite frontal location I think that for this activation the P3b is not a miscatch,no,no,Maayan_S,5634ea80048db6162fb41f9b,308.132481,miscatches
+,,,,,,,,55c9511ba2d63417c3000000,Comments: target awkward distribution; both in Target and Novel central and posterior electrodes signal is flat unproportionaly to frontal electrodes. might be an electrode contact problem. - consider rejecting this data ,no,no,Maayan_S,55c8e0295de8844106163dcf,381.44133,miscatches
+,,,,,,,,561c33c4a158c663bf000000,Comments: ,yes,no,Maayan_S,561c3b2883609b152d5ebfa4,115.06956,miscatches
+,,,,,,,,5610167ea2d6342961000000,Comments: P3a caught the P200,yes,no,Maayan_S,5610217e4071c0807469e84a,207.143466,miscatches
+,,,,,,,,56192d9da2d6343753000000,"Comments: target and novel - bad data, ",no,no,Maayan_S,5619356783609b152d5ebcfb,182.853675,miscatches
+,,,,,,,,5647c34ba2d6341a16000000,Comments: ,no,no,Maayan_S,5647cc0a98d49e7e5f332c75,103.788796,miscatches
+,,,,,,,,56fefa1c4900eaa95630b372,Comments: ,no,no,Maayan_S,56ff047d3c05772f364b9c07,40.825105,miscatches
+,,,,,,,,5705ab364900eaa95630ca4b,Comments: ,yes,no,Maayan_S,5705b4c63c05772f364b9ded,272.206546,miscatches
+,,,,,,,,5638e186a158c654ba000000,Comments: ,yes,no,Maayan_S,5638eb00048db6162fb422d5,154.342386,miscatches
+,,,,,,,,5638f774a158c66f8f000000,Comments: ,no,no,Maayan_S,5639001d048db6162fb422f9,34.869726,miscatches
+,,,,,,,,5703e3b14900eaa95630c16b,Comments: ,yes,no,Maayan_S,5703edb93c05772f364b9d47,98.907434,miscatches
+,,,,,,,,5633ae9e25614066dd000000,Comments: novel P200 was caught. P3a is buried in the negative shift.,yes,no,Maayan_S,5633b764048db6162fb41edc,435.725479,miscatches
+,,,,,,,,56cb9449dc35d3b51fe8d7bc,Comments: P3a peak electrode = Fp2?? does not seem so from the images,yes,no,Maayan_S,56cb9de85945eef95db2ecfa,15826.211247,miscatches
+,,,,,,,,56cce4e6dc35d3b51fe8db55,Comments: ,no,no,Maayan_S,56ccefae5945eef95db2ed43,66.081675,miscatches
+,,,,,,,,56296490a158c650e7000000,Comments: ,yes,no,Maayan_S,56296c40048db6162fb4157e,210.012606,miscatches
+,,,,,,,,56b92455dc35d3b51fe8beb7,Comments: ,no,yes,Maayan_S,56b92c2b4d4324a813a2b29c,127.850407,miscatches
+,,,,,,,,55ff19a525614002d5000000,Comments: ,yes,no,Maayan_S,55ff225d4071c0807469d912,394.185546,miscatches
+,,,,,,,,57194f23cc9fe7320d2e5acc,Comments: ,no,no,Maayan_S,571958562cbb7066795a78ac,79.987411,miscatches
+,,,,,,,,5515d4616c40b17af3000000,Comments: ,no,no,Maayan_S,5515dfaf694f0bc90e5a8b1a,130.664063,miscatches
+,,,,,,,,5614515e2561404750000000,Comments: ,no,yes,Maayan_S,561457e64071c0807469ebef,281.658639,miscatches
+,,,,,,,,5605ce2ea2d6344714000000,Comments: ,no,yes,Maayan_S,5605d8cf4071c0807469e182,99.855975,miscatches
+,,,,,,,,55d01c91a2d63444a1000000,Comments: ,yes,no,Maayan_S,55cfa94f5de8844106164211,173.07308,miscatches
+,,,,,,,,56256290a158c6197d000000,Comments: P3a peak electrode is not P5...,no,no,Maayan_S,56256e1a048db6162fb41140,447.362005,miscatches
+,,,,,,,,56e0cb344900eaa9563066ef,Comments: ,no,no,Maayan_S,56e0d7644ba078af44a84466,76.671301,miscatches
+,,,,,,,,57153da8cc9fe7320d2e54a0,Comments: ,yes,no,Maayan_S,571546d52cbb7066795a7768,40.567147,miscatches
+,,,,,,,,56f2d2074900eaa956308ddc,Comments: ,no,no,Maayan_S,56f2db953c05772f364b97ad,27603.096977,miscatches
+,,,,,,,,,Comments: ,no,no,Maayan_S,52afda079fbe38b725000006,42.731262,miscatches
+,,,,,,,,550450c76c40b17de2000000,Comments: ,no,no,Maayan_S,550459eb40a873c1062bdecc,58.00532,miscatches
+,,,,,,,,,Comments: P3a is buried in the negative shift,yes,no,Maayan_S,5291f779fc61aac642000011,189.879004,miscatches
+,,,,,,,,554287821ee54a35b0000000,Comments: ,no,no,Maayan_S,55429491f37cae8908b4e058,98.681123,miscatches
+,,,,,,,,,Comments: ,no,no,Maayan_S,524371a1259db6c07600001c,438.096879,miscatches
+,,,,,,,,,Comments: ,no,yes,Maayan_S,52a196231a6f5d2726000009,79.705442,miscatches
+,,,,,,,,5507471e6c40b169d7000000,Comments: ,yes,no,Maayan_S,550751595c37c8234756777b,124.467706,miscatches
+,,,,,,,,5650bb222561403e09000000,Comments: p3a is questionable. i think it should have included Cz - a bit more central,yes,no,Maayan_S,56519b1b555cbfc975e9b8ae,119.095278,miscatches
+,,,,,,,,56048e0225614007c6000000,Comments: ,no,no,Maayan_S,5604954c4071c0807469e0bc,50.35166,miscatches
+,,,,,,,,55f48cc1a2d6344356000000,Comments: ,no,no,Maayan_S,55f4987d32991e86075a23ac,291.902548,miscatches
+,,,,,,,,55d58a15a2d63450cc000000,Comments: P3a weird distribution,no,no,Maayan_S,55d515a832991e86075a0d25,859.642636,miscatches
+,,,,,,,,55087d846c40b13ca2000000,Comments: P3a a bit posterior,no,no,Maayan_S,5508892f5c37c823475677c0,45.265196,miscatches
+,,,,,,,,54ff46d86c40b109da000000,Comments: P3a very late - due to large N2?,no,no,Maayan_S,54ff52ce40a873c1062bdd75,71.292631,miscatches
+,,,,,,,,550489786c40b11fab000000,Comments: P3a is questionable - very posterior. there are many such in the agebin and the group capsule is also central-posterior,no,no,Maayan_S,5504923040a873c1062bdf02,231.88069,miscatches
+,,,,,,,,554144e61ee54a0371000000,Comments: iNovel P200 was caught instead of P3a which is much smaller and buried in negative shift; in the delta band P3a does not emerge as a separate component,yes,no,Maayan_S,55415105f37cae8908b4df95,164.052378,miscatches
+,,,,,,,,552ee6f88c149b5f41000000,Comments: ,no,no,Maayan_S,5534e64ad16471ab5c2c5d5d,144.719201,miscatches
+,,,,,,,,,Comments: ,no,yes,Maayan_S,51f959b776d85b8624000003,44.489954,miscatches
+,,,,,,,,561abd152561402006000000,Comments: ,no,yes,Maayan_S,561ac64d83609b152d5ebe86,45.276986,miscatches
+,,,,,,,,5508a3276c40b17c57000000,Comments: p3a depends on time of peak - to check!,no,no,Maayan_S,5508aeb35c37c823475677e9,127.977375,miscatches
+,,,,,,,,551eed686c40b123e5000000,Comments: ,yes,no,Maayan_S,552bd9ec1f2e8ffb507b1307,108.457637,miscatches
+,,,,,,,,56115c80a2d6346d47000000,Comments: ,no,no,Maayan_S,561165014071c0807469e90a,35.365583,miscatches
+,,,,,,,,56674b222561406960000000,Comments: ,no,no,Maayan_S,56675652f7a5496b79edee50,64.721494,miscatches
+,,,,,,,,54ff72136c40b10983000000,Comments: ,yes,no,Maayan_S,54ff7d0540a873c1062bdd9f,47.701847,miscatches
+,,,,,,,,5605e95725614002e1000000,Comments: ,no,no,Maayan_S,5605f4f14071c0807469e1b5,4946.23043,miscatches
+,,,,,,,,560c7a3b2561404f9d000000,Comments: ,no,no,Maayan_S,560c85d54071c0807469e625,2366.500218,miscatches
+,,,,,,,,,P3a awkward distribution,no,no,Maayan_S,529eb658c2bd3a0274000002,86.048279,miscatches
+,,,,,,,,,Comments: ,no,no,Maayan_S,5228f8905c4ebf3e0e000005,24.639718,miscatches
+,,,,,,,,566786a92561406738000000,Comments: ,no,no,Maayan_S,566790faf7a5496b79edef28,34.403212,miscatches
+,,,,,,,,550af2976c40b1553c000000,Comments: ,yes,no,Maayan_S,550aff37694f0bc90e5a763f,119.417226,miscatches
+,,,,,,,,552d92748c149b5c02000000,Comments: ,no,no,Maayan_S,5541f779f37cae8908b4dffc,43.399569,miscatches
+,,,,,,,,5612f3b92561406dc1000000,P3a is questionable. It should have caught a more right central component,yes,no,Maayan_S,5612fcec4071c0807469ea6c,528.917406,miscatches
+,,,,,,,,563500a2a2d6344409000000,Comments: ,no,no,Sujood,56350b55048db6162fb42043,83020.768213,miscatches
+,,,,,,,,56e886524900eaa95630740c,"Comments: novel data is bad. low SNR, ERP component are indistinguishable ; the frontal P3a-like activity might be a blink.",yes,no,Sujood,56e890d84ba078af44a84545,1089.922523,miscatches
+,,,,,,,,56393dfca2d63409f8000000,Comments: ,no,no,Sujood,563948d8048db6162fb4243a,140.690187,miscatches
+,,,,,,,,55148a1b6c40b13037000000,Comments: ,no,no,Sujood,55149777694f0bc90e5a8a54,1657.286791,miscatches
+,,,,,,,,56c37f49dc35d3b51fe8ccdc,Comments: ,no,no,Sujood,56c38969d3a0ecdf36432973,65.560649,miscatches
+,,,,,,,,55fef0fd2561406610000000,Comments: ,no,yes,Sujood,55fef82a4071c0807469d8cd,462.849783,miscatches
+,,,,,,,,55d9165ca2d6340e88000000,Comments: ,no,no,Sujood,55d8a0e732991e86075a0f9d,28.261018,miscatches
+,,,,,,,,56f6e8054900eaa956309ae0,Comments: ,yes,yes,Sujood,56f6f1bd3c05772f364b9964,388.978546,miscatches
+,,,,,,,,56198967a2d63430de000000,the activity in both target and novel is rightward. the P3a mighht not be a miscatch' but the designated peak electrode is AFz which for sure is wrong! check the script for choosing peak electrode!,yes,no,Sujood,56198e8183609b152d5ebde7,444.250259,miscatches
+,,,,,,,,55e25180a2d63412f2000000,Comments: ,no,no,Sujood,55e1de4b32991e86075a157d,52.029878,miscatches
+,,,,,,,,56144e3ba2d63443b0000000,Comments: ,no,yes,Sujood,561457e64071c0807469ebeb,464.870472,miscatches
+,,,,,,,,563642c825614073bc000000,Comments: ,yes,no,Sujood,5821e73303086d3115084a22,128.302012,miscatches
+,,,,,,,,56c21f45dc35d3b51fe8c92c,Comments: ,yes,no,Sujood,56c2294f4d4324a813a2b515,1227.673943,miscatches
+0.0,0.0,0.0,,,,,,55e8eecca2d6346423000000,Comments: ,no,no,Sujood,55e8f98032991e86075a1b1e,3030.349128,miscatches
+1.0,1.0,1.0,,,,,,55e8eecca2d6346423000000,Comments: ,no,no,Sujood,55e8f98032991e86075a1b1e,9810.009797,miscatches
+2.0,2.0,2.0,,,,,,55cfa77a256140134f000000,Comments: ,yes,no,Sujood,55cfb2b05de8844106164226,184.081825,miscatches
+3.0,3.0,3.0,,,,,,56f6c6d64900eaa956309a4c,Comments: ,no,no,Sujood,56f6d33e3c05772f364b9941,130.284779,miscatches
+4.0,4.0,4.0,,,,,,56fda6fc4900eaa95630afb5,Comments: ,no,no,Sujood,56fdb0243c05772f364b9b9e,437.734053,miscatches
+5.0,5.0,5.0,,,,,,56ed8f4b4900eaa9563081e5,Comments: ,no,no,Sujood,56ed992c3c05772f364b9637,100.573885,miscatches
+6.0,6.0,6.0,,,,,,562fec1ea158c641ed000000,Comments: ,yes,no,Sujood,562ff630048db6162fb41b84,60.743678,miscatches
+7.0,7.0,7.0,,,,,,570d74ce4900eaa95630deb3,Comments: ,no,no,Sujood,570d7f462cbb7066795a7541,120.445741,miscatches
+8.0,8.0,8.0,,,,,,560ec6bba2d6347caf000000,Comments: ,no,no,Sujood,560ecfe94071c0807469e74e,89.296408,miscatches
+9.0,9.0,9.0,,,,,,5706df314900eaa95630cd55,Comments: ,no,no,Sujood,5706eaaba94a992747af08b6,225.917064,miscatches
+10.0,10.0,10.0,,,,,,564b9e5df477ce7448000000,Comments: ,no,no,Sujood,564ba2e098d49e7e5f332ef5,291.196981,miscatches
+11.0,11.0,11.0,,,,,,5580afda71a87f7a07000000,Comments: ,yes,no,Sujood,5580bc5a04b3802b60a6aac1,61.951347,miscatches
+12.0,12.0,12.0,,,,,,55cfa77a256140134f000000,Comments: ,yes,no,Sujood,55cfb2b05de8844106164226,68196.008793,miscatches
+13.0,13.0,13.0,,,,,,5581d52371a87f2469000000,Comments: ,yes,no,Sujood,5581df0304b3802b60a6ab14,113.719175,miscatches
+14.0,14.0,14.0,,,,,,569587223468d1801ccdccdc,Comments: ,yes,no,Sujood,569591d8f3b44fa65d6ee4e5,81.507593,miscatches
+15.0,15.0,15.0,,,,,,556c910871a87f676b000000,Comments: ,no,no,Sujood,556c9e80262166a430abe3b5,91.114304,miscatches
+16.0,16.0,16.0,,,,,,566f37d45dbed7659e000000,Comments: ,no,no,Sujood,566f3eacd3acecc654934b63,108.547536,miscatches
+17.0,17.0,17.0,,,,,,56e890c54900eaa95630745a,Comments: ,no,yes,Sujood,56e89a3a4ba078af44a8454f,124.986166,miscatches
+18.0,18.0,18.0,,,,,,,Comments: ,yes,no,Sujood,524e923a4ef4f83c2c000004,71.19548,miscatches
+19.0,19.0,19.0,,,,,,,Comments: ,yes,no,Sujood,50a42426b90a25dc07000040,105.953168,miscatches
+20.0,20.0,20.0,,,,,,,Comments: ,no,no,Sujood,524ea8fc4ef4f83c2c00000a,55.250525,miscatches
+21.0,21.0,21.0,,,,,,,Comments: ,yes,no,Sujood,50f28212c1bd1cc80e0000ba,42.990906,miscatches
+22.0,22.0,22.0,,,,,,,Comments: ,no,no,Sujood,518f657bd78f3d881f000006,59.481777,miscatches
+23.0,23.0,23.0,,,,,,,Comments: ,no,no,Sujood,50d46ac6ce596ad0050000a3,37.169951,miscatches
+24.0,24.0,24.0,,,,,,5581d52371a87f2469000000,Comments: ,yes,no,Sujood,5581df0304b3802b60a6ab14,6588.912637,miscatches
+25.0,25.0,25.0,,,,,,,Comments: ,no,no,Sujood,50d46eadce596ad0050000a5,110.041917,miscatches
+26.0,26.0,26.0,,,,,,566b32faf477ce7ad2000000,Comments: ,yes,no,Sujood,566b3691d3acecc654934a18,56.682803,miscatches
+27.0,27.0,27.0,,,,,,5706d9c24900eaa95630cd30,Comments: ,no,yes,Sujood,5706e3a1a94a992747af08af,48.751248,miscatches
+28.0,28.0,28.0,,,,,,5578c60171a87f1603000000,Comments: ,no,no,Sujood,5578ce5804b3802b60a6a78e,68.667074,miscatches
+29.0,29.0,29.0,,,,,,567096225dbed73c53000000,Comments: ,no,no,Sujood,56709bcefcc5549d1b32f38c,72.968624,miscatches
+30.0,30.0,30.0,,,,,,569139d53468d1801ccdc289,Comments: ,no,yes,Sujood,5691436df3b44fa65d6ee389,112.553393,miscatches
+31.0,31.0,31.0,,,,,,5581ee8971a87f5e99000000,Comments: ,no,no,Sujood,5581f8cc04b3802b60a6ab28,80.594853,miscatches
+32.0,32.0,32.0,,,,,,5568e11471a87f5cc2000000,Comments: ,no,no,Sujood,5568edc6262166a430abe37c,41.269666,miscatches
+33.0,33.0,33.0,,,,,,5675bbc45dbed7073c000000,Comments: ,no,no,Sujood,56767907fcc5549d1b32f4c0,52.336668,miscatches
+34.0,34.0,34.0,,,,,,,Comments: ,no,no,Sujood,5220a7e5ad36552025000030,37.414715,miscatches
+35.0,35.0,35.0,,,,,,5581d52371a87f2469000000,Comments: ,yes,no,Sujood,5581df0304b3802b60a6ab14,16981.029188,miscatches
+36.0,36.0,36.0,,,,,,,Comments: ,no,no,Sujood,5214569ae45f421c0b000001,210.385893,miscatches
+37.0,37.0,37.0,,,,,,,Comments: ,no,no,Sujood,517f95b5c13b8fd40e000001,110.337893,miscatches
+38.0,38.0,38.0,,,,,,,Comments: ,no,no,Sujood,51a1cf45a99d46d810000003,139.088606,miscatches
+39.0,39.0,39.0,,,,,,,Comments: ,no,yes,Sujood,5223656acf80006424000002,1221.714731,miscatches
+40.0,40.0,40.0,,,,,,5543d8a61ee54a0cdb000000,Comments: ,no,no,Sujood,5543e62bf37cae8908b4e0ef,63.631926,miscatches
+41.0,41.0,41.0,,,,,,554159431ee54a54ec000000,Comments: ,no,no,Sujood,5541661ff37cae8908b4dfc4,206.691181,miscatches
+42.0,42.0,42.0,,,,,,,Comments: ,no,no,Sujood,5268a887b614afb42b000022,303.929076,miscatches
+43.0,43.0,43.0,,,,,,553aa48c1ee54a6ec7000000,Comments: ,no,no,Sujood,553f7dad35e8a5cf705eea24,59.419493,miscatches
+44.0,44.0,44.0,,,,,,55ff1651a2d634795f000000,Comments: ,yes,no,Sujood,55ff20054071c0807469d90e,94.447956,miscatches
+45.0,45.0,45.0,,,,,,,Comments: ,no,no,Sujood,525a1e0894a9e3a65300000d,41.416225,miscatches
+46.0,46.0,46.0,,,,,,55f4ad56a2d6342c35000000,Comments: ,no,no,Sujood,55f4b6f832991e86075a23eb,48.33498,miscatches
+47.0,47.0,47.0,,,,,,,Comments: ,no,no,Sujood,52aa93d4fb349a4e7e000004,52.568165,miscatches
+48.0,48.0,48.0,,,,,,,Comments: ,no,no,Sujood,52957c9b682169c055000047,123.873782,miscatches
+49.0,49.0,49.0,,,,,,,Comments: ,no,no,Sujood,52884cfd6baa3f244f000003,63.205366,miscatches
+50.0,50.0,50.0,,,,,,5615b29ca2d63458c3000000,Comments: ,no,no,Sujood,5615b83783609b152d5ebb11,88.682875,miscatches
+51.0,51.0,51.0,,,,,,57006ff54900eaa95630b7e4,Comments: ,no,no,Sujood,570079703c05772f364b9cbc,228.369863,miscatches
+52.0,52.0,52.0,,,,,,55e4f76c2561406b89000000,Comments: ,yes,yes,Sujood,55e504bd32991e86075a1830,60.666669,miscatches
+53.0,53.0,53.0,,,,,,,Comments: ,no,no,Sujood,5270d2795bddb5b42d000011,42.121408,miscatches
+54.0,54.0,54.0,,,,,,55d7c10aa2d6340649000000,Comments: ,no,yes,Sujood,55d74aa232991e86075a0e9c,105.450091,miscatches
+55.0,55.0,55.0,,,,,,56f5640c4900eaa956309513,Comments: ,no,no,Sujood,56f56eb43c05772f364b9886,35.456443,miscatches
+56.0,56.0,56.0,,,,,,570554e34900eaa95630c881,Comments: ,yes,yes,Sujood,57055dfc3c05772f364b9db8,74.170901,miscatches
+57.0,57.0,57.0,,,,,,561988592561407d42000000,Comments: ,no,yes,Sujood,56198e8183609b152d5ebdea,52.61493,miscatches
+58.0,58.0,58.0,,,,,,565ce178a2d6342979000000,Comments: ,no,no,Sujood,565ceb4ef7a5496b79ede6d7,674.929393,miscatches
+59.0,59.0,59.0,,,,,,550461c76c40b12447000000,Comments: ,no,yes,Sujood,55046cad40a873c1062bdee0,82.190475,miscatches
+60.0,60.0,60.0,,,,,,563f91fea2d6346f83000000,Comments: ,yes,no,Sujood,563f989898d49e7e5f332578,74.709787,miscatches
+61.0,61.0,61.0,,,,,,5650d7692561404b05000000,Comments: ,no,no,Sujood,56519b18555cbfc975e9b7b3,312.9202,miscatches
+62.0,62.0,62.0,,,,,,,Comments: ,no,no,Sujood,528309365e5ba5e55b00000d,116.669136,miscatches
+63.0,63.0,63.0,,,,,,56365baaa2d6345fbc000000,Comments: ,no,yes,Sujood,57419567053bfc7d17270e4c,71.380701,miscatches
+64.0,64.0,64.0,,,,,,,Comments: ,no,no,Sujood,5270d0495bddb5b42d000003,221.443681,miscatches
+65.0,65.0,65.0,,,,,,55d506de2561400628000000,Comments: I'm not sure where the Iz electrode is located exactly!,no,no,Sujood,55d510f832991e86075a0d13,622.005498,miscatches
+66.0,66.0,66.0,,,,,,,Comments: ,yes,no,Sujood,5291f7f2fc61aac642000013,45.069616,miscatches
+67.0,67.0,67.0,,,,,,55ef7cbf2561403ec5000000,Comments: ,no,yes,Sujood,55ef881032991e86075a1f78,119.802852,miscatches
+68.0,68.0,68.0,,,,,,570978c84900eaa95630d4d2,Comments: ,yes,no,Sujood,5709827ea94a992747af099f,81.631048,miscatches
+69.0,69.0,69.0,,,,,,55fef146a2d6343479000000,Comments: ,no,no,Sujood,55fefa824071c0807469d8d1,259.747193,miscatches
+70.0,70.0,70.0,,,,,,570c25644900eaa95630d98a,Comments: ,yes,no,Sujood,570c2f732cbb7066795a7488,252.546048,miscatches
+71.0,71.0,71.0,,,,,,,Comments: ,yes,no,Sujood,5281b63648b9fd704600000c,335.318416,miscatches
+72.0,72.0,72.0,,,,,,55cb936b2561406397000000,Comments: ,yes,yes,Sujood,55cb9f795de884410616401c,60.984604,miscatches
+73.0,73.0,73.0,,,,,,561a9a32256140062f000000,Comments: ,yes,no,Sujood,561aa32283609b152d5ebe57,87.359535,miscatches
+74.0,74.0,74.0,,,,,,550478486c40b16833000000,Comments: ,no,no,Sujood,550481c740a873c1062bdef4,51.789525,miscatches
+75.0,75.0,75.0,,,,,,56f423ca4900eaa956309147,Comments: ,no,no,Sujood,56f42b013c05772f364b9818,124.381564,miscatches
+76.0,76.0,76.0,,,,,,55ef465b55f031054c000000,Comments: ,no,no,Sujood,55ef4d7332991e86075a1ef0,120.159269,miscatches
+77.0,77.0,77.0,,,,,,55ce0b062561405dc9000000,Comments: P3a was catched slightly ,no,no,Sujood,55ce13bf5de884410616411a,309.325414,miscatches
+78.0,78.0,78.0,,,,,,5643adb9a158c61f68000000,Comments: P3a was slightly cought,no,yes,Sujood,5643b5e198d49e7e5f3328e7,205.774381,miscatches
+79.0,79.0,79.0,,,,,,56feed984900eaa95630b315,Comments: ,no,yes,Sujood,56fef8c23c05772f364b9bf1,59.092132,miscatches
+80.0,80.0,,,,,,,570025494900eaa95630b6ab,Comments: ,no,no,Sujood,570030b93c05772f364b9c87,189.803599,miscatches
+81.0,81.0,,,,,,,566f299ef477ce0034000000,Comments: P3a was slightly caught in the center,no,no,Sujood,566f32f1d3acecc654934b4d,127.599127,miscatches
+82.0,82.0,,,,,,,,Comments: ,no,no,Sujood,5220b423ad36552025000039,75.279067,miscatches
+83.0,83.0,,,,,,,,Comments: ,no,no,Sujood,512dc15d4fb5926016000001,72.309775,miscatches
+84.0,84.0,,,,,,,56f9cff54900eaa95630a36f,Comments: ,no,no,Sujood,56f9d9543c05772f364b9a4d,63.96409,miscatches
+85.0,85.0,,,,,,,55e3a353a2d634092e000000,Comments: ,no,no,Sujood,55e32fe032991e86075a16be,119.131225,miscatches
+86.0,86.0,,,,,,,56df410c4900eaa956306253,Comments: ,yes,yes,Sujood,56df4af44ba078af44a843b7,171.982948,miscatches
+87.0,87.0,,,,,,,56256a7a256140692a000000,Comments: ,no,no,Sujood,562572cb048db6162fb41157,52.443862,miscatches
+88.0,88.0,,,,,,,57165095c09c5de50c254446,Comments: ,yes,yes,Sujood,571659442cbb7066795a779f,47.6102,miscatches
+89.0,,,,,,,,55d95688a2d6346c55000000,Comments: ,no,no,Sujood,55d8e28c32991e86075a101c,40.321201,miscatches
+,,,,,,,,56edac1a4900eaa956308292,Comments: ,no,no,Sujood,56edb7ab3c05772f364b9661,55.473878,miscatches
+,,,,,,,,55e3681c2561400bd8000000,Comments: P3a was slightly caught in the centre and not the posterior area so I considered it as a miscatch,yes,no,Sujood,55e3718632991e86075a173a,230.400494,miscatches
+,,,,,,,,570002244900eaa95630b5fe,Comments: ,no,no,Sujood,57000d8a3c05772f364b9c6c,70.191631,miscatches
+,,,,,,,,5717b0bbc09c5de50c25463b,Comments: ,no,no,Sujood,5717b91c2cbb7066795a77e9,50.297948,miscatches
+,,,,,,,,55d4c0a1256140584c000000,Comments: ,yes,no,Sujood,55d4caa232991e86075a0c9d,46.622883,miscatches
+,,,,,,,,56e739074900eaa956306f14,Comments: ,no,no,Sujood,56e7416c4ba078af44a84509,94.823886,miscatches
+,,,,,,,,55e15f6aa2d6342f2e000000,Comments: ,no,no,Sujood,55e0ea7e32991e86075a151b,52.609422,miscatches
+,,,,,,,,5710361d4900eaa95630e745,Comments: ,no,no,Sujood,5710415f2cbb7066795a7640,48.751887,miscatches
+,,,,,,,,5600a15d2561403005000000,"Comments: I'm not sure where the Iz electrode is located exactly. But, anyway nothing was caught in Target. So it's a P3b miscatch",no,yes,Sujood,5600a9de4071c0807469dbff,352.211048,miscatches
+,,,,,,,,5622a1ea256140665b000000,Comments: ,yes,no,Sujood,5622ac71048db6162fb40f22,308.38013,miscatches
+,,,,,,,,56ff0ec24900eaa95630b3f6,Comments: ,no,no,Sujood,56ff19993c05772f364b9c1c,38.296846,miscatches
+,,,,,,,,570fcb324900eaa95630e59e,Comments: ,no,no,Sujood,570fd5722cbb7066795a760e,27.650693,miscatches
+,,,,,,,,56ff15614900eaa95630b422,Comments: ,no,no,Sujood,56ff20a33c05772f364b9c25,54.738524,miscatches
+,,,,,,,,563e4862a2d6341fb1000000,"Comments: P3a was slightly caught. I marked P3b as not a miscatch because it caught smth in the centre posterior area though it shows that the ""P3b peak electrode = Iz"" and I'm not pretty sure where this Iz electrode is located",no,no,Sujood,563e502e98d49e7e5f3323d1,218.349923,miscatches
+,,,,,,,,561837b0a2d6344896000000,Comments: ,yes,no,Limin,561843ee83609b152d5ebc5a,650.904774,miscatches
+,,,,,,,,562903c5a158c64706000000,Comments: ,no,no,Limin,56290e7a048db6162fb41542,49.146664,miscatches
+,,,,,,,,55c9511ba2d63417c3000000,Comments: ,no,no,Limin,55c8e0295de8844106163dcf,146.284834,miscatches
+,,,,,,,,,Comments: ,no,no,Limin,50802b35d6947ee41f0000a9,974.2317,miscatches
+,,,,,,,,55c8e491b078d65cb9000000,mismatch in p3a,no,no,Limin,55c8f0935de8844106163e1d,85.974857,miscatches
+,,,,,,,,56d1f97ddc35d3b51fe8e434,Comments: ,no,no,Limin,56d20466fd617eb25007ed95,462.639362,miscatches
+,,,,,,,,,Comments: ,no,no,Limin,50f28225c1bd1cc80e0000be,968.458073,miscatches
+,,,,,,,,,Comments: ,no,no,Limin,50802695d6947ee41f00006a,257.074319,miscatches
+,,,,,,,,,Comments: ,no,no,Limin,5240596945b1304c25000015,593.993865,miscatches
+,,,,,,,,554287821ee54a35b0000000,Comments: ,no,no,Limin,55429491f37cae8908b4e058,406.542354,miscatches
+,,,,,,,,58c9385ded2ec87d75c1b989,Comments: ,no,no,Limin,58c941f0e325a6609b0c7b09,836.309804,miscatches
+,,,,,,,,55e8eecca2d6346423000000,Comments: ,no,no,Sujood,55e8f98032991e86075a1b1e,3030.349128,miscatches
+,,,,,,,,55cfa77a256140134f000000,Comments: ,yes,no,Sujood,55cfb2b05de8844106164226,184.081825,miscatches
+,,,,,,,,56f6c6d64900eaa956309a4c,Comments: ,no,no,Sujood,56f6d33e3c05772f364b9941,130.284779,miscatches
+,,,,,,,,56fda6fc4900eaa95630afb5,Comments: ,no,no,Sujood,56fdb0243c05772f364b9b9e,437.734053,miscatches
+,,,,,,,,56ed8f4b4900eaa9563081e5,Comments: ,no,no,Sujood,56ed992c3c05772f364b9637,100.573885,miscatches
+,,,,,,,,562fec1ea158c641ed000000,Comments: ,yes,no,Sujood,562ff630048db6162fb41b84,60.743678,miscatches
+,,,,,,,,570d74ce4900eaa95630deb3,Comments: ,no,no,Sujood,570d7f462cbb7066795a7541,120.445741,miscatches
+,,,,,,,,560ec6bba2d6347caf000000,Comments: ,no,no,Sujood,560ecfe94071c0807469e74e,89.296408,miscatches
+,,,,,,,,5706df314900eaa95630cd55,Comments: ,no,no,Sujood,5706eaaba94a992747af08b6,225.917064,miscatches
+,,,,,,,,564b9e5df477ce7448000000,Comments: ,no,no,Sujood,564ba2e098d49e7e5f332ef5,291.196981,miscatches
+,,,,,,,,5580afda71a87f7a07000000,Comments: ,yes,no,Sujood,5580bc5a04b3802b60a6aac1,61.951347,miscatches
+,,,,,,,,5581d52371a87f2469000000,Comments: ,yes,no,Sujood,5581df0304b3802b60a6ab14,113.719175,miscatches
+,,,,,,,,569587223468d1801ccdccdc,Comments: ,yes,no,Sujood,569591d8f3b44fa65d6ee4e5,81.507593,miscatches
+,,,,,,,,556c910871a87f676b000000,Comments: ,no,no,Sujood,556c9e80262166a430abe3b5,91.114304,miscatches
+,,,,,,,,566f37d45dbed7659e000000,Comments: ,no,no,Sujood,566f3eacd3acecc654934b63,108.547536,miscatches
+,,,,,,,,56e890c54900eaa95630745a,Comments: ,no,yes,Sujood,56e89a3a4ba078af44a8454f,124.986166,miscatches
+,,,,,,,,,Comments: ,yes,no,Sujood,524e923a4ef4f83c2c000004,71.19548,miscatches
+,,,,,,,,,Comments: ,yes,no,Sujood,50a42426b90a25dc07000040,105.953168,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,524ea8fc4ef4f83c2c00000a,55.250525,miscatches
+,,,,,,,,,Comments: ,yes,no,Sujood,50f28212c1bd1cc80e0000ba,42.990906,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,518f657bd78f3d881f000006,59.481777,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,50d46ac6ce596ad0050000a3,37.169951,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,50d46eadce596ad0050000a5,110.041917,miscatches
+,,,,,,,,566b32faf477ce7ad2000000,Comments: ,yes,no,Sujood,566b3691d3acecc654934a18,56.682803,miscatches
+,,,,,,,,5706d9c24900eaa95630cd30,Comments: ,no,yes,Sujood,5706e3a1a94a992747af08af,48.751248,miscatches
+,,,,,,,,5578c60171a87f1603000000,Comments: ,no,no,Sujood,5578ce5804b3802b60a6a78e,68.667074,miscatches
+,,,,,,,,567096225dbed73c53000000,Comments: ,no,no,Sujood,56709bcefcc5549d1b32f38c,72.968624,miscatches
+,,,,,,,,569139d53468d1801ccdc289,Comments: ,no,yes,Sujood,5691436df3b44fa65d6ee389,112.553393,miscatches
+,,,,,,,,5581ee8971a87f5e99000000,Comments: ,no,no,Sujood,5581f8cc04b3802b60a6ab28,80.594853,miscatches
+,,,,,,,,5568e11471a87f5cc2000000,Comments: ,no,no,Sujood,5568edc6262166a430abe37c,41.269666,miscatches
+,,,,,,,,5675bbc45dbed7073c000000,Comments: ,no,no,Sujood,56767907fcc5549d1b32f4c0,52.336668,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,5220a7e5ad36552025000030,37.414715,miscatches
+0.0,,,,,,,,55e8eecca2d6346423000000,Comments: ,no,no,Sujood,55e8f98032991e86075a1b1e,3030.349128,miscatches
+1.0,,,,,,,,55e8eecca2d6346423000000,Comments: ,no,no,Sujood,55e8f98032991e86075a1b1e,9810.009797,miscatches
+2.0,,,,,,,,55cfa77a256140134f000000,Comments: ,yes,no,Sujood,55cfb2b05de8844106164226,184.081825,miscatches
+3.0,,,,,,,,56f6c6d64900eaa956309a4c,Comments: ,no,no,Sujood,56f6d33e3c05772f364b9941,130.284779,miscatches
+4.0,,,,,,,,56fda6fc4900eaa95630afb5,Comments: ,no,no,Sujood,56fdb0243c05772f364b9b9e,437.734053,miscatches
+5.0,,,,,,,,56ed8f4b4900eaa9563081e5,Comments: ,no,no,Sujood,56ed992c3c05772f364b9637,100.573885,miscatches
+6.0,,,,,,,,562fec1ea158c641ed000000,Comments: ,yes,no,Sujood,562ff630048db6162fb41b84,60.743678,miscatches
+7.0,,,,,,,,570d74ce4900eaa95630deb3,Comments: ,no,no,Sujood,570d7f462cbb7066795a7541,120.445741,miscatches
+8.0,,,,,,,,560ec6bba2d6347caf000000,Comments: ,no,no,Sujood,560ecfe94071c0807469e74e,89.296408,miscatches
+9.0,,,,,,,,5706df314900eaa95630cd55,Comments: ,no,no,Sujood,5706eaaba94a992747af08b6,225.917064,miscatches
+10.0,,,,,,,,564b9e5df477ce7448000000,Comments: ,no,no,Sujood,564ba2e098d49e7e5f332ef5,291.196981,miscatches
+11.0,,,,,,,,5580afda71a87f7a07000000,Comments: ,yes,no,Sujood,5580bc5a04b3802b60a6aac1,61.951347,miscatches
+12.0,,,,,,,,55cfa77a256140134f000000,Comments: ,yes,no,Sujood,55cfb2b05de8844106164226,68196.008793,miscatches
+13.0,,,,,,,,5581d52371a87f2469000000,Comments: ,yes,no,Sujood,5581df0304b3802b60a6ab14,113.719175,miscatches
+14.0,,,,,,,,569587223468d1801ccdccdc,Comments: ,yes,no,Sujood,569591d8f3b44fa65d6ee4e5,81.507593,miscatches
+15.0,,,,,,,,556c910871a87f676b000000,Comments: ,no,no,Sujood,556c9e80262166a430abe3b5,91.114304,miscatches
+16.0,,,,,,,,566f37d45dbed7659e000000,Comments: ,no,no,Sujood,566f3eacd3acecc654934b63,108.547536,miscatches
+17.0,,,,,,,,56e890c54900eaa95630745a,Comments: ,no,yes,Sujood,56e89a3a4ba078af44a8454f,124.986166,miscatches
+18.0,,,,,,,,,Comments: ,yes,no,Sujood,524e923a4ef4f83c2c000004,71.19548,miscatches
+19.0,,,,,,,,,Comments: ,yes,no,Sujood,50a42426b90a25dc07000040,105.953168,miscatches
+20.0,,,,,,,,,Comments: ,no,no,Sujood,524ea8fc4ef4f83c2c00000a,55.250525,miscatches
+21.0,,,,,,,,,Comments: ,yes,no,Sujood,50f28212c1bd1cc80e0000ba,42.990906,miscatches
+22.0,,,,,,,,,Comments: ,no,no,Sujood,518f657bd78f3d881f000006,59.481777,miscatches
+23.0,,,,,,,,,Comments: ,no,no,Sujood,50d46ac6ce596ad0050000a3,37.169951,miscatches
+24.0,,,,,,,,5581d52371a87f2469000000,Comments: ,yes,no,Sujood,5581df0304b3802b60a6ab14,6588.912637,miscatches
+25.0,,,,,,,,,Comments: ,no,no,Sujood,50d46eadce596ad0050000a5,110.041917,miscatches
+26.0,,,,,,,,566b32faf477ce7ad2000000,Comments: ,yes,no,Sujood,566b3691d3acecc654934a18,56.682803,miscatches
+27.0,,,,,,,,5706d9c24900eaa95630cd30,Comments: ,no,yes,Sujood,5706e3a1a94a992747af08af,48.751248,miscatches
+28.0,,,,,,,,5578c60171a87f1603000000,Comments: ,no,no,Sujood,5578ce5804b3802b60a6a78e,68.667074,miscatches
+29.0,,,,,,,,567096225dbed73c53000000,Comments: ,no,no,Sujood,56709bcefcc5549d1b32f38c,72.968624,miscatches
+30.0,,,,,,,,569139d53468d1801ccdc289,Comments: ,no,yes,Sujood,5691436df3b44fa65d6ee389,112.553393,miscatches
+31.0,,,,,,,,5581ee8971a87f5e99000000,Comments: ,no,no,Sujood,5581f8cc04b3802b60a6ab28,80.594853,miscatches
+32.0,,,,,,,,5568e11471a87f5cc2000000,Comments: ,no,no,Sujood,5568edc6262166a430abe37c,41.269666,miscatches
+33.0,,,,,,,,5675bbc45dbed7073c000000,Comments: ,no,no,Sujood,56767907fcc5549d1b32f4c0,52.336668,miscatches
+34.0,,,,,,,,,Comments: ,no,no,Sujood,5220a7e5ad36552025000030,37.414715,miscatches
+35.0,,,,,,,,5581d52371a87f2469000000,Comments: ,yes,no,Sujood,5581df0304b3802b60a6ab14,16981.029188,miscatches
+36.0,,,,,,,,,Comments: ,no,no,Sujood,5214569ae45f421c0b000001,210.385893,miscatches
+37.0,,,,,,,,,Comments: ,no,no,Sujood,517f95b5c13b8fd40e000001,110.337893,miscatches
+38.0,,,,,,,,,Comments: ,no,no,Sujood,51a1cf45a99d46d810000003,139.088606,miscatches
+39.0,,,,,,,,,Comments: ,no,yes,Sujood,5223656acf80006424000002,1221.714731,miscatches
+40.0,,,,,,,,5543d8a61ee54a0cdb000000,Comments: ,no,no,Sujood,5543e62bf37cae8908b4e0ef,63.631926,miscatches
+41.0,,,,,,,,554159431ee54a54ec000000,Comments: ,no,no,Sujood,5541661ff37cae8908b4dfc4,206.691181,miscatches
+42.0,,,,,,,,,Comments: ,no,no,Sujood,5268a887b614afb42b000022,303.929076,miscatches
+43.0,,,,,,,,553aa48c1ee54a6ec7000000,Comments: ,no,no,Sujood,553f7dad35e8a5cf705eea24,59.419493,miscatches
+44.0,,,,,,,,55ff1651a2d634795f000000,Comments: ,yes,no,Sujood,55ff20054071c0807469d90e,94.447956,miscatches
+45.0,,,,,,,,,Comments: ,no,no,Sujood,525a1e0894a9e3a65300000d,41.416225,miscatches
+46.0,,,,,,,,55f4ad56a2d6342c35000000,Comments: ,no,no,Sujood,55f4b6f832991e86075a23eb,48.33498,miscatches
+47.0,,,,,,,,,Comments: ,no,no,Sujood,52aa93d4fb349a4e7e000004,52.568165,miscatches
+48.0,,,,,,,,,Comments: ,no,no,Sujood,52957c9b682169c055000047,123.873782,miscatches
+49.0,,,,,,,,,Comments: ,no,no,Sujood,52884cfd6baa3f244f000003,63.205366,miscatches
+50.0,,,,,,,,5615b29ca2d63458c3000000,Comments: ,no,no,Sujood,5615b83783609b152d5ebb11,88.682875,miscatches
+51.0,,,,,,,,57006ff54900eaa95630b7e4,Comments: ,no,no,Sujood,570079703c05772f364b9cbc,228.369863,miscatches
+52.0,,,,,,,,55e4f76c2561406b89000000,Comments: ,yes,yes,Sujood,55e504bd32991e86075a1830,60.666669,miscatches
+53.0,,,,,,,,,Comments: ,no,no,Sujood,5270d2795bddb5b42d000011,42.121408,miscatches
+54.0,,,,,,,,55d7c10aa2d6340649000000,Comments: ,no,yes,Sujood,55d74aa232991e86075a0e9c,105.450091,miscatches
+55.0,,,,,,,,56f5640c4900eaa956309513,Comments: ,no,no,Sujood,56f56eb43c05772f364b9886,35.456443,miscatches
+56.0,,,,,,,,570554e34900eaa95630c881,Comments: ,yes,yes,Sujood,57055dfc3c05772f364b9db8,74.170901,miscatches
+57.0,,,,,,,,561988592561407d42000000,Comments: ,no,yes,Sujood,56198e8183609b152d5ebdea,52.61493,miscatches
+58.0,,,,,,,,565ce178a2d6342979000000,Comments: ,no,no,Sujood,565ceb4ef7a5496b79ede6d7,674.929393,miscatches
+59.0,,,,,,,,550461c76c40b12447000000,Comments: ,no,yes,Sujood,55046cad40a873c1062bdee0,82.190475,miscatches
+60.0,,,,,,,,563f91fea2d6346f83000000,Comments: ,yes,no,Sujood,563f989898d49e7e5f332578,74.709787,miscatches
+61.0,,,,,,,,5650d7692561404b05000000,Comments: ,no,no,Sujood,56519b18555cbfc975e9b7b3,312.9202,miscatches
+62.0,,,,,,,,,Comments: ,no,no,Sujood,528309365e5ba5e55b00000d,116.669136,miscatches
+63.0,,,,,,,,56365baaa2d6345fbc000000,Comments: ,no,yes,Sujood,57419567053bfc7d17270e4c,71.380701,miscatches
+64.0,,,,,,,,,Comments: ,no,no,Sujood,5270d0495bddb5b42d000003,221.443681,miscatches
+65.0,,,,,,,,55d506de2561400628000000,Comments: I'm not sure where the Iz electrode is located exactly!,no,no,Sujood,55d510f832991e86075a0d13,622.005498,miscatches
+66.0,,,,,,,,,Comments: ,yes,no,Sujood,5291f7f2fc61aac642000013,45.069616,miscatches
+67.0,,,,,,,,55ef7cbf2561403ec5000000,Comments: ,no,yes,Sujood,55ef881032991e86075a1f78,119.802852,miscatches
+68.0,,,,,,,,570978c84900eaa95630d4d2,Comments: ,yes,no,Sujood,5709827ea94a992747af099f,81.631048,miscatches
+69.0,,,,,,,,55fef146a2d6343479000000,Comments: ,no,no,Sujood,55fefa824071c0807469d8d1,259.747193,miscatches
+70.0,,,,,,,,570c25644900eaa95630d98a,Comments: ,yes,no,Sujood,570c2f732cbb7066795a7488,252.546048,miscatches
+71.0,,,,,,,,,Comments: ,yes,no,Sujood,5281b63648b9fd704600000c,335.318416,miscatches
+72.0,,,,,,,,55cb936b2561406397000000,Comments: ,yes,yes,Sujood,55cb9f795de884410616401c,60.984604,miscatches
+73.0,,,,,,,,561a9a32256140062f000000,Comments: ,yes,no,Sujood,561aa32283609b152d5ebe57,87.359535,miscatches
+74.0,,,,,,,,550478486c40b16833000000,Comments: ,no,no,Sujood,550481c740a873c1062bdef4,51.789525,miscatches
+75.0,,,,,,,,56f423ca4900eaa956309147,Comments: ,no,no,Sujood,56f42b013c05772f364b9818,124.381564,miscatches
+76.0,,,,,,,,55ef465b55f031054c000000,Comments: ,no,no,Sujood,55ef4d7332991e86075a1ef0,120.159269,miscatches
+77.0,,,,,,,,55ce0b062561405dc9000000,Comments: P3a was catched slightly ,no,no,Sujood,55ce13bf5de884410616411a,309.325414,miscatches
+78.0,,,,,,,,5643adb9a158c61f68000000,Comments: P3a was slightly cought,no,yes,Sujood,5643b5e198d49e7e5f3328e7,205.774381,miscatches
+79.0,,,,,,,,56feed984900eaa95630b315,Comments: ,no,yes,Sujood,56fef8c23c05772f364b9bf1,59.092132,miscatches
+,,,,,,,,570025494900eaa95630b6ab,Comments: ,no,no,Sujood,570030b93c05772f364b9c87,189.803599,miscatches
+,,,,,,,,566f299ef477ce0034000000,Comments: P3a was slightly caught in the center,no,no,Sujood,566f32f1d3acecc654934b4d,127.599127,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,5220b423ad36552025000039,75.279067,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,512dc15d4fb5926016000001,72.309775,miscatches
+0.0,0.0,,,,,,,563500a2a2d6344409000000,Comments: ,no,no,Sujood,56350b55048db6162fb42043,83020.768213,miscatches
+1.0,1.0,,,,,,,56e886524900eaa95630740c,"Comments: novel data is bad. low SNR, ERP component are indistinguishable ; the frontal P3a-like activity might be a blink.",yes,no,Sujood,56e890d84ba078af44a84545,1089.922523,miscatches
+2.0,2.0,,,,,,,56393dfca2d63409f8000000,Comments: ,no,no,Sujood,563948d8048db6162fb4243a,140.690187,miscatches
+3.0,3.0,,,,,,,55148a1b6c40b13037000000,Comments: ,no,no,Sujood,55149777694f0bc90e5a8a54,1657.286791,miscatches
+4.0,4.0,,,,,,,56c37f49dc35d3b51fe8ccdc,Comments: ,no,no,Sujood,56c38969d3a0ecdf36432973,65.560649,miscatches
+5.0,5.0,,,,,,,55fef0fd2561406610000000,Comments: ,no,yes,Sujood,55fef82a4071c0807469d8cd,462.849783,miscatches
+6.0,6.0,,,,,,,55d9165ca2d6340e88000000,Comments: ,no,no,Sujood,55d8a0e732991e86075a0f9d,28.261018,miscatches
+7.0,7.0,,,,,,,56f6e8054900eaa956309ae0,Comments: ,yes,yes,Sujood,56f6f1bd3c05772f364b9964,388.978546,miscatches
+8.0,8.0,,,,,,,56198967a2d63430de000000,the activity in both target and novel is rightward. the P3a mighht not be a miscatch' but the designated peak electrode is AFz which for sure is wrong! check the script for choosing peak electrode!,yes,no,Sujood,56198e8183609b152d5ebde7,444.250259,miscatches
+9.0,9.0,,,,,,,55e25180a2d63412f2000000,Comments: ,no,no,Sujood,55e1de4b32991e86075a157d,52.029878,miscatches
+10.0,10.0,,,,,,,56144e3ba2d63443b0000000,Comments: ,no,yes,Sujood,561457e64071c0807469ebeb,464.870472,miscatches
+11.0,11.0,,,,,,,563642c825614073bc000000,Comments: ,yes,no,Sujood,5821e73303086d3115084a22,128.302012,miscatches
+12.0,12.0,,,,,,,56c21f45dc35d3b51fe8c92c,Comments: ,yes,no,Sujood,56c2294f4d4324a813a2b515,1227.673943,miscatches
+13.0,,,,,,,,56313cc0a158c62014000000,Comments: ,yes,no,Sujood,563147c8048db6162fb41caf,2872.717448,miscatches
+14.0,,,,,,,,561a9b75a2d6345ff6000000,Comments: ,no,no,Sujood,561aa57a83609b152d5ebe5b,282.17258,miscatches
+15.0,,,,,,,,571e38d8cc9fe7320d2e5e52,Comments: ,no,no,Sujood,571e4171a5add43e1bf2ca38,235.881826,miscatches
+16.0,,,,,,,,55e78199a2d6344b73000000,Comments: ,no,no,Sujood,55e78bc732991e86075a197e,44.797404,miscatches
+17.0,,,,,,,,5623cccea2d63431ec000000,Comments: ,no,no,Sujood,5623d887048db6162fb41005,117.274216,miscatches
+18.0,,,,,,,,5601fb98256140356b000000,Comments: ,no,no,Sujood,560204e04071c0807469de85,51.731215,miscatches
+19.0,,,,,,,,56e9e7ff4900eaa956307851,Comments: ,no,no,Sujood,56e9f1443c05772f364b94a9,30.624033,miscatches
+20.0,,,,,,,,56fc71b14900eaa95630ac48,Comments: ,yes,no,Sujood,56fc7a833c05772f364b9b04,40.547334,miscatches
+21.0,,,,,,,,56351ce925614044fe000000,Comments: ,no,no,Sujood,56352778048db6162fb420b3,80.666182,miscatches
+22.0,,,,,,,,56f584bc4900eaa9563096c0,"Comments:""P3a peak electrode = P2"" P3a was caught in the centre and not in the posterior area. So I considered it as a miscatch ",yes,no,Sujood,56f58f8c3c05772f364b98c6,382.214349,miscatches
+23.0,,,,,,,,56f9b5e84900eaa95630a2e4,Comments: ,no,no,Sujood,56f9bf863c05772f364b9a2d,175.152461,miscatches
+24.0,,,,,,,,5606bd92a2d634435c000000,Comments: ,no,no,Sujood,5606c7ee4071c0807469e1f8,70.904142,miscatches
+25.0,,,,,,,,55e103a125614060c9000000,Comments: ,no,no,Sujood,55e1100032991e86075a1556,50.297963,miscatches
+26.0,,,,,,,,560470c42561402ce8000000,Comments: ,yes,no,Sujood,5604792a4071c0807469e08a,60.310995,miscatches
+27.0,,,,,,,,572291bfc09c5de50c2551a9,Comments: ,no,no,Sujood,57229b96a5add43e1bf2cb3f,140.892521,miscatches
+28.0,,,,,,,,55d2be88a2d6346d77000000,Comments: ,no,no,Sujood,55d24aa032991e86075a0a84,499.555152,miscatches
+,,,,,,,,56313cc0a158c62014000000,Comments: ,yes,no,Sujood,563147c8048db6162fb41caf,6822.901388,miscatches
+,,,,,,,,56f55c254900eaa9563094af,"Comments: ""P3a peak electrode = CP1"" P3a was caught in the centre frontal area and not the posterior Therefore I considered it as a miscatch ",yes,no,Sujood,56f567a93c05772f364b9870,516.510722,miscatches
+,,,,,,,,563e69a5a2d6343007000000,Comments: ,no,no,Sujood,563e710698d49e7e5f332437,73.600261,miscatches
+,,,,,,,,56ffdf0a4900eaa95630b50b,Comments: ,yes,yes,Sujood,56ffe8013c05772f364b9c3b,790.336986,miscatches
+,,,,,,,,55fda1832561404d04000000,Comments: ,no,yes,Sujood,55fdad9e4071c0807469d7ba,325.773704,miscatches
+,,,,,,,,572290a7cc9fe7320d2e635a,Comments: ,no,no,Sujood,57229b96a5add43e1bf2cb3d,42.401899,miscatches
+,,,,,,,,56d0d7e8dc35d3b51fe8e32f,Comments: ,yes,no,Sujood,56d0e04d201e63163804038e,531.881106,miscatches
+,,,,,,,,56218dea2561405794000000,Comments: ,yes,no,Sujood,5621945483609b152d5ec59c,31.018198,miscatches
+,,,,,,,,5526fcaf6c40b172ad000000,Comments: ,no,no,Sujood,552bda57bb13491c5132d190,53.352009,miscatches
+,,,,,,,,57095c704900eaa95630d440,Comments: P3b was slightly caught,yes,no,Sujood,57096657a94a992747af097c,72.916381,miscatches
+,,,,,,,,56fffeb84900eaa95630b5e6,Comments: ,no,no,Sujood,57000b313c05772f364b9c67,56.592415,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,50802b06d6947ee41f0000a6,535.931904,miscatches
+0.0,0.0,0.0,,,,,,563500a2a2d6344409000000,Comments: ,no,no,Sujood,56350b55048db6162fb42043,83020.768213,miscatches
+1.0,1.0,1.0,,,,,,56e886524900eaa95630740c,"Comments: novel data is bad. low SNR, ERP component are indistinguishable ; the frontal P3a-like activity might be a blink.",yes,no,Sujood,56e890d84ba078af44a84545,1089.922523,miscatches
+2.0,2.0,2.0,,,,,,56393dfca2d63409f8000000,Comments: ,no,no,Sujood,563948d8048db6162fb4243a,140.690187,miscatches
+3.0,3.0,3.0,,,,,,55148a1b6c40b13037000000,Comments: ,no,no,Sujood,55149777694f0bc90e5a8a54,1657.286791,miscatches
+4.0,4.0,4.0,,,,,,56c37f49dc35d3b51fe8ccdc,Comments: ,no,no,Sujood,56c38969d3a0ecdf36432973,65.560649,miscatches
+5.0,5.0,5.0,,,,,,55fef0fd2561406610000000,Comments: ,no,yes,Sujood,55fef82a4071c0807469d8cd,462.849783,miscatches
+6.0,6.0,6.0,,,,,,55d9165ca2d6340e88000000,Comments: ,no,no,Sujood,55d8a0e732991e86075a0f9d,28.261018,miscatches
+7.0,7.0,7.0,,,,,,56f6e8054900eaa956309ae0,Comments: ,yes,yes,Sujood,56f6f1bd3c05772f364b9964,388.978546,miscatches
+8.0,8.0,8.0,,,,,,56198967a2d63430de000000,the activity in both target and novel is rightward. the P3a mighht not be a miscatch' but the designated peak electrode is AFz which for sure is wrong! check the script for choosing peak electrode!,yes,no,Sujood,56198e8183609b152d5ebde7,444.250259,miscatches
+9.0,9.0,9.0,,,,,,55e25180a2d63412f2000000,Comments: ,no,no,Sujood,55e1de4b32991e86075a157d,52.029878,miscatches
+10.0,10.0,10.0,,,,,,56144e3ba2d63443b0000000,Comments: ,no,yes,Sujood,561457e64071c0807469ebeb,464.870472,miscatches
+11.0,11.0,11.0,,,,,,563642c825614073bc000000,Comments: ,yes,no,Sujood,5821e73303086d3115084a22,128.302012,miscatches
+12.0,12.0,12.0,,,,,,56c21f45dc35d3b51fe8c92c,Comments: ,yes,no,Sujood,56c2294f4d4324a813a2b515,1227.673943,miscatches
+13.0,13.0,,,,,,,56313cc0a158c62014000000,Comments: ,yes,no,Sujood,563147c8048db6162fb41caf,2872.717448,miscatches
+14.0,14.0,,,,,,,561a9b75a2d6345ff6000000,Comments: ,no,no,Sujood,561aa57a83609b152d5ebe5b,282.17258,miscatches
+15.0,15.0,,,,,,,571e38d8cc9fe7320d2e5e52,Comments: ,no,no,Sujood,571e4171a5add43e1bf2ca38,235.881826,miscatches
+16.0,16.0,,,,,,,55e78199a2d6344b73000000,Comments: ,no,no,Sujood,55e78bc732991e86075a197e,44.797404,miscatches
+17.0,17.0,,,,,,,5623cccea2d63431ec000000,Comments: ,no,no,Sujood,5623d887048db6162fb41005,117.274216,miscatches
+18.0,18.0,,,,,,,5601fb98256140356b000000,Comments: ,no,no,Sujood,560204e04071c0807469de85,51.731215,miscatches
+19.0,19.0,,,,,,,56e9e7ff4900eaa956307851,Comments: ,no,no,Sujood,56e9f1443c05772f364b94a9,30.624033,miscatches
+20.0,20.0,,,,,,,56fc71b14900eaa95630ac48,Comments: ,yes,no,Sujood,56fc7a833c05772f364b9b04,40.547334,miscatches
+21.0,21.0,,,,,,,56351ce925614044fe000000,Comments: ,no,no,Sujood,56352778048db6162fb420b3,80.666182,miscatches
+22.0,22.0,,,,,,,56f584bc4900eaa9563096c0,"Comments:""P3a peak electrode = P2"" P3a was caught in the centre and not in the posterior area. So I considered it as a miscatch ",yes,no,Sujood,56f58f8c3c05772f364b98c6,382.214349,miscatches
+23.0,23.0,,,,,,,56f9b5e84900eaa95630a2e4,Comments: ,no,no,Sujood,56f9bf863c05772f364b9a2d,175.152461,miscatches
+24.0,24.0,,,,,,,5606bd92a2d634435c000000,Comments: ,no,no,Sujood,5606c7ee4071c0807469e1f8,70.904142,miscatches
+25.0,25.0,,,,,,,55e103a125614060c9000000,Comments: ,no,no,Sujood,55e1100032991e86075a1556,50.297963,miscatches
+26.0,26.0,,,,,,,560470c42561402ce8000000,Comments: ,yes,no,Sujood,5604792a4071c0807469e08a,60.310995,miscatches
+27.0,27.0,,,,,,,572291bfc09c5de50c2551a9,Comments: ,no,no,Sujood,57229b96a5add43e1bf2cb3f,140.892521,miscatches
+28.0,28.0,,,,,,,55d2be88a2d6346d77000000,Comments: ,no,no,Sujood,55d24aa032991e86075a0a84,499.555152,miscatches
+29.0,,,,,,,,56313cc0a158c62014000000,Comments: ,yes,no,Sujood,563147c8048db6162fb41caf,6822.901388,miscatches
+30.0,,,,,,,,56f55c254900eaa9563094af,"Comments: ""P3a peak electrode = CP1"" P3a was caught in the centre frontal area and not the posterior Therefore I considered it as a miscatch ",yes,no,Sujood,56f567a93c05772f364b9870,516.510722,miscatches
+31.0,,,,,,,,563e69a5a2d6343007000000,Comments: ,no,no,Sujood,563e710698d49e7e5f332437,73.600261,miscatches
+32.0,,,,,,,,56ffdf0a4900eaa95630b50b,Comments: ,yes,yes,Sujood,56ffe8013c05772f364b9c3b,790.336986,miscatches
+33.0,,,,,,,,55fda1832561404d04000000,Comments: ,no,yes,Sujood,55fdad9e4071c0807469d7ba,325.773704,miscatches
+34.0,,,,,,,,572290a7cc9fe7320d2e635a,Comments: ,no,no,Sujood,57229b96a5add43e1bf2cb3d,42.401899,miscatches
+35.0,,,,,,,,56d0d7e8dc35d3b51fe8e32f,Comments: ,yes,no,Sujood,56d0e04d201e63163804038e,531.881106,miscatches
+36.0,,,,,,,,56218dea2561405794000000,Comments: ,yes,no,Sujood,5621945483609b152d5ec59c,31.018198,miscatches
+37.0,,,,,,,,5526fcaf6c40b172ad000000,Comments: ,no,no,Sujood,552bda57bb13491c5132d190,53.352009,miscatches
+38.0,,,,,,,,57095c704900eaa95630d440,Comments: P3b was slightly caught,yes,no,Sujood,57096657a94a992747af097c,72.916381,miscatches
+39.0,,,,,,,,56fffeb84900eaa95630b5e6,Comments: ,no,no,Sujood,57000b313c05772f364b9c67,56.592415,miscatches
+40.0,,,,,,,,,Comments: ,no,no,Sujood,50802b06d6947ee41f0000a6,535.931904,miscatches
+41.0,,,,,,,,56313cc0a158c62014000000,Comments: ,yes,no,Sujood,563147c8048db6162fb41caf,15587.518813,miscatches
+42.0,,,,,,,,,Comments: ,no,no,Sujood,5269787da42ff20410000001,65.888361,miscatches
+43.0,,,,,,,,,Comments: ,no,yes,Sujood,52407d4345b1304c25000026,66.625742,miscatches
+44.0,,,,,,,,,Comments: ,no,no,Sujood,50ae2204ac907de005000012,58.199486,miscatches
+45.0,,,,,,,,,Comments: ,yes,no,Sujood,5220703cad36552025000003,134.013736,miscatches
+46.0,,,,,,,,,Comments: ,no,no,Sujood,5214824cd4109d982a000002,47.799234,miscatches
+47.0,,,,,,,,,Comments: P3b was slightly caught,no,no,Sujood,5220ad5aad36552025000035,59.920508,miscatches
+48.0,,,,,,,,,Comments: ,no,no,Sujood,50802945d6947ee41f00008e,49.791271,miscatches
+49.0,,,,,,,,,Comments: ,no,no,Sujood,50b38d45b22510d810000004,38.609614,miscatches
+50.0,,,,,,,,,Comments: ,no,no,Sujood,5240441045b1304c2500000e,52.460001,miscatches
+51.0,,,,,,,,,"Comments: ""P3a peak electrode = O1"" P3a was caught in the centre frontal area and not the posterior Therefore I considered it as a miscatch ",yes,no,Sujood,50e976ef2e5033d805000002,88.214699,miscatches
+52.0,,,,,,,,,Comments: ,no,no,Sujood,50abd4ad9f4a93d007000011,29.925213,miscatches
+,,,,,,,,55fb3646a2d6341b8d000000,Comments: ,yes,yes,Sujood,55fb3e044071c0807469d545,169.512547,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,5220bbd4ad36552025000040,77.339627,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,50801b5bd6947ee41f00001f,74.013445,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,5110ddc41555a4ec15000001,141.834633,miscatches
+,,,,,,,,,Comments: ,yes,no,Sujood,50f27eecc1bd1cc80e00001a,31.56618,miscatches
+,,,,,,,,,Comments: ,no,no,Sujood,524aae8599af717c22000014,49.279155,miscatches
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,563500a2a2d6344409000000,Comments: ,no,no,Sujood,56350b55048db6162fb42043,83020.768213,miscatches
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,56e886524900eaa95630740c,"Comments: novel data is bad. low SNR, ERP component are indistinguishable ; the frontal P3a-like activity might be a blink.",yes,no,Sujood,56e890d84ba078af44a84545,1089.922523,miscatches
+2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,56393dfca2d63409f8000000,Comments: ,no,no,Sujood,563948d8048db6162fb4243a,140.690187,miscatches
+3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,55148a1b6c40b13037000000,Comments: ,no,no,Sujood,55149777694f0bc90e5a8a54,1657.286791,miscatches
+4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,56c37f49dc35d3b51fe8ccdc,Comments: ,no,no,Sujood,56c38969d3a0ecdf36432973,65.560649,miscatches
+5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,55fef0fd2561406610000000,Comments: ,no,yes,Sujood,55fef82a4071c0807469d8cd,462.849783,miscatches
+6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,55d9165ca2d6340e88000000,Comments: ,no,no,Sujood,55d8a0e732991e86075a0f9d,28.261018,miscatches
+7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,56f6e8054900eaa956309ae0,Comments: ,yes,yes,Sujood,56f6f1bd3c05772f364b9964,388.978546,miscatches
+8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,56198967a2d63430de000000,the activity in both target and novel is rightward. the P3a mighht not be a miscatch' but the designated peak electrode is AFz which for sure is wrong! check the script for choosing peak electrode!,yes,no,Sujood,56198e8183609b152d5ebde7,444.250259,miscatches
+9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,55e25180a2d63412f2000000,Comments: ,no,no,Sujood,55e1de4b32991e86075a157d,52.029878,miscatches
+10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,56144e3ba2d63443b0000000,Comments: ,no,yes,Sujood,561457e64071c0807469ebeb,464.870472,miscatches
+11.0,11.0,11.0,11.0,11.0,11.0,11.0,11.0,563642c825614073bc000000,Comments: ,yes,no,Sujood,5821e73303086d3115084a22,128.302012,miscatches
+12.0,12.0,12.0,12.0,12.0,12.0,12.0,12.0,56c21f45dc35d3b51fe8c92c,Comments: ,yes,no,Sujood,56c2294f4d4324a813a2b515,1227.673943,miscatches
+13.0,13.0,13.0,13.0,13.0,13.0,13.0,,56313cc0a158c62014000000,Comments: ,yes,no,Sujood,563147c8048db6162fb41caf,2872.717448,miscatches
+14.0,14.0,14.0,14.0,14.0,14.0,14.0,,561a9b75a2d6345ff6000000,Comments: ,no,no,Sujood,561aa57a83609b152d5ebe5b,282.17258,miscatches
+15.0,15.0,15.0,15.0,15.0,15.0,15.0,,571e38d8cc9fe7320d2e5e52,Comments: ,no,no,Sujood,571e4171a5add43e1bf2ca38,235.881826,miscatches
+16.0,16.0,16.0,16.0,16.0,16.0,16.0,,55e78199a2d6344b73000000,Comments: ,no,no,Sujood,55e78bc732991e86075a197e,44.797404,miscatches
+17.0,17.0,17.0,17.0,17.0,17.0,17.0,,5623cccea2d63431ec000000,Comments: ,no,no,Sujood,5623d887048db6162fb41005,117.274216,miscatches
+18.0,18.0,18.0,18.0,18.0,18.0,18.0,,5601fb98256140356b000000,Comments: ,no,no,Sujood,560204e04071c0807469de85,51.731215,miscatches
+19.0,19.0,19.0,19.0,19.0,19.0,19.0,,56e9e7ff4900eaa956307851,Comments: ,no,no,Sujood,56e9f1443c05772f364b94a9,30.624033,miscatches
+20.0,20.0,20.0,20.0,20.0,20.0,20.0,,56fc71b14900eaa95630ac48,Comments: ,yes,no,Sujood,56fc7a833c05772f364b9b04,40.547334,miscatches
+21.0,21.0,21.0,21.0,21.0,21.0,21.0,,56351ce925614044fe000000,Comments: ,no,no,Sujood,56352778048db6162fb420b3,80.666182,miscatches
+22.0,22.0,22.0,22.0,22.0,22.0,22.0,,56f584bc4900eaa9563096c0,"Comments:""P3a peak electrode = P2"" P3a was caught in the centre and not in the posterior area. So I considered it as a miscatch ",yes,no,Sujood,56f58f8c3c05772f364b98c6,382.214349,miscatches
+23.0,23.0,23.0,23.0,23.0,23.0,23.0,,56f9b5e84900eaa95630a2e4,Comments: ,no,no,Sujood,56f9bf863c05772f364b9a2d,175.152461,miscatches
+24.0,24.0,24.0,24.0,24.0,24.0,24.0,,5606bd92a2d634435c000000,Comments: ,no,no,Sujood,5606c7ee4071c0807469e1f8,70.904142,miscatches
+25.0,25.0,25.0,25.0,25.0,25.0,25.0,,55e103a125614060c9000000,Comments: ,no,no,Sujood,55e1100032991e86075a1556,50.297963,miscatches
+26.0,26.0,26.0,26.0,26.0,26.0,26.0,,560470c42561402ce8000000,Comments: ,yes,no,Sujood,5604792a4071c0807469e08a,60.310995,miscatches
+27.0,27.0,27.0,27.0,27.0,27.0,27.0,,572291bfc09c5de50c2551a9,Comments: ,no,no,Sujood,57229b96a5add43e1bf2cb3f,140.892521,miscatches
+28.0,28.0,28.0,28.0,28.0,28.0,28.0,,55d2be88a2d6346d77000000,Comments: ,no,no,Sujood,55d24aa032991e86075a0a84,499.555152,miscatches
+29.0,29.0,29.0,29.0,29.0,29.0,,,56313cc0a158c62014000000,Comments: ,yes,no,Sujood,563147c8048db6162fb41caf,6822.901388,miscatches
+30.0,30.0,30.0,30.0,30.0,30.0,,,56f55c254900eaa9563094af,"Comments: ""P3a peak electrode = CP1"" P3a was caught in the centre frontal area and not the posterior Therefore I considered it as a miscatch ",yes,no,Sujood,56f567a93c05772f364b9870,516.510722,miscatches
+31.0,31.0,31.0,31.0,31.0,31.0,,,563e69a5a2d6343007000000,Comments: ,no,no,Sujood,563e710698d49e7e5f332437,73.600261,miscatches
+32.0,32.0,32.0,32.0,32.0,32.0,,,56ffdf0a4900eaa95630b50b,Comments: ,yes,yes,Sujood,56ffe8013c05772f364b9c3b,790.336986,miscatches
+33.0,33.0,33.0,33.0,33.0,33.0,,,55fda1832561404d04000000,Comments: ,no,yes,Sujood,55fdad9e4071c0807469d7ba,325.773704,miscatches
+34.0,34.0,34.0,34.0,34.0,34.0,,,572290a7cc9fe7320d2e635a,Comments: ,no,no,Sujood,57229b96a5add43e1bf2cb3d,42.401899,miscatches
+35.0,35.0,35.0,35.0,35.0,35.0,,,56d0d7e8dc35d3b51fe8e32f,Comments: ,yes,no,Sujood,56d0e04d201e63163804038e,531.881106,miscatches
+36.0,36.0,36.0,36.0,36.0,36.0,,,56218dea2561405794000000,Comments: ,yes,no,Sujood,5621945483609b152d5ec59c,31.018198,miscatches
+37.0,37.0,37.0,37.0,37.0,37.0,,,5526fcaf6c40b172ad000000,Comments: ,no,no,Sujood,552bda57bb13491c5132d190,53.352009,miscatches
+38.0,38.0,38.0,38.0,38.0,38.0,,,57095c704900eaa95630d440,Comments: P3b was slightly caught,yes,no,Sujood,57096657a94a992747af097c,72.916381,miscatches
+39.0,39.0,39.0,39.0,39.0,39.0,,,56fffeb84900eaa95630b5e6,Comments: ,no,no,Sujood,57000b313c05772f364b9c67,56.592415,miscatches
+40.0,40.0,40.0,40.0,40.0,40.0,,,,Comments: ,no,no,Sujood,50802b06d6947ee41f0000a6,535.931904,miscatches
+41.0,41.0,41.0,41.0,41.0,41.0,,,56313cc0a158c62014000000,Comments: ,yes,no,Sujood,563147c8048db6162fb41caf,15587.518813,miscatches
+42.0,42.0,42.0,42.0,42.0,42.0,,,,Comments: ,no,no,Sujood,5269787da42ff20410000001,65.888361,miscatches
+43.0,43.0,43.0,43.0,43.0,43.0,,,,Comments: ,no,yes,Sujood,52407d4345b1304c25000026,66.625742,miscatches
+44.0,44.0,44.0,44.0,44.0,44.0,,,,Comments: ,no,no,Sujood,50ae2204ac907de005000012,58.199486,miscatches
+45.0,45.0,45.0,45.0,45.0,45.0,,,,Comments: ,yes,no,Sujood,5220703cad36552025000003,134.013736,miscatches
+46.0,46.0,46.0,46.0,46.0,46.0,,,,Comments: ,no,no,Sujood,5214824cd4109d982a000002,47.799234,miscatches
+47.0,47.0,47.0,47.0,47.0,47.0,,,,Comments: P3b was slightly caught,no,no,Sujood,5220ad5aad36552025000035,59.920508,miscatches
+48.0,48.0,48.0,48.0,48.0,48.0,,,,Comments: ,no,no,Sujood,50802945d6947ee41f00008e,49.791271,miscatches
+49.0,49.0,49.0,49.0,49.0,49.0,,,,Comments: ,no,no,Sujood,50b38d45b22510d810000004,38.609614,miscatches
+50.0,50.0,50.0,50.0,50.0,50.0,,,,Comments: ,no,no,Sujood,5240441045b1304c2500000e,52.460001,miscatches
+51.0,51.0,51.0,51.0,51.0,51.0,,,,"Comments: ""P3a peak electrode = O1"" P3a was caught in the centre frontal area and not the posterior Therefore I considered it as a miscatch ",yes,no,Sujood,50e976ef2e5033d805000002,88.214699,miscatches
+52.0,52.0,52.0,52.0,52.0,52.0,,,,Comments: ,no,no,Sujood,50abd4ad9f4a93d007000011,29.925213,miscatches
+53.0,53.0,53.0,53.0,53.0,,,,55fb3646a2d6341b8d000000,Comments: ,yes,yes,Sujood,55fb3e044071c0807469d545,169.512547,miscatches
+54.0,54.0,54.0,54.0,54.0,,,,,Comments: ,no,no,Sujood,5220bbd4ad36552025000040,77.339627,miscatches
+55.0,55.0,55.0,55.0,55.0,,,,,Comments: ,no,no,Sujood,50801b5bd6947ee41f00001f,74.013445,miscatches
+56.0,56.0,56.0,56.0,56.0,,,,,Comments: ,no,no,Sujood,5110ddc41555a4ec15000001,141.834633,miscatches
+57.0,57.0,57.0,57.0,57.0,,,,,Comments: ,yes,no,Sujood,50f27eecc1bd1cc80e00001a,31.56618,miscatches
+58.0,58.0,58.0,58.0,58.0,,,,,Comments: ,no,no,Sujood,524aae8599af717c22000014,49.279155,miscatches
+59.0,59.0,59.0,59.0,,,,,,Comments: P3a was slightly caught,no,no,Sujood,525b25c3d5cdcc8c2900000c,155.275712,miscatches
+60.0,60.0,60.0,60.0,,,,,,Comments: ,no,no,Sujood,50a43aa1b90a25dc07000049,225.738993,miscatches
+61.0,61.0,61.0,61.0,,,,,,Comments: ,no,no,Sujood,5235aa94c9c3ef1c29000001,56.868702,miscatches
+62.0,62.0,62.0,62.0,,,,,,Comments: ,no,no,Sujood,5263ad3937329c3027000005,44.610135,miscatches
+63.0,63.0,63.0,63.0,,,,,,Comments: ,no,no,Sujood,525b60a1cb7e52f010000001,35.570562,miscatches
+64.0,64.0,64.0,64.0,,,,,,Comments: ,no,no,Sujood,50a543a9b90a25dc070000ae,31.254663,miscatches
+65.0,65.0,65.0,65.0,,,,,,Comments: ,no,no,Sujood,51e967dff84e06100c000002,51.952932,miscatches
+66.0,66.0,66.0,66.0,,,,,,Comments: ,no,no,Sujood,522c7f978c23c05c29000004,41.244155,miscatches
+67.0,67.0,67.0,67.0,,,,,,Comments: ,yes,no,Sujood,524eb1e14ef4f83c2c00000e,62.656805,miscatches
+68.0,68.0,68.0,68.0,,,,,,Comments: ,no,no,Sujood,50a5115cb90a25dc0700009c,43.040561,miscatches
+69.0,69.0,69.0,69.0,,,,,5510828a6c40b10c10000000,Comments: ,no,no,Sujood,55108e3c694f0bc90e5a78d2,59.549668,miscatches
+70.0,70.0,70.0,70.0,,,,,550366b06c40b144dd000000,Comments: ,no,no,Sujood,550371d540a873c1062bdead,45.163281,miscatches
+71.0,71.0,71.0,71.0,,,,,5528248a8c149b401a000000,Comments: ,yes,no,Sujood,552bda65bb13491c5132d238,42.101227,miscatches
+72.0,72.0,72.0,72.0,,,,,55ef5f702561407df0000000,Comments: ,yes,no,Sujood,55ef673d32991e86075a1f33,52.382282,miscatches
+73.0,73.0,73.0,73.0,,,,,55f20a412561400bf6000000,Comments: ,no,no,Sujood,55f2162332991e86075a2167,115.051014,miscatches
+74.0,74.0,74.0,74.0,,,,,550dc4506c40b1102a000000,Comments: ,no,no,Sujood,550dceec694f0bc90e5a7766,39.105243,miscatches
+75.0,75.0,75.0,75.0,,,,,551af7306c40b1667f000000,Comments: ,no,no,Sujood,5536539b24e6cdd83608cbd5,97.860485,miscatches
+76.0,76.0,76.0,76.0,,,,,55d02733a2d6341843000000,Comments: ,no,no,Sujood,55cfb2b05de8844106164222,93.070565,miscatches
+77.0,77.0,77.0,77.0,,,,,5601d740a2d634148e000000,Comments: ,no,no,Sujood,5601e1b54071c0807469de30,177.323412,miscatches
+78.0,78.0,78.0,78.0,,,,,55fb5954a2d63479ea000000,Comments: ,no,no,Sujood,55fb612f4071c0807469d581,29.735776,miscatches
+79.0,79.0,79.0,79.0,,,,,56560b0e256140735b000000,Comments: ,no,no,Sujood,56561302f7a5496b79ede4d8,143.411227,miscatches
+80.0,80.0,80.0,80.0,,,,,5525883b6c40b162be000000,Comments: P3a was slightly caught,no,no,Sujood,552bd9e01f2e8ffb507b11c3,73.431266,miscatches
+81.0,81.0,81.0,81.0,,,,,550ddb726c40b12529000000,Comments: ,no,no,Sujood,550de8b7694f0bc90e5a7784,152.866265,miscatches
+82.0,82.0,82.0,82.0,,,,,56071a49a2d63405a1000000,Comments: ,no,no,Sujood,5607235d4071c0807469e294,61.691324,miscatches
+83.0,83.0,83.0,83.0,,,,,55d658262561400df1000000,Comments: ,yes,no,Sujood,55d6628d32991e86075a0e58,44.49138,miscatches
+84.0,84.0,84.0,84.0,,,,,571906e6c09c5de50c254884,Comments: ,no,no,Sujood,571911f52cbb7066795a786c,49.090918,miscatches
+85.0,85.0,85.0,85.0,,,,,55d1fee42561406187000000,Comments: ,no,no,Sujood,55d208fc32991e86075a0a35,43.457115,miscatches
+86.0,86.0,86.0,86.0,,,,,552ebdd78c149b22ac000000,Comments: ,yes,no,Sujood,5534e68ed16471ab5c2c6017,85.803105,miscatches
+87.0,87.0,87.0,87.0,,,,,55106cb56c40b131e5000000,Comments: ,yes,no,Sujood,55107472694f0bc90e5a78b5,50.66175,miscatches
+88.0,88.0,88.0,88.0,,,,,561312e6a2d634311e000000,Comments: ,no,no,Sujood,56131b684071c0807469eade,63.28584,miscatches
+89.0,89.0,89.0,89.0,,,,,5654f4d8a2d63472de000000,Comments: ,yes,no,Sujood,5654fe2ff7a5496b79ede2d4,483.082312,miscatches
+90.0,90.0,90.0,90.0,,,,,54ff61b06c40b12068000000,Comments: ,yes,no,Sujood,54ff6a4040a873c1062bdd82,34.491098,miscatches
+91.0,91.0,91.0,91.0,,,,,55e8d3eea2d6344a4d000000,Comments: ,no,no,Sujood,55e8dd5e32991e86075a1af0,977.075853,miscatches
+92.0,92.0,92.0,92.0,,,,,554299301ee54a1442000000,Comments: ,yes,no,Sujood,5542a753f37cae8908b4e07a,47.101596,miscatches
+93.0,93.0,93.0,93.0,,,,,5536ad811ee54a1ffd000000,Comments: ,yes,no,Sujood,553f7daf35e8a5cf705eea6c,38.25661,miscatches
+94.0,94.0,94.0,94.0,,,,,56d0f0a2dc35d3b51fe8e373,Comments: ,no,no,Sujood,56d0fa1b201e63163804039c,62.768103,miscatches
+95.0,95.0,95.0,95.0,,,,,566788cfa2d6340283000000,Comments: ,no,no,Sujood,56679352f7a5496b79edef2c,36.592354,miscatches
+96.0,96.0,96.0,96.0,,,,,55f5f76da2d6345df9000000,Comments: ,no,no,Sujood,55f6018432991e86075a24e7,41.913301,miscatches
+97.0,97.0,97.0,97.0,,,,,5612f9a2a158c62d2c000000,Comments: ,no,no,Sujood,5613019c4071c0807469ea7c,68.777675,miscatches
+98.0,98.0,98.0,98.0,,,,,5536bdc91ee54a1973000000,Comments: ,no,no,Sujood,553f7daf35e8a5cf705eea5c,427.824719,miscatches
+99.0,99.0,99.0,99.0,,,,,5536bdc91ee54a1973000000,Comments: ,no,no,Sujood,553f7daf35e8a5cf705eea5c,428.029607,miscatches
+100.0,100.0,100.0,100.0,,,,,563e8795a2d6344000000000,Comments: ,no,no,Sujood,563e91de98d49e7e5f332494,106.470118,miscatches
+101.0,101.0,101.0,101.0,,,,,5526d7db6c40b10825000000,Comments: ,no,no,Sujood,552bda56bb13491c5132d174,87.88875,miscatches
+102.0,102.0,102.0,102.0,,,,,551b1ff56c40b14693000000,Comments: ,no,no,Sujood,5536534c24e6cdd83608c97c,31.497631,miscatches
+103.0,103.0,103.0,103.0,,,,,55fb60602561403644000000,Comments: ,no,no,Sujood,55fb68384071c0807469d595,58.76046,miscatches
+104.0,104.0,104.0,104.0,,,,,55d69898a2d63457dc000000,Comments: ,no,no,Sujood,55d6234132991e86075a0df5,41.351246,miscatches
+105.0,105.0,105.0,105.0,,,,,55f22531a2d63451f7000000,Comments: ,no,no,Sujood,55f22d9532991e86075a218d,45.941046,miscatches
+106.0,106.0,106.0,106.0,,,,,553026028c149b6380000000,Comments: ,yes,no,Sujood,5534e642d16471ab5c2c5cbf,127.683014,miscatches
+107.0,107.0,107.0,107.0,,,,,5637ca11256140455b000000,Comments: ,yes,no,Sujood,5637d1a8048db6162fb421bc,80.142552,miscatches
+108.0,108.0,108.0,108.0,,,,,56425548a2d6347f49000000,Comments: ,no,no,Sujood,56425f6098d49e7e5f332768,106.104497,miscatches
+109.0,109.0,109.0,,,,,,550352a46c40b13676000000,Comments: ,no,no,Sujood,55035cbb40a873c1062bde9f,6181.110497,miscatches
+110.0,110.0,110.0,,,,,,55d54e7aa2d6346a5a000000,Comments: ,no,no,Sujood,55d4d8b432991e86075a0cba,72.485241,miscatches
+111.0,111.0,111.0,,,,,,563e2ae0a2d6345fb6000000,Comments: ,no,no,Sujood,563e31ad98d49e7e5f332333,76.305634,miscatches
+112.0,112.0,112.0,,,,,,55f8a1f6a2d6347c41000000,Comments: ,no,no,Sujood,55f8a95d32991e86075a26a8,315.03423,miscatches
+113.0,113.0,,,,,,,561186d825614064f5000000,"Comments: ""P3a peak electrode = FPz"" P3a was caught in the centre area and not the frontal Therefore I considered it as a miscatch ",yes,no,Sujood,56118f344071c0807469e94a,851.353055,miscatches
+114.0,114.0,,,,,,,562ba500a2d6343406000000,Comments: ,no,no,Sujood,562bacf5048db6162fb416d2,121.951332,miscatches
+115.0,115.0,,,,,,,5669c0432561407f15000000,Comments: P3a was weird. I considered it as a miscatch,yes,no,Sujood,5669c8a2d3acecc6549348f8,87.441308,miscatches
+116.0,116.0,,,,,,,5623e34f2561402c04000000,Comments: ,yes,no,Sujood,5623eb49048db6162fb41043,35.660161,miscatches
+117.0,117.0,,,,,,,5542ad071ee54a1ef5000000,Comments: ,no,no,Sujood,5542b7c1f37cae8908b4e09d,103.99027,miscatches
+118.0,118.0,,,,,,,566461692561405dc2000000,Comments: ,yes,no,Sujood,56646c67f7a5496b79edebfd,167.195171,miscatches
+119.0,119.0,,,,,,,56256d7ba2d6342f17000000,Comments: ,yes,no,Sujood,562579d4048db6162fb41162,190.0053,miscatches
+120.0,120.0,,,,,,,5664bc5725614053fb000000,Comments: ,no,no,Sujood,5664c331f7a5496b79edec4e,86.939359,miscatches
+121.0,121.0,,,,,,,556643ed71a87f0f0e000000,Comments: ,yes,no,Sujood,556718d8262166a430abe28b,111.094095,miscatches
+122.0,122.0,,,,,,,563924845dbed713fa000000,Comments: ,yes,yes,Sujood,56392cb0048db6162fb423af,55.621793,miscatches
+123.0,123.0,,,,,,,557c3f4671a87f3a83000000,Comments: ,no,no,Sujood,557c491d04b3802b60a6a963,40.073401,miscatches
+124.0,124.0,,,,,,,5678478ffb0133672988fd9a,Comments: ,no,no,Sujood,56792aa8fcc5549d1b32f69c,127.236338,miscatches
+125.0,125.0,,,,,,,555d00f171a87f742b000000,Comments: ,no,no,Sujood,555ddda49201bcd934abe4e1,39.151181,miscatches
+126.0,126.0,,,,,,,5734ff1bcc9fe7320d2e7e92,Comments: ,no,no,Sujood,57350a10053bfc7d172702f5,130.999745,miscatches
+127.0,127.0,,,,,,,,Comments: ,no,no,Sujood,50ae4126fcf69ff41000001b,51.222978,miscatches
+128.0,128.0,,,,,,,,Comments: ,no,no,Sujood,509c22fa5b4378bc1000006a,48.501797,miscatches
+129.0,129.0,,,,,,,,Comments: ,no,no,Sujood,52209688ad36552025000022,68.025826,miscatches
+130.0,130.0,,,,,,,,Comments: ,no,no,Sujood,50d40a6cce596ad005000068,167.794113,miscatches
+131.0,131.0,,,,,,,,Comments: ,no,no,Sujood,509cad455b4378bc10000129,143.782031,miscatches
+132.0,132.0,,,,,,,,Comments: ,no,no,Sujood,50801917d6947ee41f000007,123.788328,miscatches
+133.0,133.0,,,,,,,,Comments: ,no,no,Sujood,508961e7b1d61ba83b00001d,1000.544398,miscatches
+134.0,134.0,,,,,,,,Comments: ,no,yes,Sujood,5080239ed6947ee41f000043,1653.329877,miscatches
+135.0,135.0,,,,,,,,Comments: ,yes,no,Sujood,50896251b1d61ba83b000032,365.207997,miscatches
+136.0,136.0,,,,,,,,Comments: ,no,no,Sujood,50ae4ee9fcf69ff410000027,194.941022,miscatches
+137.0,137.0,,,,,,,,Comments: ,no,no,Sujood,50abc8eb9f4a93d007000003,83.762578,miscatches
+138.0,138.0,,,,,,,,Comments: ,no,no,Sujood,5080250fd6947ee41f000055,111.749158,miscatches
+139.0,139.0,,,,,,,,Comments: ,no,no,Sujood,5080198ed6947ee41f000010,57.150612,miscatches
+140.0,140.0,,,,,,,,Comments: ,yes,no,Sujood,50896245b1d61ba83b000030,242.10779,miscatches
+141.0,141.0,,,,,,,,Comments: ,no,no,Sujood,52209aedad36552025000026,109.293556,miscatches
+142.0,142.0,,,,,,,,Comments: ,no,yes,Sujood,5220717cad36552025000004,52.341317,miscatches
+143.0,143.0,,,,,,,,Comments: ,no,no,Sujood,50ae4349ac907de00500002a,45.670859,miscatches
+144.0,144.0,,,,,,,,Comments: ,no,no,Sujood,518a10b5c7c602d013000006,167.721886,miscatches
+145.0,145.0,,,,,,,,Comments: ,no,no,Sujood,50a52386b90a25dc070000a2,189.578565,miscatches
+146.0,146.0,,,,,,,,Comments: ,no,no,Sujood,50f6528c93c0dde416000006,38.707346,miscatches
+147.0,147.0,,,,,,,,Comments: ,no,no,Sujood,50a54bd0b90a25dc070000b1,25.649715,miscatches
+148.0,148.0,,,,,,,,Comments: ,no,no,Sujood,50a46013b90a25dc07000058,60.998136,miscatches
+149.0,149.0,,,,,,,,Comments: ,no,no,Sujood,50a59714b90a25dc070000c9,50.236406,miscatches
+150.0,150.0,,,,,,,,Comments: ,no,no,Sujood,515c713e20514aa412000002,30.094552,miscatches
+151.0,151.0,,,,,,,,Comments: ,no,no,Sujood,50f28445c1bd1cc80e000125,35.244997,miscatches
+152.0,152.0,,,,,,,,Comments: ,no,yes,Sujood,5180999dcf0921641d000002,148.341338,miscatches
+153.0,153.0,,,,,,,,Comments: ,no,no,Sujood,50a3bfcab90a25dc07000017,67.824822,miscatches
+154.0,154.0,,,,,,,,Comments: ,no,no,Sujood,513c38d5cc6229e411000006,36.243191,miscatches
+155.0,155.0,,,,,,,,Comments: ,yes,no,Sujood,50a37b72b90a25dc07000003,53.288086,miscatches
+156.0,156.0,,,,,,,,Comments: ,yes,no,Sujood,50a497ffb90a25dc0700006f,29.56852,miscatches
+157.0,,,,,,,,563a5331a158c658a7000000,Comments: ,,,Sujood,563a5ad298d49e7e5f331f20,10.540302,miscatches
+,,,,,,,,563118d52561407143000000,Comments: ,yes,no,Sujood,56312243048db6162fb41c31,550.634481,miscatches
+,,,,,,,,563920e9a2d6346375000000,Comments: ,no,no,Sujood,56392a58048db6162fb423a7,48.253243,miscatches
+,,,,,,,,553013578c149b0f9a000000,Comments: ,no,no,Sujood,5534e643d16471ab5c2c5cd4,66.763039,miscatches
+,,,,,,,,56367b832561403135000000,Comments: ,no,no,Sujood,5819c62503086d311508461c,45.570193,miscatches
+,,,,,,,,564280dfa2d634220e000000,Comments: ,no,no,Sujood,5642874298d49e7e5f3327f1,26.443647,miscatches
+,,,,,,,,55119a676c40b1360e000000,Comments: ,no,no,Sujood,5511a535694f0bc90e5a7951,29.817644,miscatches
+,,,,,,,,5633cba9a2d63474da000000,Comments: ,no,yes,Sujood,5633d5e0048db6162fb41f2b,83.149577,miscatches
+,,,,,,,,56380cc6a2d6344eeb000000,Comments: ,no,no,Sujood,563815a7048db6162fb42295,65.028517,miscatches
+,,,,,,,,562be254a158c61ad6000000,Comments: ,no,no,Sujood,562be9ec048db6162fb41794,41.768492,miscatches
+,,,,,,,,55f71fcea158c63fb1000000,Comments: ,no,no,Sujood,55f728e532991e86075a257b,43.11621,miscatches
+,,,,,,,,563a5f41a2d63434b0000000,Comments: ,no,no,Sujood,563a668d98d49e7e5f331f45,74.641507,miscatches
+,,,,,,,,551d7fd16c40b16bf7000000,Comments: ,no,no,Sujood,552bd9e91f2e8ffb507b12b8,39.694709,miscatches
+,,,,,,,,55356b7b1ee54a0045000000,Comments: ,no,no,Sujood,55361173d16471ab5c2cc281,33.055588,miscatches
+,,,,,,,,55f9b7702561404e99000000,Comments: ,no,no,Sujood,55f9bfe34071c0807469d3c0,36.834255,miscatches
+,,,,,,,,56194daba158c62d01000000,Comments: ,no,no,Sujood,5619563a83609b152d5ebd60,53.689884,miscatches
+,,,,,,,,550b5b616c40b11b92000000,Comments: ,no,yes,Sujood,550b68b8694f0bc90e5a76c0,97.805487,miscatches
+,,,,,,,,5643ce562561400525000000,Comments: ,no,no,Sujood,5643d46198d49e7e5f33292c,50.358886,miscatches
+,,,,,,,,551ad7ec6c40b17e5d000000,Comments: ,no,no,Sujood,55211a2c720ce0a974fa5f8b,41.866222,miscatches
+,,,,,,,,55f8445aa158c62bf6000000,Comments: ,no,no,Sujood,55f8504732991e86075a2634,35.121001,miscatches

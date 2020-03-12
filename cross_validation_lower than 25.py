@@ -161,6 +161,42 @@ def make_unsup(df, all_data, features):
 
 
 
+def reference_get_agebins(x):
+    reference_ages = []
+    if (x.gender == 'Female') & (x.ageV1 <= 16):
+        reference_ages.append("aob_12-16F")
+
+    if (x.gender == 'Male') & (x.ageV1 <= 16):
+        reference_ages.append("aob_12-16M")
+
+    if (x.gender == 'Female') & (x.ageV1 > 14) & (x.ageV1 <= 19):
+        reference_ages.append("aob_14-19F")
+
+    if (x.gender == 'Male') & (x.ageV1 > 14) & (x.ageV1 <= 19):
+        reference_ages.append("aob_14-19M")
+
+    if (x.ageV1 > 18) & (x.ageV1 <= 25):
+        reference_ages.append("aob_18-25")
+
+    if (x.ageV1 > 25) & (x.ageV1 <= 39):
+        reference_ages.append("aob_25-39")
+
+    if (x.ageV1 > 35) & (x.ageV1 <= 50):
+        reference_ages.append("aob_35-50")
+
+    if (x.ageV1 > 50) & (x.ageV1 <= 65):
+        reference_ages.append("aob_50-65")
+
+    if (x.ageV1 > 65) & (x.ageV1 <= 75):
+        reference_ages.append("aob_65-75")
+
+    if x.ageV1 > 75:
+        reference_ages.append("aob_75-85")
+
+    return str(reference_ages).strip('[]')
+
+
+
 def get_agebin(x):
     if (x.gender == 'Female') & (x.ageV1 <= 15.39):
         return "aob_12-16F"
@@ -230,7 +266,8 @@ dq_df = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Pre
 featuresP3a = [i for i in dq_df.columns if ('P3a' in i) and ('miscatch' not in i)] + ['taskData.elm_id']
 dq_df = dq_df[featuresP3a].merge(pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Target.csv"), on='taskData.elm_id')
 dq_df['agebin'] = dq_df.apply(get_agebin, axis=1)
-dq_df = dq_df[(dq_df['agebin'] == "aob_12-16F") | (dq_df['agebin'] == "aob_12-16M") |(dq_df['agebin'] == "aob_14-19F") | (dq_df['agebin'] == "aob_14-19M") | (dq_df['agebin'] == "aob_18-25")]
+dq_df['reference_agebin'] = dq_df.apply(reference_get_agebins, axis=1)
+dq_df = dq_df[(dq_df['reference_agebin'].str.contains("aob_12-16F")) | (dq_df['reference_agebin'].str.contains("aob_12-16M")) |(dq_df['reference_agebin'].str.contains("aob_14-19F")) | (dq_df['reference_agebin'].str.contains("aob_14-19M")) | (dq_df['reference_agebin'].str.contains("aob_18-25"))]
 
 
 cv = StratifiedKFold(7)
@@ -245,11 +282,11 @@ df[features] = ss.transform(df[features])
 
 
 all_data['taskData._id.$oid'] = dq_df['taskData.elm_id'].values
-all_data['agebin'] = dq_df['agebin'].values
+all_data['reference_agebin'] = dq_df['reference_agebin'].values
 agebins_df = []
 for age in df['agebin'].unique():
     agedf = df[df['agebin'] == age]
-    agedf = make_unsup(agedf, all_data[all_data['agebin'] == age], features)
+    agedf = make_unsup(agedf, all_data[all_data['reference_agebin'].str.contains(age)], features)
     # IQR & Z score
     agebins_df.append(agedf)
 
@@ -321,13 +358,13 @@ all_data = pd.DataFrame(ss.fit_transform(dq_df[features]), columns=features)
 df_test[features] = ss.transform(df_test[features])
 
 all_data['taskData._id.$oid'] = dq_df['taskData.elm_id'].values
-all_data['agebin'] = dq_df['agebin'].values
+all_data['reference_agebin'] = dq_df['reference_agebin'].values
 all_data['visit'] = dq_df['visit'].values
 
 agebins_df = []
 for age in df_test['agebin'].unique():
     agedf = df_test[df_test['agebin'] == age]
-    agedf = make_unsup(agedf, all_data[all_data['agebin'] == age], features)
+    agedf = make_unsup(agedf, all_data[all_data['reference_agebin'].str.contains(age)], features)
     # IQR & Z score
     agebins_df.append(agedf)
 
@@ -383,7 +420,7 @@ X_pred = all_data[~all_data['taskData._id.$oid'].isin(df['taskData._id.$oid'])]
 agebins_df = []
 for age in X_pred['agebin'].unique():
     agedf = X_pred[X_pred['agebin'] == age]
-    agedf = make_unsup(X_pred, all_data[all_data['agebin'] == age], features)
+    agedf = make_unsup(X_pred, all_data[all_data['reference_agebin'].str.contains(age)], features)
     # IQR & Z score
     agebins_df.append(agedf)
 features = features +['moc', 'osvm', 'isof', 'gmm2_0', 'gmm2_1', 'gmm3_0', 'gmm3_1', 'gmm3_2', 'gmm4_0', 'gmm4_1', 'gmm4_2','gmm4_3', 'iqr', 'zscore']
@@ -397,4 +434,4 @@ target_out2 = clf().fit(df[features], df['target'], estimator__early_stopping_ro
 target_out = target_out0 * target_out1 * target_out2
 print(X_pred['taskData._id.$oid'])
 print(X_pred[target_out < 0.75]['taskData._id.$oid'])
-X_pred[target_out < 0.75]['taskData._id.$oid'].to_csv(r'S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\resource_files\miscatches_detected\lower25\delegated_reports.csv')
+#X_pred[target_out < 0.75]['taskData._id.$oid'].to_csv(r'S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\resource_files\miscatches_detected\lower25\delegated_reports.csv')

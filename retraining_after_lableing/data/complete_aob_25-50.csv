@@ -1,0 +1,182 @@
+Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Unnamed: 0.1.1.1.1,Unnamed: 0.1.1.1.1.1,acqsys,free_text_AOB,miscatch_P3a_novel,miscatch_P3b_target,reviewer,taskData._id.$oid,time,version
+0.0,0.0,0.0,0.0,0.0,57ab701348f9bf7928774fdb,Comments: ,yes,no,Limin,57ab7d1742e2559e5afa1674,17.60864,miscatches
+1.0,1.0,1.0,1.0,,55fc50e5b078d672f5000000,Comments: ,no,yes,Limin,55fc5c054071c0807469d5fe,804.462277,miscatches
+2.0,2.0,2.0,2.0,,5631267fb078d637e7000000,Comments: ,no,yes,Limin,56313506048db6162fb41c8b,135.46871,miscatches
+3.0,3.0,3.0,3.0,,55b3ada5b078d6023a000000,signal is very flat,yes,yes,Limin,55b3ba7fd82a51182a5a8e30,207.431291,miscatches
+4.0,4.0,4.0,4.0,,557c539d71a87f3670000000,p3a leaks to posterior region,yes,no,Limin,557c5e3604b3802b60a6a978,167.573069,miscatches
+5.0,5.0,5.0,5.0,,57460b88cc9fe7320d2ea65b,"p3a leaks to posterior region, p3b leaks to frontal region",no,no,Limin,57461798053bfc7d172711f0,210.336554,miscatches
+6.0,6.0,6.0,6.0,,56291824a158c6384b000000,double peak caught in P3b,yes,no,Limin,56292394048db6162fb41555,97.689359,miscatches
+7.0,7.0,7.0,7.0,,5601a5bea158c635c3000000,p3a leaks to posterior region,no,no,Limin,5601ae1e4071c0807469dd67,110.981216,miscatches
+8.0,8.0,8.0,8.0,,5601a5bea158c635c3000000,p3a leaks to posterior region,no,no,Limin,5601ae1e4071c0807469dd67,111.13958,miscatches
+9.0,9.0,9.0,9.0,,55e754baa2d634053c000000,,no,yes,Limin,55e763ec32991e86075a1942,120.530599,miscatches
+10.0,10.0,10.0,10.0,,561c578b25614047da000000,p3a leaks to posterior region,no,no,Limin,561c60ab83609b152d5ebffd,677.153093,miscatches
+11.0,11.0,11.0,11.0,,573b7ffccc9fe7320d2e8cdb,Comments: ,no,no,Limin,573b8902053bfc7d172704da,102.2419,miscatches
+12.0,12.0,12.0,12.0,,5735246fc09c5de50c256d72,p3b leaks to the frontal region,no,no,Limin,573531f2053bfc7d17270321,229.444655,miscatches
+13.0,13.0,13.0,13.0,,5647a94325614013f1000000,p3a leaks to posterior region and p3b leaks to frontal region,no,no,Limin,5647afe498d49e7e5f332c46,109.359878,miscatches
+14.0,14.0,14.0,14.0,,57715031cc9fe7320d2f0789,double peak caught in p3b; p3a leaks to posterior region,no,yes,Limin,57715795aa4d8a317a3d5c77,330.935178,miscatches
+15.0,15.0,15.0,15.0,,560ad7372561403934000000,miscatch in frontal region for p3b,no,yes,Limin,560adfd84071c0807469e486,467.530767,miscatches
+16.0,16.0,16.0,16.0,,573ced23cc9fe7320d2e9213,p3a leaks to the posterior region,no,yes,Limin,573cf6fa053bfc7d1727067a,216.307167,miscatches
+17.0,17.0,17.0,17.0,,561bf7e8a2d6346e62000000,Comments: ,yes,no,Limin,561bfe3483609b152d5ebf6b,56.621655,miscatches
+18.0,18.0,18.0,18.0,,564e1e63a2d6341424000000,data quality is bad,yes,no,Limin,564e280d98d49e7e5f33315f,275.319443,miscatches
+19.0,19.0,19.0,19.0,,572a94ebc09c5de50c255c09,p3a leaks to the posterior region,no,no,Limin,572a9f18053bfc7d1726ffdf,225.061701,miscatches
+20.0,20.0,20.0,20.0,,561858a425614022c4000000,miscatch in posterior region of p3a,yes,no,Limin,5618626983609b152d5ebcab,311.404779,miscatches
+21.0,21.0,21.0,21.0,,563aa9b1256140436d000000,Comments: ,no,no,Limin,563ab19f98d49e7e5f331fbb,29.384442,miscatches
+22.0,22.0,22.0,,,566a27ea2561404c56000000,p3b leaks to frontal region,no,yes,Limin,566a2d83d3acecc6549349c2,9001.644459,miscatches
+23.0,23.0,23.0,,,572d36c4cc9fe7320d2e70f4,Comments: ,no,yes,Limin,572d3df2053bfc7d172700ba,29.831057,miscatches
+24.0,24.0,24.0,,,55f30029a158c666b2000000,p3a leaks to posterior region,no,no,Limin,55f309f232991e86075a21e0,46.282218,miscatches
+25.0,25.0,25.0,,,55fc79fba158c61e30000000,p3b in frontal region,no,yes,Limin,55fc81894071c0807469d674,234.74959,miscatches
+26.0,26.0,26.0,,,56282bcca2d63440a6000000,Comments: ,yes,yes,Limin,562836ce048db6162fb41500,117.994601,miscatches
+27.0,27.0,27.0,,,5717eb59c09c5de50c254681,Comments: ,no,yes,Limin,5717f3c02cbb7066795a7812,54.006825,miscatches
+28.0,28.0,28.0,,,572923ebcc9fe7320d2e6a67,p3a leaks to posterior region,no,no,Limin,57292d65a5add43e1bf2ccf6,888.659539,miscatches
+29.0,29.0,29.0,,,573743f6cc9fe7320d2e8139,Comments: ,yes,yes,Limin,57374d6e053bfc7d1727038f,198.925,miscatches
+30.0,30.0,30.0,,,56215ac32561403d3b000000,Comments: ,yes,yes,Limin,5621631983609b152d5ec53c,629.662095,miscatches
+31.0,31.0,31.0,,,56468e41256140792c000000,Comments: ,no,yes,Limin,5646966a98d49e7e5f332b3a,39.813557,miscatches
+32.0,32.0,32.0,,,5750ab4fc09c5de50c25ae4e,"signal is flat for P3b, double peak caught ",no,yes,Limin,5756f78de57687cd27c8529b,220.840667,miscatches
+33.0,33.0,33.0,,,55e8b462256140398d000000,p3a leaks to posterior region,no,no,Limin,55e8bee332991e86075a1a9e,166.694752,miscatches
+34.0,34.0,34.0,,,56006c81a158c6428f000000,double peak caught for p3b and p3b leaks to frontal region,no,yes,Limin,560073f34071c0807469dba6,229.611262,miscatches
+35.0,35.0,35.0,,,566a27ea2561404c56000000,p3b leaks to frontal region,no,yes,Limin,566a2d83d3acecc6549349c2,16282.825916,miscatches
+36.0,36.0,36.0,,,564bbd10a2d6343418000000,Comments: ,no,yes,Limin,564bc61298d49e7e5f332f7e,191.164857,miscatches
+37.0,37.0,37.0,,,5727bebcc09c5de50c255542,Comments: ,no,yes,Limin,5727c8d6a5add43e1bf2cc1d,207.178671,miscatches
+38.0,38.0,38.0,,,573de6fac09c5de50c2580a8,Comments: ,no,no,Limin,573df21b053bfc7d172706b7,52.310056,miscatches
+39.0,39.0,39.0,,,564bbd10a2d6343418000000,Comments: ,no,yes,Limin,564bc61298d49e7e5f332f7e,10361.10386,miscatches
+40.0,40.0,40.0,,,5622b921a2d6340dff000000,Comments: ,no,no,Limin,5622c3e3048db6162fb40f65,154.957014,miscatches
+41.0,41.0,41.0,,,5622b7472561402831000000,peak location needed for decision-p3b,no,yes,Limin,5622c18b048db6162fb40f5f,907.106661,miscatches
+42.0,42.0,42.0,,,56153beaa158c642ab000000,Comments: ,yes,no,Limin,5615455483609b152d5eba34,334.814211,miscatches
+43.0,43.0,43.0,,,565cf5752561405c7a000000,Comments: ,no,no,Limin,565cfe12f7a5496b79ede700,509.498698,miscatches
+44.0,44.0,44.0,,,5653b9aea2d6347be5000000,bad data quality,no,yes,Limin,5653c3dff7a5496b79ede190,527.090656,miscatches
+45.0,45.0,45.0,,,56490d22a2d6346e48000000,"bad data quality, P3b leaks to frontal region",no,yes,Limin,5649146f98d49e7e5f332d78,1403.828247,miscatches
+46.0,46.0,46.0,,,5502f966077e4a0b9a000000,mismatch in p3b,no,no,Limin,550303a340a873c1062bde7c,65.251815,miscatches
+47.0,47.0,47.0,,,564cc940a2d6340f8b000000,Comments: ,no,yes,Limin,564cd3de98d49e7e5f333028,1197.028057,miscatches
+48.0,48.0,48.0,,,562ba35325614036c2000000,Comments: ,no,yes,Limin,562bacf5048db6162fb416d5,243.241622,miscatches
+49.0,49.0,49.0,,,57212559c09c5de50c255006,Comments: ,no,yes,Limin,57213006a5add43e1bf2cadb,179.300541,miscatches
+50.0,50.0,50.0,,,5654c1bb2561400d04000000,Comments: ,no,no,Limin,5654ca94f7a5496b79ede248,135.67201,miscatches
+51.0,51.0,51.0,,,56211e772561407d3e000000,Comments: ,no,yes,Limin,5621287c83609b152d5ec4be,123.984847,miscatches
+52.0,52.0,52.0,,,5650a634a158c654ee000000,Comments: ,no,no,Limin,5654b577f7a5496b79ede216,526.278509,miscatches
+53.0,53.0,,,,56240912a2d6340af6000000,double peak caught in p3b,no,no,Limin,56241324048db6162fb41076,3860.602875,miscatches
+54.0,,,,,560024bca158c62a5a000000,Comments: ,yes,no,Limin,56002d9e4071c0807469db42,1329.689331,miscatches
+55.0,,,,,565356972561405e5b000000,Comments: ,no,yes,Limin,56536159f7a5496b79ede0e4,963.830788,miscatches
+56.0,,,,,55f9b48ea2d6345ff9000000,Comments: ,yes,no,Limin,55f9bb324071c0807469d3ac,1077.91269,miscatches
+,,,,,571a5fbdcc9fe7320d2e5c30,Comments: ,no,yes,Limin,571a6ac82cbb7066795a7909,4309.890016,miscatches
+,,,,,575462c0cc9fe7320d2ec921,Comments: ,no,yes,Limin,57546915e57687cd27c8510b,62.066031,miscatches
+,,,,,55e07c39a158c629aa000000,Comments: ,yes,no,Limin,55e0880732991e86075a14dc,307.475108,miscatches
+,,,,,571035c24900eaa95630e741,Comments: ,no,yes,Limin,571041602cbb7066795a7643,110.59026,miscatches
+0.0,0.0,0.0,,,57ab701348f9bf7928774fdb,Comments: ,yes,no,Limin,57ab7d1742e2559e5afa1674,17.60864,miscatches
+1.0,1.0,,,,55fc50e5b078d672f5000000,Comments: ,no,yes,Limin,55fc5c054071c0807469d5fe,804.462277,miscatches
+2.0,2.0,,,,5631267fb078d637e7000000,Comments: ,no,yes,Limin,56313506048db6162fb41c8b,135.46871,miscatches
+3.0,3.0,,,,55b3ada5b078d6023a000000,signal is very flat,yes,yes,Limin,55b3ba7fd82a51182a5a8e30,207.431291,miscatches
+4.0,4.0,,,,557c539d71a87f3670000000,p3a leaks to posterior region,yes,no,Limin,557c5e3604b3802b60a6a978,167.573069,miscatches
+5.0,5.0,,,,57460b88cc9fe7320d2ea65b,"p3a leaks to posterior region, p3b leaks to frontal region",no,no,Limin,57461798053bfc7d172711f0,210.336554,miscatches
+6.0,6.0,,,,56291824a158c6384b000000,double peak caught in P3b,yes,no,Limin,56292394048db6162fb41555,97.689359,miscatches
+7.0,7.0,,,,5601a5bea158c635c3000000,p3a leaks to posterior region,no,no,Limin,5601ae1e4071c0807469dd67,110.981216,miscatches
+8.0,8.0,,,,5601a5bea158c635c3000000,p3a leaks to posterior region,no,no,Limin,5601ae1e4071c0807469dd67,111.13958,miscatches
+9.0,9.0,,,,55e754baa2d634053c000000,,no,yes,Limin,55e763ec32991e86075a1942,120.530599,miscatches
+10.0,10.0,,,,561c578b25614047da000000,p3a leaks to posterior region,no,no,Limin,561c60ab83609b152d5ebffd,677.153093,miscatches
+11.0,11.0,,,,573b7ffccc9fe7320d2e8cdb,Comments: ,no,no,Limin,573b8902053bfc7d172704da,102.2419,miscatches
+12.0,12.0,,,,5735246fc09c5de50c256d72,p3b leaks to the frontal region,no,no,Limin,573531f2053bfc7d17270321,229.444655,miscatches
+13.0,13.0,,,,5647a94325614013f1000000,p3a leaks to posterior region and p3b leaks to frontal region,no,no,Limin,5647afe498d49e7e5f332c46,109.359878,miscatches
+14.0,14.0,,,,57715031cc9fe7320d2f0789,double peak caught in p3b; p3a leaks to posterior region,no,yes,Limin,57715795aa4d8a317a3d5c77,330.935178,miscatches
+15.0,15.0,,,,560ad7372561403934000000,miscatch in frontal region for p3b,no,yes,Limin,560adfd84071c0807469e486,467.530767,miscatches
+16.0,16.0,,,,573ced23cc9fe7320d2e9213,p3a leaks to the posterior region,no,yes,Limin,573cf6fa053bfc7d1727067a,216.307167,miscatches
+17.0,17.0,,,,561bf7e8a2d6346e62000000,Comments: ,yes,no,Limin,561bfe3483609b152d5ebf6b,56.621655,miscatches
+18.0,18.0,,,,564e1e63a2d6341424000000,data quality is bad,yes,no,Limin,564e280d98d49e7e5f33315f,275.319443,miscatches
+19.0,19.0,,,,572a94ebc09c5de50c255c09,p3a leaks to the posterior region,no,no,Limin,572a9f18053bfc7d1726ffdf,225.061701,miscatches
+20.0,20.0,,,,561858a425614022c4000000,miscatch in posterior region of p3a,yes,no,Limin,5618626983609b152d5ebcab,311.404779,miscatches
+21.0,21.0,,,,563aa9b1256140436d000000,Comments: ,no,no,Limin,563ab19f98d49e7e5f331fbb,29.384442,miscatches
+22.0,,,,,566a27ea2561404c56000000,p3b leaks to frontal region,no,yes,Limin,566a2d83d3acecc6549349c2,9001.644459,miscatches
+23.0,,,,,572d36c4cc9fe7320d2e70f4,Comments: ,no,yes,Limin,572d3df2053bfc7d172700ba,29.831057,miscatches
+24.0,,,,,55f30029a158c666b2000000,p3a leaks to posterior region,no,no,Limin,55f309f232991e86075a21e0,46.282218,miscatches
+25.0,,,,,55fc79fba158c61e30000000,p3b in frontal region,no,yes,Limin,55fc81894071c0807469d674,234.74959,miscatches
+26.0,,,,,56282bcca2d63440a6000000,Comments: ,yes,yes,Limin,562836ce048db6162fb41500,117.994601,miscatches
+27.0,,,,,5717eb59c09c5de50c254681,Comments: ,no,yes,Limin,5717f3c02cbb7066795a7812,54.006825,miscatches
+28.0,,,,,572923ebcc9fe7320d2e6a67,p3a leaks to posterior region,no,no,Limin,57292d65a5add43e1bf2ccf6,888.659539,miscatches
+29.0,,,,,573743f6cc9fe7320d2e8139,Comments: ,yes,yes,Limin,57374d6e053bfc7d1727038f,198.925,miscatches
+30.0,,,,,56215ac32561403d3b000000,Comments: ,yes,yes,Limin,5621631983609b152d5ec53c,629.662095,miscatches
+31.0,,,,,56468e41256140792c000000,Comments: ,no,yes,Limin,5646966a98d49e7e5f332b3a,39.813557,miscatches
+32.0,,,,,5750ab4fc09c5de50c25ae4e,"signal is flat for P3b, double peak caught ",no,yes,Limin,5756f78de57687cd27c8529b,220.840667,miscatches
+33.0,,,,,55e8b462256140398d000000,p3a leaks to posterior region,no,no,Limin,55e8bee332991e86075a1a9e,166.694752,miscatches
+34.0,,,,,56006c81a158c6428f000000,double peak caught for p3b and p3b leaks to frontal region,no,yes,Limin,560073f34071c0807469dba6,229.611262,miscatches
+35.0,,,,,566a27ea2561404c56000000,p3b leaks to frontal region,no,yes,Limin,566a2d83d3acecc6549349c2,16282.825916,miscatches
+36.0,,,,,564bbd10a2d6343418000000,Comments: ,no,yes,Limin,564bc61298d49e7e5f332f7e,191.164857,miscatches
+37.0,,,,,5727bebcc09c5de50c255542,Comments: ,no,yes,Limin,5727c8d6a5add43e1bf2cc1d,207.178671,miscatches
+38.0,,,,,573de6fac09c5de50c2580a8,Comments: ,no,no,Limin,573df21b053bfc7d172706b7,52.310056,miscatches
+39.0,,,,,564bbd10a2d6343418000000,Comments: ,no,yes,Limin,564bc61298d49e7e5f332f7e,10361.10386,miscatches
+40.0,,,,,5622b921a2d6340dff000000,Comments: ,no,no,Limin,5622c3e3048db6162fb40f65,154.957014,miscatches
+41.0,,,,,5622b7472561402831000000,peak location needed for decision-p3b,no,yes,Limin,5622c18b048db6162fb40f5f,907.106661,miscatches
+42.0,,,,,56153beaa158c642ab000000,Comments: ,yes,no,Limin,5615455483609b152d5eba34,334.814211,miscatches
+43.0,,,,,565cf5752561405c7a000000,Comments: ,no,no,Limin,565cfe12f7a5496b79ede700,509.498698,miscatches
+44.0,,,,,5653b9aea2d6347be5000000,bad data quality,no,yes,Limin,5653c3dff7a5496b79ede190,527.090656,miscatches
+45.0,,,,,56490d22a2d6346e48000000,"bad data quality, P3b leaks to frontal region",no,yes,Limin,5649146f98d49e7e5f332d78,1403.828247,miscatches
+46.0,,,,,5502f966077e4a0b9a000000,mismatch in p3b,no,no,Limin,550303a340a873c1062bde7c,65.251815,miscatches
+47.0,,,,,564cc940a2d6340f8b000000,Comments: ,no,yes,Limin,564cd3de98d49e7e5f333028,1197.028057,miscatches
+48.0,,,,,562ba35325614036c2000000,Comments: ,no,yes,Limin,562bacf5048db6162fb416d5,243.241622,miscatches
+49.0,,,,,57212559c09c5de50c255006,Comments: ,no,yes,Limin,57213006a5add43e1bf2cadb,179.300541,miscatches
+50.0,,,,,5654c1bb2561400d04000000,Comments: ,no,no,Limin,5654ca94f7a5496b79ede248,135.67201,miscatches
+51.0,,,,,56211e772561407d3e000000,Comments: ,no,yes,Limin,5621287c83609b152d5ec4be,123.984847,miscatches
+52.0,,,,,5650a634a158c654ee000000,Comments: ,no,no,Limin,5654b577f7a5496b79ede216,526.278509,miscatches
+,,,,,56240912a2d6340af6000000,double peak caught in p3b,no,no,Limin,56241324048db6162fb41076,3860.602875,miscatches
+0.0,0.0,,,,55fc5d11a158c65fad000000,Comments: huge blink in novel,yes,no,Revital,55fc65664071c0807469d631,4818.026142,miscatches
+1.0,1.0,,,,56429af125614028de000000,Comments: ,no,yes,Revital,5642a11098d49e7e5f332818,115.794116,miscatches
+2.0,2.0,,,,57195d3ac09c5de50c2549bb,Comments: ,no,yes,Revital,571966692cbb7066795a78c0,92.495094,miscatches
+3.0,3.0,,,,5753524ecc9fe7320d2ec71d,Comments: ,no,yes,Revital,57535b54e57687cd27c850ed,76.231395,miscatches
+4.0,4.0,,,,560d7b39b078d65426000000,Comments: ,no,yes,Revital,560d855b4071c0807469e66c,103.116907,miscatches
+5.0,5.0,,,,55f43ef8b078d64b5e000000,Comments: ,no,yes,Revital,55f44b1f32991e86075a2331,113.779454,miscatches
+6.0,6.0,,,,579fac192c7d4d6a5fbffa27,Comments: target - bad DQ,no,yes,Revital,579fb6810c1b1b056f688b24,204.019666,miscatches
+7.0,7.0,,,,578d3827374eb76d549c29a7,"Comments: frequent - bad DQ, terrible SNR; ",no,yes,Revital,578d40faa0aa5d5d70b917f6,204.172696,miscatches
+8.0,8.0,,,,563f9ce62561406083000000,Comments: ,no,no,Revital,563fa45398d49e7e5f332593,199.297239,miscatches
+9.0,9.0,,,,56351e0da2d6341d2e000000,Comments: ,no,no,Revital,56352779048db6162fb420bd,217.700905,miscatches
+10.0,10.0,,,,5618057aa2d6341019000000,Comments: ,yes,no,Revital,56180e0283609b152d5ebc14,376.357051,miscatches
+11.0,11.0,,,,57682cf0cc9fe7320d2ef363,Comments: target DQ very bad - unusable,yes,yes,Revital,5768354c1657de6f309570c4,301.0228,miscatches
+12.0,12.0,,,,570ec70d4900eaa95630e359,Comments: Novel is not a clear cut miscatch but the ERP is unusual and so is the capsulea,yes,yes,Revital,570ed1172cbb7066795a75d4,1408.627421,miscatches
+13.0,13.0,,,,56218fa7a2d634309d000000,Comments: ,no,yes,Revital,5622686d048db6162fb40e48,65.610984,miscatches
+14.0,14.0,,,,561ed3ef25614059eb000000,Comments: target huge saccadic eye movement - unusable,yes,yes,Revital,561edc0483609b152d5ec1f8,105.23947,miscatches
+15.0,15.0,,,,572272eecc9fe7320d2e632b,Comments: P3a and P3b span the entire head from frontal to occipital. could be considered a miscatch by some.s,no,no,Revital,57227f70a5add43e1bf2cb2a,929.998492,miscatches
+16.0,16.0,,,,57265f7ec09c5de50c25540f,Comments: P3a goes across the scalp from frontal to occipital but it seems that the posterior is larger ; ,yes,no,Revital,57266901a5add43e1bf2cbeb,298.41083,miscatches
+17.0,17.0,,,,562ea5be25614040ac000000,Comments: ,no,yes,Revital,562eb052048db6162fb41a84,59.537915,miscatches
+18.0,18.0,,,,553fb1affe2b51288c000000,Comments: ,no,yes,Revital,553fb87d35e8a5cf705eec0c,38.872824,miscatches
+19.0,19.0,,,,5735078acc9fe7320d2e7eb2,) as a time shift should.time shift in all conditions (including frequent,no,yes,Revital,573c88b0053bfc7d17270591,170.226205,miscatches
+20.0,20.0,,,,572b670bc09c5de50c255cf3,Comments: novel P3a leak to posterior sites; ,no,no,Revital,572b7231053bfc7d1726fff3,1763.253517,miscatches
+21.0,,,,,573b8621cc9fe7320d2e8d13,Comments: ,yes,no,Revital,573b9265053bfc7d172704f4,118.674933,miscatches
+22.0,,,,,54ff333c807b914994000000,Comments: ,yes,yes,Revital,54ff3db540a873c1062bdd71,592.559359,miscatches
+23.0,,,,,5745f1c6cc9fe7320d2ea612,Comments: ,no,no,Revital,5745fb72053bfc7d172711d3,324.833993,miscatches
+24.0,,,,,55f05a93a158c6553f000000,Comments: ,yes,no,Revital,55f0646e32991e86075a1fe4,734.936,miscatches
+25.0,,,,,5639567d25614074ae000000,Comments: ,yes,no,Revital,5639604d048db6162fb4246a,119.070693,miscatches
+26.0,,,,,5727dac0c09c5de50c2555ba,Comments: P3a is merged with P200 due to delta band; ,no,yes,Revital,5727e4fda5add43e1bf2cc4d,215.151383,miscatches
+27.0,,,,,55e09783a158c60a8a000000,Comments: P,yes,no,Revital,55e09f7932991e86075a1503,222.021121,miscatches
+28.0,,,,,55e4da08256140180d000000,Comments: ,no,no,Revital,55e4e3eb32991e86075a17f8,47.293154,miscatches
+29.0,,,,,55e4da08256140180d000000,Comments: ,no,no,Revital,55e4e3eb32991e86075a17f8,51.249019,miscatches
+30.0,,,,,55e4da08256140180d000000,Comments: ,no,no,Revital,55e4e3eb32991e86075a17f8,60.704983,miscatches
+31.0,,,,,55e4da08256140180d000000,Comments: ,no,no,Revital,55e4e3eb32991e86075a17f8,65.013591,miscatches
+32.0,,,,,56539d212561405539000000,Comments: P3b i a border case - goes right frontaly,no,yes,Revital,5653a7b9f7a5496b79ede15b,2201.942676,miscatches
+33.0,,,,,563920832561407ed7000000,Comments: ,yes,yes,Revital,56392a58048db6162fb4239a,60.619494,miscatches
+34.0,,,,,563920832561407ed7000000,Comments: ,yes,yes,Revital,56392a58048db6162fb4239a,64.899771,miscatches
+35.0,,,,,563920832561407ed7000000,Comments: ,yes,yes,Revital,56392a58048db6162fb4239a,98.726104,miscatches
+36.0,,,,,563920832561407ed7000000,Comments: ,yes,yes,Revital,56392a58048db6162fb4239a,126.672353,miscatches
+37.0,,,,,55f9b9d8a158c66122000000,Comments: p,no,no,Revital,55f9bfe24071c0807469d3ba,134.851949,miscatches
+38.0,,,,,561d84f52561404f18000000,Comments: P,no,yes,Revital,561d8f2083609b152d5ec14e,213.146437,miscatches
+39.0,,,,,574a13e1cc9fe7320d2eb181,Comments: P3b is leftsided and goes frontaly but less prominent in frontaal location so not marked as miscatch,no,no,Revital,574a1c8be57687cd27c84d1a,178.196452,miscatches
+40.0,,,,,5723e676cc9fe7320d2e6497,Comments: p,no,yes,Revital,5723efb2a5add43e1bf2cba4,93.544464,miscatches
+41.0,,,,,5723e676cc9fe7320d2e6497,Comments: p,no,yes,Revital,5723efb2a5add43e1bf2cba4,97.888964,miscatches
+42.0,,,,,5723e676cc9fe7320d2e6497,Comments: p,no,yes,Revital,5723efb2a5add43e1bf2cba4,145.338398,miscatches
+43.0,,,,,574f64a2c09c5de50c25aaf7,Comments: T,no,yes,Revital,574f6d03e57687cd27c84ef9,78.543575,miscatches
+44.0,,,,,574f64a2c09c5de50c25aaf7,Comments: T,no,yes,Revital,574f6d03e57687cd27c84ef9,81.896871,miscatches
+45.0,,,,,574f64a2c09c5de50c25aaf7,Comments: T,no,yes,Revital,574f6d03e57687cd27c84ef9,165.470097,miscatches
+46.0,,,,,572d1fd9c09c5de50c255eee,Comments: p3a extends posteriorly but more prominent frontal so was not marked as miscatch P3b extends frontaly,no,no,Revital,572d2b2d053bfc7d1727009e,192.258989,miscatches
+47.0,,,,,574f5fa7cc9fe7320d2ebe9b,Comments: ,no,yes,Revital,575539dde57687cd27c851d4,1401.05437,miscatches
+48.0,,,,,5740bc4dcc9fe7320d2e9895,"Comments: P3a distribution extends posteriorly, not marked miscatch but a border case",no,no,Revital,5740c4a4053bfc7d17270e18,244.847445,miscatches
+49.0,,,,,57740abdc09c5de50c2600af,Comments: ,yes,no,Revital,577412abaa4d8a317a3d5dc7,168.194782,miscatches
+50.0,,,,,55d4f9d9532de00fcb000000,Comments: ,no,no,Revital,55d5053f32991e86075a0cee,128.794777,miscatches
+51.0,,,,,562e9a29a158c651cd000000,Comments: ,no,no,Revital,562ea241048db6162fb41a6a,57.598756,miscatches
+52.0,,,,,562e9a29a158c651cd000000,Comments: ,no,no,Revital,562ea241048db6162fb41a6a,66.895241,miscatches
+53.0,,,,,562e9a29a158c651cd000000,Comments: ,no,no,Revital,562ea241048db6162fb41a6a,125.430218,miscatches
+,,,,,5613f6dda158c6711b000000,Comments: ,yes,no,Revital,5613fecd4071c0807469eb2f,29758.947955,miscatches
+,,,,,573f4b07c09c5de50c25830b,Comments: ,no,no,Revital,573f5461053bfc7d17270d9e,249.699853,miscatches
+,,,,,562bc381a2d6343c4b000000,Comments: ,yes,no,Revital,562bcdc9048db6162fb41742,93.127934,miscatches
+,,,,,57438032c09c5de50c258afb,Comments: ,yes,yes,Revital,57553c36e57687cd27c851e7,121.181362,miscatches
+,,,,,562267b6a2d6343aa3000000,Comments: Target - if possible check peak location ,no,yes,Revital,56227427048db6162fb40e79,344.929385,miscatches
+,,,,,575995c7c09c5de50c25c586,Comments: novel bad data quality; ,no,no,Revital,57599d87e57687cd27c8543f,72.612553,miscatches
+,,,,,5740d28fc09c5de50c2585a5,Comments: ,no,no,Revital,5740dc1a053bfc7d17270e37,55.08516,miscatches
+,,,,,54ff2769807b910c4e000000,Comments: ,no,no,Revital,54ff345440a873c1062bdd6d,72.872274,miscatches
+,,,,,5611859da2d6346c03000000,Comments: ,no,no,Revital,56118f344071c0807469e94d,65.605907,miscatches
+,,,,,5648d46d25614024c5000000,Comments: Frequent bad data quality,no,yes,Revital,5648dc2298d49e7e5f332d11,160.759264,miscatches
+,,,,,570ed8cb4900eaa95630e3b9,Comments: ,no,yes,Revital,570ee1822cbb7066795a75ea,153.983215,miscatches
+,,,,,5722add0c09c5de50c2551d7,Comments: target capsule distribution is very awkward,yes,no,Revital,5722b7bca5add43e1bf2cb5a,129.994717,miscatches

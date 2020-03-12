@@ -1,5 +1,4 @@
-import itertools
-
+from keras.optimizers import Adam
 from scipy.stats import chi2
 from sklearn.metrics import roc_auc_score, recall_score, precision_score, confusion_matrix
 from sklearn.model_selection import train_test_split, StratifiedKFold, cross_val_score
@@ -11,7 +10,10 @@ import numpy as np
 import scipy as sp
 from sklearn.ensemble import IsolationForest, AdaBoostClassifier
 from sklearn.svm import OneClassSVM
-import matplotlib.pyplot as plt
+
+from keras.layers import Input, Dense
+from keras.models import Model
+from sklearn.model_selection import train_test_split, StratifiedKFold, cross_val_score
 import pandas_profiling as pp
 from catboost import CatBoostClassifier
 from sklearn.mixture import GaussianMixture
@@ -23,13 +25,23 @@ random_state = 41
 #erp_name = 'miscatch_P3b_target'
 attr = False
 erp_name = 'P3b'
-target = 'miscatch_P3b_target'
+
 targets = ['miscatch_P3a_novel', 'miscatch_P3b_target']
 if erp_name == 'P3a':
     input_path = rf"S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\kaggle_miscatches\{targets[0]}"
 elif erp_name == "P3b":
     input_path = rf"S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\kaggle_miscatches\{targets[1]}"
-dq_df = None
+dq_df=None
+pandas_profiling_output_path = r"S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\analysis\Eran\pandas_profiling"
+
+
+def profile(df, folder, name):
+    profile = pp.ProfileReport(df)
+
+    if os.path.exists(os.path.join(pandas_profiling_output_path,folder)):
+        os.makedirs(os.path.join(pandas_profiling_output_path,folder))
+
+    profile.to_file(os.path.join(pandas_profiling_output_path,folder, f'{name}_pandas_profile.html'))
 
 def mahalanobis(x=None, data=None, cov=None):
     """Compute the Mahalanobis Distance between each row of x and the data
@@ -208,29 +220,35 @@ elif erp_name == "P3a":
 df_train = pd.merge(y_train, X_train, on='taskData._id.$oid')
 df_test = pd.merge(y_test, X_test, on='taskData._id.$oid')
 df = pd.concat([df_train, df_test])
+
 if erp_name == 'P3b':
     dq_df = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Target.csv")
 elif erp_name == 'P3a':
     dq_df = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Novel.csv")
-
+star_results = pd.read_csv(
+    r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_DQ.csv")
 dq_df['agebin'] = dq_df.apply(get_agebin, axis=1)
 dq_df['reference_agebin'] = dq_df.apply(get_reference_agebins, axis=1)
 dq_df = dq_df.dropna(subset=features)
-df = df.dropna(subset=features)
+dq_df = dq_df.merge(star_results[['starResult.finalDecision', 'taskData.elm_id']], on='taskData.elm_id')
+if __name__=="__main__":
+    for decision in ['full_decision']:
+        for ageing in ['agebin', 'reference_agebin']:
+            for age in list(dq_df['agebin'].unique()):
+                folder = [f"{erp_name}", f"{ageing}_{age}"]
+                name = f'{erp_name}_full_decision_features'
+                print(ageing, age)
+                if ageing == 'reference_agebin':
+                    if dq_df[(dq_df['reference_agebin'].str.contains(age))].empty:
+                        continue
+                    profile = pp.ProfileReport(dq_df[(dq_df['reference_agebin'].str.contains(age))][features])
+                else:
+                    if dq_df[(dq_df[ageing] == age)].empty:
+                        continue
+                    profile = pp.ProfileReport(dq_df[(dq_df[ageing] == age)][features])
 
+                if not os.path.exists(os.path.join(pandas_profiling_output_path, *folder)):
+                    os.makedirs(os.path.join(pandas_profiling_output_path, *folder))
 
-scatter_output_path = r"S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\analysis\Eran\scatter_plot_P3b"
-for agebin in dq_df['agebin'].unique():
-    folder = f'{agebin}'
-    for i,j in itertools.permutations(features, 2):
-        name = f'{i} X {j}.jpg'
-        plt.clf()
-        plt.scatter(dq_df[dq_df['agebin'] == agebin][i], dq_df[dq_df['agebin'] == agebin][j], c='k', label='unlabeled')
-        plt.scatter(df[(df['agebin'] == agebin)&(df[target] == 0)][i], df[(df['agebin'] == agebin)&(df[target] == 0)][j], c='b', label='non miscatch')
-        plt.scatter(df[(df['agebin'] == agebin)&(df[target] == 1)][i], df[(df['agebin'] == agebin)&(df[target] == 1)][j], c='r', label='miscatch')
-        plt.xlabel(i)
-        plt.ylabel(j)
-        plt.legend()
-        if not os.path.exists(os.path.join(scatter_output_path, folder)):
-            os.makedirs(os.path.join(scatter_output_path, folder))
-        plt.savefig(os.path.join(scatter_output_path, folder, name))
+                profile.to_file(os.path.join(pandas_profiling_output_path, *folder, f'{name}.html'))
+

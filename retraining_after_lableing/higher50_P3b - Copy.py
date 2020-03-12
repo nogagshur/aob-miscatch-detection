@@ -1,35 +1,38 @@
-import itertools
-
+from imblearn.over_sampling import SMOTE
 from scipy.stats import chi2
 from sklearn.metrics import roc_auc_score, recall_score, precision_score, confusion_matrix
-from sklearn.model_selection import train_test_split, StratifiedKFold, cross_val_score
 import os
 from scipy.stats import iqr, zscore
-from shutil import copyfile
 import pandas as pd
 import numpy as np
 import scipy as sp
+from sklearn.naive_bayes import GaussianNB
 from sklearn.ensemble import IsolationForest, AdaBoostClassifier
+from imblearn.pipeline import Pipeline
 from sklearn.svm import OneClassSVM
-import matplotlib.pyplot as plt
-import pandas_profiling as pp
+
+from sklearn.linear_model import LogisticRegression
+
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split, StratifiedKFold, cross_val_score, GridSearchCV
+from sklearn.svm import SVC
 from catboost import CatBoostClassifier
+
+from sklearn.preprocessing import OneHotEncoder, PowerTransformer
+from xgboost import XGBClassifier
+from sklearn.feature_selection import RFE, SelectFromModel
+from sklearn.decomposition import PCA
 from sklearn.mixture import GaussianMixture
 from sklearn.preprocessing import StandardScaler
-from statsmodels.formula.api import ols
+
+from retraining_after_lableing.params import param_grid
 
 random_state = 41
 
-#erp_name = 'miscatch_P3b_target'
-attr = False
-erp_name = 'P3b'
-target = 'miscatch_P3b_target'
+erp_name = 'both'
 targets = ['miscatch_P3a_novel', 'miscatch_P3b_target']
-if erp_name == 'P3a':
-    input_path = rf"S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\kaggle_miscatches\{targets[0]}"
-elif erp_name == "P3b":
-    input_path = rf"S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\kaggle_miscatches\{targets[1]}"
-dq_df = None
+input_path = r"S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\kaggle_miscatches\both"
+
 
 def mahalanobis(x=None, data=None, cov=None):
     """Compute the Mahalanobis Distance between each row of x and the data
@@ -55,6 +58,8 @@ class MahalanobisOneclassClassifier():
         mahalanobis_dist = mahalanobis(xtest, self.xtrain)
         self.pvalues = 1 - chi2.cdf(mahalanobis_dist, 2)
         return mahalanobis_dist
+
+
 
 def make_unsup(df, all_data, features):
     moc = MahalanobisOneclassClassifier(all_data[features])
@@ -85,7 +90,7 @@ def make_unsup(df, all_data, features):
 
 
 
-def get_reference_agebins(x):
+def reference_get_agebins(x):
     reference_ages = []
     if (x.gender == 'Female') & (x.ageV1 <= 16):
         reference_ages.append("aob_12-16F")
@@ -155,82 +160,74 @@ def get_agebin(x):
 
 X_train = pd.read_csv(os.path.join(input_path, "X_train.csv"))
 y_train = pd.read_csv(os.path.join(input_path, "y_train.csv"))
-X_test = pd.read_csv(os.path.join(input_path, "X_test.csv"))
-y_test = pd.read_csv(os.path.join(input_path, "y_test.csv"))
 
-features = []
-if erp_name == 'P3b':
+features = [i for i in X_train.columns if ('P3b' in i) and ('miscatch' not in i)]
 
-    if attr:
-        features = [
-             'P3b_Delta_Target_attr_timeMSfromTriger',
-             'P3b_Delta_Target_attr_leftRight',
-             'P3b_Delta_Target_attr_posteriorAnterior',
-             'P3b_Delta_Target_attr_amplitude']
-
-    else:
-        features = ['P3b_Delta_Target_similarity_spatial',
-             'P3b_Delta_Target_similarity_locationLR',
-             'P3b_Delta_Target_similarity_locationPA',
-             'P3b_Delta_Target_similarity_timing',
-             'P3b_Delta_Target_similarity_amplitude',
-             'P3b_Delta_Target_matchScore',
-             'P3b_Delta_Target_attr_timeMSfromTriger',
-             'P3b_Delta_Target_attr_leftRight',
-             'P3b_Delta_Target_attr_posteriorAnterior',
-             'P3b_Delta_Target_attr_amplitude',
-             'P3b_Delta_Target_topo_topographicCorrCoeffAligned',
-             'P3b_Delta_Target_topo_topographicSimilarity']
-elif erp_name == "P3a":
-    if attr:
-        features = ['P3a_Delta_Novel_attr_timeMSfromTriger',
-             'P3a_Delta_Novel_attr_leftRight',
-             'P3a_Delta_Novel_attr_posteriorAnterior',
-             'P3a_Delta_Novel_attr_amplitude']
-    else:
-        features = ['P3a_Delta_Novel_similarity_spatial',
-            'P3a_Delta_Novel_similarity_locationLR',
-            'P3a_Delta_Novel_similarity_locationPA',
-            'P3a_Delta_Novel_similarity_timing',
-            'P3a_Delta_Novel_similarity_amplitude',
-            'P3a_Delta_Novel_matchScore',
-            'P3a_Delta_Novel_attr_timeMSfromTriger',
-            'P3a_Delta_Novel_attr_leftRight',
-            'P3a_Delta_Novel_attr_posteriorAnterior',
-            'P3a_Delta_Novel_attr_amplitude',
-            'P3a_Delta_Novel_topo_topographicCorrCoeffAligned',
-            'P3a_Delta_Novel_topo_topographicSimilarity']
 
 # splitting to agebins should be done here
+df = pd.merge(y_train, X_train, on='taskData._id.$oid')
+df = df[(df['agebin'] == "aob_50-65") | (df['agebin'] == "aob_65-75")| (df['agebin'] == "aob_75-85")]
 
-
-
-df_train = pd.merge(y_train, X_train, on='taskData._id.$oid')
-df_test = pd.merge(y_test, X_test, on='taskData._id.$oid')
-df = pd.concat([df_train, df_test])
-if erp_name == 'P3b':
-    dq_df = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Target.csv")
-elif erp_name == 'P3a':
-    dq_df = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Novel.csv")
-
-dq_df['agebin'] = dq_df.apply(get_agebin, axis=1)
-dq_df['reference_agebin'] = dq_df.apply(get_reference_agebins, axis=1)
+dq_df = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Target.csv")
+new_p3a = pd.read_csv(r"C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing\data\complete_higher50.csv")
+dq_df = dq_df[dq_df['taskData.elm_id'].isin(new_p3a['taskData._id.$oid'])]
+dq_df = dq_df[features+['taskData.elm_id', 'visit']].merge(new_p3a[['taskData._id.$oid', 'miscatch_P3b_target']], left_on='taskData.elm_id', right_on='taskData._id.$oid')
+dq_df['miscatch_P3b_target'] = dq_df['miscatch_P3b_target'].apply(lambda x: 1 if x=='yes'  else 0 )
+df = df.append(dq_df)
+cv = StratifiedKFold(5)
 dq_df = dq_df.dropna(subset=features)
 df = df.dropna(subset=features)
+df = df[df.visit == 1]
+i =0
+
+for train_index, test_index in cv.split(df[features], df['miscatch_P3b_target']):
+    df_train, df_test = df.iloc[train_index], df.iloc[test_index]
+
+    Xt = df_train[features]
+    Xv = df_test[features]
+    yt = df_train['miscatch_P3b_target']
+    yv = df_test['miscatch_P3b_target']
+    export_ids = df_test['taskData._id.$oid']
+
+    pipeline = Pipeline(steps=[
+            ("preprocess", StandardScaler()),
+        ("sampling", SMOTE()),
+        ("feature_selection", RFE(LogisticRegression(solver='liblinear'))),
+            ("estimator", CatBoostClassifier(verbose=0))
+        ])
+
+    grid_search = GridSearchCV(pipeline, param_grid=param_grid, scoring='roc_auc', cv=StratifiedKFold(3))
+    grid_search.fit(Xt, yt)
+    target_out = grid_search.predict(Xv)
+
+    print(grid_search.best_params_)
+    print('auc',  roc_auc_score(yv, target_out))
+    print('recall', recall_score(yv, target_out))
+    print('precision', precision_score(yv, target_out))
+    print('confusion martix\n', confusion_matrix(yv, target_out), '\n')
+
+    export_ids[target_out==1].to_csv(fr'C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing\exports_p3b\pred_miscatches_higher50_cv_{i}.csv', index=False, header=['taskData.elm_id'])
+
+    i = i+1
 
 
-scatter_output_path = r"S:\Data_Science\Core\FDA_submission_10_2019\08-Reports\STAR_reports\Labeling_project\analysis\Eran\scatter_plot_P3b"
-for agebin in dq_df['agebin'].unique():
-    folder = f'{agebin}'
-    for i,j in itertools.permutations(features, 2):
-        name = f'{i} X {j}.jpg'
-        plt.clf()
-        plt.scatter(dq_df[dq_df['agebin'] == agebin][i], dq_df[dq_df['agebin'] == agebin][j], c='k', label='unlabeled')
-        plt.scatter(df[(df['agebin'] == agebin)&(df[target] == 0)][i], df[(df['agebin'] == agebin)&(df[target] == 0)][j], c='b', label='non miscatch')
-        plt.scatter(df[(df['agebin'] == agebin)&(df[target] == 1)][i], df[(df['agebin'] == agebin)&(df[target] == 1)][j], c='r', label='miscatch')
-        plt.xlabel(i)
-        plt.ylabel(j)
-        plt.legend()
-        if not os.path.exists(os.path.join(scatter_output_path, folder)):
-            os.makedirs(os.path.join(scatter_output_path, folder))
-        plt.savefig(os.path.join(scatter_output_path, folder, name))
+
+all_data = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-Preprocessed_data\2020-02-18\AOB\AOB_Target.csv")
+
+all_data['agebin'] = all_data.apply(get_agebin, axis=1)
+all_data = all_data[(all_data['agebin'] == "aob_50-65") | (all_data['agebin'] == "aob_65-75") | (all_data['agebin'] == "aob_75-85")]
+df = df.dropna(subset=features)
+all_data = all_data.dropna(subset=features)
+X_pred = all_data[~all_data['taskData.elm_id'].isin(df['taskData._id.$oid'])]
+
+pipeline = Pipeline(steps=[
+    ("preprocess", StandardScaler()),
+    ("sampling", SMOTE()),
+    ("feature_selection", RFE(LogisticRegression(solver='liblinear'))),
+    ("estimator", CatBoostClassifier(verbose=0))
+])
+
+grid_search = GridSearchCV(pipeline, param_grid=param_grid, scoring='roc_auc', cv=StratifiedKFold(3))
+grid_search.fit(df[features], df['miscatch_P3b_target'])
+target_out = grid_search.predict(X_pred[features])
+X_pred[target_out==1]['taskData.elm_id'].to_csv(fr'C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing\exports_p3b\pred_miscatches_higher50_unlabeleddata.csv', index=False, header=['taskData.elm_id'])

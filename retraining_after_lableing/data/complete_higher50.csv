@@ -1,0 +1,145 @@
+Unnamed: 0.1,acqsys,free_text_AOB,miscatch_P3a_novel,miscatch_P3b_target,reviewer,taskData._id.$oid,time,version
+,593ff98873c67c2422e855f3,Comments: P3a is not detected in the capsule ,no,no,Keren,59400286a8e3654e507e0cb6,5046.8412,miscatches
+,591f42cd73c67c2422e7dd78,Comments: no Target,no,no,Keren,591f4e5e3506906168f8b3eb,96.006143,miscatches
+,5833437659f496210cf6ecda,Comments: ,no,no,Keren,5860eb6b4c02b9581ed06a11,2983.689225,miscatches
+,58efca6c40f55574c4f17b25,"Comments: novel is noisy, no peak detection ",yes,no,Keren,58efd6a612bb131833efa896,199.422906,miscatches
+,59515a77b97297439d0cdf13,Comments: ,yes,no,Keren,595165e129488f18cacad755,45.52756,miscatches
+,5a1da3eaf6a1e42e6b3aff57,"Comments: P3a is at FC2 instead of Fz, P3b is anterior at FCZ instead of PZ",no,yes,Keren,5a1dafa31c94b97eb55d6f79,102.136829,miscatches
+,5b105a6c8bd8070193517ded,"Comments: Posterior P3a, ",yes,no,Keren,5b1064abc47302772de24e26,36.435147,miscatches
+,58f62486502e9e7532099ae0,Comments: P3b right central instead of PZ,no,yes,Keren,58f712e65cea6d13af04f67a,52.604107,miscatches
+,592868c673c67c2422e8006d,"Comments: P3a posterior, ",yes,no,Keren,592873533506906168f8bc94,32.44495,miscatches
+,5956a207b97297439d0cfad4,Comments: P3a is left lateral ,yes,no,Keren,5956ad3d29488f18cacade14,76.982615,miscatches
+,59f0c2573f31cd0d53a7e7e0,Comments: P3a is lateral to the right ,yes,no,Keren,59f0cba1e1e78f74fc79c199,40.545946,miscatches
+,5a0cb880e97e3166b6fcb2b5,Comments: P3a includes a lot of peaks which are not P3a,yes,no,Keren,5a0cc57de1e78f74fc79da48,55.481575,miscatches
+,58f8c777502e9e753209aa56,Comments: P3a is very anterior ,yes,no,Keren,58f8d13ea404ff154676277e,93.582575,miscatches
+,58f101f640f55574c4f17f9f,"Comments: P3b is lateral to the left, but could be accepted ",no,yes,Keren,58f10eb712bb131833efa9f6,65.987047,miscatches
+,596e1b0e46f84828c88d900f,Comments: P3a very posterior ,yes,no,Keren,596e25b9e1e78f74fc796aad,27.445753,miscatches
+,594d47bf73c67c2422e8935b,Comments: P3a is too anterior and P3b is too posterior both lateral to the right ,yes,yes,Keren,594d539f29488f18cacad3e0,51.827129,miscatches
+,593ee743b97297439d0c8f16,"Comments: P3a right posterior, P3b very right sided ",yes,yes,Keren,593eee8d8d1a7241a72bc937,172.027179,miscatches
+,598c522d58193c4e3dc872ee,Comments: P,yes,no,Keren,598c5ae1e1e78f74fc797dbd,53889.046701,miscatches
+,5a7ddf7796faa426b45461d6,Comments: ,no,no,Keren,5a7de917aa1e352d75de13c3,38.682224,miscatches
+,5989ca135019de1f3277800b,Comments: P3a is miscatch not just because of location but the timing is wrong too,yes,no,Keren,5989d76ee1e78f74fc797a4a,1787.44295,miscatches
+,58dbe78149d9391f2c1a2ffe,Comments: ,no,no,Keren,58dbf0bce325a6609b0c86b7,44.970533,miscatches
+,58232c1859f496210cf6b58f,Comments: Some of P3b is miscatch and some isn't. P3a is hardly detected. ,yes,yes,Keren,582336b103086d3115084b23,184.577907,miscatches
+,5b524a86bac3404580ce3cc3,Comments: P3a is right posterior,yes,no,Keren,5b528524c3d52b58137f507e,55.838407,miscatches
+,59809038bb9c6d2047485a5a,Comments: P3b is mismatch,no,yes,Keren,59809dbde1e78f74fc79751f,41.023832,miscatches
+,58e27ae049d9391f2c1a414b,Comments: P3b is not detected,no,yes,Keren,58e28739e325a6609b0c8a92,64.405458,miscatches
+,59ef717a3f31cd0d53a7e272,Comments: P3 is hardly detected and the lateral right peak is incorrect,no,yes,Keren,59ef7b71e1e78f74fc79c068,52.304284,miscatches
+,5841c84159f496210cf71c7d,Comments: terrible data ,yes,yes,Keren,5841d2cf0ea4f53537d8cbb7,248.186979,miscatches
+,5aa196d78c65a506850e1f2e,Comments: ,yes,yes,Keren,5aa1a5dbaa1e352d75de2ee3,39.306955,miscatches
+,59e4e48547c9a96495d0c896,"Comments: P3a right lateral, P3b is undetected ",yes,yes,Keren,59e4ec97e1e78f74fc79b808,300.433406,miscatches
+,59287d7673c67c2422e80131,Comments: ,no,yes,Keren,59289ff73506906168f8bd05,1816.736284,miscatches
+,5ae38d29f9d1e843669ad642,Comments: ,no,no,Keren,5ae398cfd6b7647d3f806715,47.711867,miscatches
+,59a992cc75ffb6377f6e8d22,Comments: P3a posterior and left lateralized,yes,no,Keren,59a99ea1e1e78f74fc7996d0,47.692048,miscatches
+,580e4dbe221fce2c0ca255b6,Comments: P3a is posterior ,yes,no,Keren,580e547e720a40af061636a5,312.516882,miscatches
+,5a8af1c037a51654ab0ae699,Comments: P3a includes a lot of peaks that are irrelevant,yes,no,Keren,5a8afca2aa1e352d75de1d3b,366.09847,miscatches
+,59c129978774165b660f1c21,Comments: P3b is right lateralized ,no,yes,Keren,59c13170e1e78f74fc79a181,39.277947,miscatches
+,5a9801e7bdc08b714719b46a,Comments: P3a posterior ,yes,no,Keren,5a980d46aa1e352d75de27e8,2534.579839,miscatches
+,587e5b1c59f496210cf7e869,Comments: ,yes,yes,Keren,587e653bf7f92aef6c6415e0,117.538961,miscatches
+,59ef50463f31cd0d53a7e13e,Comments: P3 anterior ,no,yes,Keren,59ef580ee1e78f74fc79c00e,50.246079,miscatches
+,591c8203b97297439d0c159f,Comments: P3b left lateralized ,no,yes,Keren,591c90333506906168f8b068,83.869324,miscatches
+,58da77e749d9391f2c1a2966,Comments: P3a posterior,yes,no,Keren,58dba58ae325a6609b0c85cb,48.897056,miscatches
+,5a0f5d0851eee670966a6fd4,Comments: P3a posterior,yes,no,Keren,5a0f65c7e1e78f74fc79ddca,41.565482,miscatches
+,59aef39739ac772337138d20,Comments: ,no,no,Keren,59aefd70e1e78f74fc7998dc,44.486234,miscatches
+,592744a8b97297439d0c3f7e,Comments: all activity is more posterior,yes,no,Keren,59274de53506906168f8bb15,102.234293,miscatches
+,592da88cb97297439d0c4c9c,Comments: P3a posterior and left lateralized,yes,no,Keren,592db0720c79881593dfde9b,43.346346,miscatches
+,58f0bfe7502e9e7532098d6a,Comments: both are right lateralized ,yes,yes,Keren,58f0c84312bb131833efa972,80.232084,miscatches
+,59afefab39ac77233713907d,Comments: P3b is left lateralized,no,yes,Keren,59affad4e1e78f74fc799934,49.11636,miscatches
+,5941a248b97297439d0ca440,Comments: ,no,no,Keren,5941abb7a8e3654e507e10b4,31.382095,miscatches
+,593ab1e773c67c2422e84120,Comments: P3b is bad ,no,yes,Keren,593abe660c79881593dfeda7,244.288515,miscatches
+,5b210c0cba0e822d96d657b8,Comments: P3b is bad,no,yes,Keren,5b2115c639884c7de4f4ff2f,164.257316,miscatches
+,591dafc7b97297439d0c198e,Comments: P3b is bad,no,yes,Keren,591dba5d3506906168f8b1ab,43.654189,miscatches
+,58ee20f0502e9e7532097ef8,Comments: P3b is bad,no,yes,Keren,58ee292312bb131833efa5b7,29.399526,miscatches
+,5a94250d7d1db96b3de7552e,Comments: P3a is posterior ,yes,no,Keren,5a942e76aa1e352d75de23ab,34.46152,miscatches
+,5919bcf973c67c2422e7c513,Comments: P3a is posterior ,yes,no,Keren,5919d6cb3506906168f8ac6b,43.297136,miscatches
+,5addd11af9c34e2be6a4e788,Comments: ,no,no,Keren,5addda10d6b7647d3f805fac,27.782136,miscatches
+,597a56049700a54ab2efee4b,Comments: ,no,no,Keren,597a74c8e1e78f74fc7972f6,29.496828,miscatches
+,589b61b806c12f1a0cc1ea50,Comments: ,no,no,Keren,58b585771f81ac1ef93f8ea2,17.982959,miscatches
+,594c2c6a73c67c2422e89049,Comments: P3a is posterior,yes,no,Keren,594c379029488f18cacad2c4,30.430913,miscatches
+,5852dcc059f496210cf75f4a,"Comments: P3a is mismatch, P3b is too posterior ",yes,yes,Keren,5852e3a79b074c7f705a1ecd,3809.89035,miscatches
+,5ade47c2255ce134ff3df9be,Comments: no P3a peak ,yes,no,Keren,5ade52ddd6b7647d3f80611d,133.186676,miscatches
+,5901e81a40f55574c4f1bcc2,Comments: P3b is right lateralized ,no,yes,Keren,5901f0a889afc347ed2a8d51,45.784945,miscatches
+,5a0efff328309922bd8ab717,Comments: P3a is mismatch,yes,no,Keren,5a0f0c03e1e78f74fc79dcd8,65.724368,miscatches
+,5ae85e5cff833a509bd554c2,Comments: P3a is terrible. Impossible to judge what is the right peak,yes,no,Keren,5ae86ae8d6b7647d3f806969,62.055212,miscatches
+,589cccff59f496210cf875eb,Comments: ,no,no,Keren,58b585691f81ac1ef93f8e2c,20.938569,miscatches
+,593ad59fb97297439d0c8411,Comments: P3a posterior ,yes,no,Keren,593add050c79881593dfee0b,26.760115,miscatches
+,5b083f56a19b73662e158162,Comments: P3b is left lateralized ,yes,yes,Keren,5b0849ccc47302772de234e8,123.291801,miscatches
+,57ed5596221fce2c0ca2032e,Comments: P3a is not detected ,yes,no,Keren,57ed5f446fb60c320f682ed2,24.388788,miscatches
+,5ac27b931e2a5e621a9d7f6a,Comments: ,no,no,Keren,5ac37056aa1e352d75de465f,32.461827,miscatches
+,5947dcfc73c67c2422e876e2,Comments: P3a is badly detected,yes,no,Keren,5947e71029488f18cacacbf7,45.094518,miscatches
+,5a1f11f465d68e60ac6297cc,Comments: P3a is posterior ,yes,no,Keren,5a1f1b261c94b97eb55d7883,59.88366,miscatches
+,5ae31663f9c34e2be6a4f830,Comments: ,no,no,Keren,5ae31f8bd6b7647d3f8065b0,34.657304,miscatches
+,5acf532b1e76b10ad583482e,Comments: P3b is left lateralized ,no,yes,Keren,5acf60edd6b7647d3f8054ac,27.097833,miscatches
+0.0,593ff98873c67c2422e855f3,Comments: P3a is not detected in the capsule ,no,no,Keren,59400286a8e3654e507e0cb6,5046.8412,miscatches
+1.0,591f42cd73c67c2422e7dd78,Comments: no Target,no,no,Keren,591f4e5e3506906168f8b3eb,96.006143,miscatches
+2.0,5833437659f496210cf6ecda,Comments: ,no,no,Keren,5860eb6b4c02b9581ed06a11,2983.689225,miscatches
+3.0,58efca6c40f55574c4f17b25,"Comments: novel is noisy, no peak detection ",yes,no,Keren,58efd6a612bb131833efa896,199.422906,miscatches
+4.0,59515a77b97297439d0cdf13,Comments: ,yes,no,Keren,595165e129488f18cacad755,45.52756,miscatches
+5.0,5a1da3eaf6a1e42e6b3aff57,"Comments: P3a is at FC2 instead of Fz, P3b is anterior at FCZ instead of PZ",no,yes,Keren,5a1dafa31c94b97eb55d6f79,102.136829,miscatches
+6.0,5b105a6c8bd8070193517ded,"Comments: Posterior P3a, ",yes,no,Keren,5b1064abc47302772de24e26,36.435147,miscatches
+7.0,58f62486502e9e7532099ae0,Comments: P3b right central instead of PZ,no,yes,Keren,58f712e65cea6d13af04f67a,52.604107,miscatches
+8.0,592868c673c67c2422e8006d,"Comments: P3a posterior, ",yes,no,Keren,592873533506906168f8bc94,32.44495,miscatches
+9.0,5956a207b97297439d0cfad4,Comments: P3a is left lateral ,yes,no,Keren,5956ad3d29488f18cacade14,76.982615,miscatches
+10.0,59f0c2573f31cd0d53a7e7e0,Comments: P3a is lateral to the right ,yes,no,Keren,59f0cba1e1e78f74fc79c199,40.545946,miscatches
+11.0,5a0cb880e97e3166b6fcb2b5,Comments: P3a includes a lot of peaks which are not P3a,yes,no,Keren,5a0cc57de1e78f74fc79da48,55.481575,miscatches
+12.0,58f8c777502e9e753209aa56,Comments: P3a is very anterior ,yes,no,Keren,58f8d13ea404ff154676277e,93.582575,miscatches
+13.0,58f101f640f55574c4f17f9f,"Comments: P3b is lateral to the left, but could be accepted ",no,yes,Keren,58f10eb712bb131833efa9f6,65.987047,miscatches
+14.0,596e1b0e46f84828c88d900f,Comments: P3a very posterior ,yes,no,Keren,596e25b9e1e78f74fc796aad,27.445753,miscatches
+15.0,594d47bf73c67c2422e8935b,Comments: P3a is too anterior and P3b is too posterior both lateral to the right ,yes,yes,Keren,594d539f29488f18cacad3e0,51.827129,miscatches
+16.0,593ee743b97297439d0c8f16,"Comments: P3a right posterior, P3b very right sided ",yes,yes,Keren,593eee8d8d1a7241a72bc937,172.027179,miscatches
+17.0,598c522d58193c4e3dc872ee,Comments: P,yes,no,Keren,598c5ae1e1e78f74fc797dbd,53889.046701,miscatches
+18.0,598c522d58193c4e3dc872ee,Comments: P,yes,no,Keren,598c5ae1e1e78f74fc797dbd,53889.206495,miscatches
+19.0,5a7ddf7796faa426b45461d6,Comments: ,no,no,Keren,5a7de917aa1e352d75de13c3,38.682224,miscatches
+20.0,5989ca135019de1f3277800b,Comments: P3a is miscatch not just because of location but the timing is wrong too,yes,no,Keren,5989d76ee1e78f74fc797a4a,1787.44295,miscatches
+21.0,58dbe78149d9391f2c1a2ffe,Comments: ,no,no,Keren,58dbf0bce325a6609b0c86b7,44.970533,miscatches
+22.0,58232c1859f496210cf6b58f,Comments: Some of P3b is miscatch and some isn't. P3a is hardly detected. ,yes,yes,Keren,582336b103086d3115084b23,184.577907,miscatches
+23.0,5b524a86bac3404580ce3cc3,Comments: P3a is right posterior,yes,no,Keren,5b528524c3d52b58137f507e,55.838407,miscatches
+24.0,59809038bb9c6d2047485a5a,Comments: P3b is mismatch,no,yes,Keren,59809dbde1e78f74fc79751f,41.023832,miscatches
+25.0,58e27ae049d9391f2c1a414b,Comments: P3b is not detected,no,yes,Keren,58e28739e325a6609b0c8a92,64.405458,miscatches
+26.0,59ef717a3f31cd0d53a7e272,Comments: P3 is hardly detected and the lateral right peak is incorrect,no,yes,Keren,59ef7b71e1e78f74fc79c068,52.304284,miscatches
+27.0,5841c84159f496210cf71c7d,Comments: terrible data ,yes,yes,Keren,5841d2cf0ea4f53537d8cbb7,248.186979,miscatches
+28.0,5aa196d78c65a506850e1f2e,Comments: ,yes,yes,Keren,5aa1a5dbaa1e352d75de2ee3,39.306955,miscatches
+29.0,59e4e48547c9a96495d0c896,"Comments: P3a right lateral, P3b is undetected ",yes,yes,Keren,59e4ec97e1e78f74fc79b808,300.433406,miscatches
+30.0,59287d7673c67c2422e80131,Comments: ,no,yes,Keren,59289ff73506906168f8bd05,1816.736284,miscatches
+31.0,5ae38d29f9d1e843669ad642,Comments: ,no,no,Keren,5ae398cfd6b7647d3f806715,47.711867,miscatches
+32.0,59a992cc75ffb6377f6e8d22,Comments: P3a posterior and left lateralized,yes,no,Keren,59a99ea1e1e78f74fc7996d0,47.692048,miscatches
+33.0,580e4dbe221fce2c0ca255b6,Comments: P3a is posterior ,yes,no,Keren,580e547e720a40af061636a5,312.516882,miscatches
+34.0,5a8af1c037a51654ab0ae699,Comments: P3a includes a lot of peaks that are irrelevant,yes,no,Keren,5a8afca2aa1e352d75de1d3b,366.09847,miscatches
+35.0,59c129978774165b660f1c21,Comments: P3b is right lateralized ,no,yes,Keren,59c13170e1e78f74fc79a181,39.277947,miscatches
+36.0,5a9801e7bdc08b714719b46a,Comments: P3a posterior ,yes,no,Keren,5a980d46aa1e352d75de27e8,2534.579839,miscatches
+37.0,587e5b1c59f496210cf7e869,Comments: ,yes,yes,Keren,587e653bf7f92aef6c6415e0,117.538961,miscatches
+38.0,59ef50463f31cd0d53a7e13e,Comments: P3 anterior ,no,yes,Keren,59ef580ee1e78f74fc79c00e,50.246079,miscatches
+39.0,591c8203b97297439d0c159f,Comments: P3b left lateralized ,no,yes,Keren,591c90333506906168f8b068,83.869324,miscatches
+40.0,58da77e749d9391f2c1a2966,Comments: P3a posterior,yes,no,Keren,58dba58ae325a6609b0c85cb,48.897056,miscatches
+41.0,5a0f5d0851eee670966a6fd4,Comments: P3a posterior,yes,no,Keren,5a0f65c7e1e78f74fc79ddca,41.565482,miscatches
+42.0,59aef39739ac772337138d20,Comments: ,no,no,Keren,59aefd70e1e78f74fc7998dc,44.486234,miscatches
+43.0,592744a8b97297439d0c3f7e,Comments: all activity is more posterior,yes,no,Keren,59274de53506906168f8bb15,102.234293,miscatches
+44.0,592da88cb97297439d0c4c9c,Comments: P3a posterior and left lateralized,yes,no,Keren,592db0720c79881593dfde9b,43.346346,miscatches
+45.0,58f0bfe7502e9e7532098d6a,Comments: both are right lateralized ,yes,yes,Keren,58f0c84312bb131833efa972,80.232084,miscatches
+46.0,59afefab39ac77233713907d,Comments: P3b is left lateralized,no,yes,Keren,59affad4e1e78f74fc799934,49.11636,miscatches
+47.0,5941a248b97297439d0ca440,Comments: ,no,no,Keren,5941abb7a8e3654e507e10b4,31.382095,miscatches
+48.0,593ab1e773c67c2422e84120,Comments: P3b is bad ,no,yes,Keren,593abe660c79881593dfeda7,244.288515,miscatches
+49.0,5b210c0cba0e822d96d657b8,Comments: P3b is bad,no,yes,Keren,5b2115c639884c7de4f4ff2f,164.257316,miscatches
+50.0,591dafc7b97297439d0c198e,Comments: P3b is bad,no,yes,Keren,591dba5d3506906168f8b1ab,43.654189,miscatches
+51.0,58ee20f0502e9e7532097ef8,Comments: P3b is bad,no,yes,Keren,58ee292312bb131833efa5b7,29.399526,miscatches
+52.0,5a94250d7d1db96b3de7552e,Comments: P3a is posterior ,yes,no,Keren,5a942e76aa1e352d75de23ab,34.46152,miscatches
+53.0,5919bcf973c67c2422e7c513,Comments: P3a is posterior ,yes,no,Keren,5919d6cb3506906168f8ac6b,43.297136,miscatches
+54.0,5addd11af9c34e2be6a4e788,Comments: ,no,no,Keren,5addda10d6b7647d3f805fac,27.782136,miscatches
+55.0,597a56049700a54ab2efee4b,Comments: ,no,no,Keren,597a74c8e1e78f74fc7972f6,29.496828,miscatches
+56.0,589b61b806c12f1a0cc1ea50,Comments: ,no,no,Keren,58b585771f81ac1ef93f8ea2,17.982959,miscatches
+57.0,594c2c6a73c67c2422e89049,Comments: P3a is posterior,yes,no,Keren,594c379029488f18cacad2c4,30.430913,miscatches
+58.0,5852dcc059f496210cf75f4a,"Comments: P3a is mismatch, P3b is too posterior ",yes,yes,Keren,5852e3a79b074c7f705a1ecd,3809.89035,miscatches
+59.0,5ade47c2255ce134ff3df9be,Comments: no P3a peak ,yes,no,Keren,5ade52ddd6b7647d3f80611d,133.186676,miscatches
+60.0,5901e81a40f55574c4f1bcc2,Comments: P3b is right lateralized ,no,yes,Keren,5901f0a889afc347ed2a8d51,45.784945,miscatches
+61.0,5a0efff328309922bd8ab717,Comments: P3a is mismatch,yes,no,Keren,5a0f0c03e1e78f74fc79dcd8,65.724368,miscatches
+62.0,5ae85e5cff833a509bd554c2,Comments: P3a is terrible. Impossible to judge what is the right peak,yes,no,Keren,5ae86ae8d6b7647d3f806969,62.055212,miscatches
+63.0,589cccff59f496210cf875eb,Comments: ,no,no,Keren,58b585691f81ac1ef93f8e2c,20.938569,miscatches
+64.0,593ad59fb97297439d0c8411,Comments: P3a posterior ,yes,no,Keren,593add050c79881593dfee0b,26.760115,miscatches
+65.0,5b083f56a19b73662e158162,Comments: P3b is left lateralized ,yes,yes,Keren,5b0849ccc47302772de234e8,123.291801,miscatches
+66.0,57ed5596221fce2c0ca2032e,Comments: P3a is not detected ,yes,no,Keren,57ed5f446fb60c320f682ed2,24.388788,miscatches
+67.0,5ac27b931e2a5e621a9d7f6a,Comments: ,no,no,Keren,5ac37056aa1e352d75de465f,32.461827,miscatches
+68.0,5947dcfc73c67c2422e876e2,Comments: P3a is badly detected,yes,no,Keren,5947e71029488f18cacacbf7,45.094518,miscatches
+69.0,5a1f11f465d68e60ac6297cc,Comments: P3a is posterior ,yes,no,Keren,5a1f1b261c94b97eb55d7883,59.88366,miscatches
+70.0,5ae31663f9c34e2be6a4f830,Comments: ,no,no,Keren,5ae31f8bd6b7647d3f8065b0,34.657304,miscatches
+71.0,5acf532b1e76b10ad583482e,Comments: P3b is left lateralized ,no,yes,Keren,5acf60edd6b7647d3f8054ac,27.097833,miscatches
+,5a0b4d164ebfe54683185ee1,Comments: ,yes,no,Keren,5a0b565ee1e78f74fc79d82b,9802.358607,miscatches
