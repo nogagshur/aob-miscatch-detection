@@ -2,93 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2a710ee-eb5b-4667-b309-504051a5c329" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Eran&amp;Daniel 08.03.2020" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catboost_info/tmp/cat_feature_index.96cbf646-58c7343b-2a987cd9-e46c55dd.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_profiling/P3a_dataset_pandas_profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_profiling/P3a_variables.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_profiling/P3a_variables_first6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_profiling/P3a_variables_last6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_profiling/P3b_dataset_pandas_profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_profiling/P3b_variables.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_profiling/P3b_variables_first6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_profiling/P3b_variables_last6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/peak_elec/VGNG_Go.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/25_50 - Copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/25_50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/25_50_P3b - Copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/25_50_P3b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/catboost_training.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/learn/events.out.tfevents" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/learn_error.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/time_left.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.237e7b6f-d93911ea-238d13bc-874bd9e2.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.2fb71ad7-9685c183-b5454f45-59dc62b5.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.33413be3-a0da7879-db7346f0-7b13b7af.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.50f814ca-bed327d-d2e85d67-a8153566.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.5cc1757f-dfd6967c-b38da534-90819db.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.6c502625-195bf62f-73745e0d-bcc3a212.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.6d61751a-c2c613c2-17d87dd9-a8127384.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.71e7db49-67a8a27b-77d71d54-d4acccdf.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.977cd6d5-4288346c-43217dd1-993a14e5.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.9a55640c-4fe87adf-71e20e19-24636d4b.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.9d7ca26-bbe006f7-bfd8e883-e9adfc34.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.9e1ac009-e93b1ed0-cd491216-619db9aa.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.9ff4470c-3cd6817e-3141a3fa-b503f225.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.a20a82d9-86c3767d-a72445cb-cbf2cf96.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.a7ddd9e4-f813d89f-4f9e8a43-1cd2b274.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.b940c50-dcc05cfa-47cbe672-824cb798.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.bafae99d-c036e99c-f55ed9e3-69984a34.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.bb5c2688-aa645654-5c745997-989ec7eb.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.c8e4ba2c-7993a6ae-ebfe7d6a-47aac4d8.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.cd605dce-78ee70f9-f2c80c2-4b7852c.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.d9deacbd-6a6b5183-5c06bf9d-ee908344.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/tmp/cat_feature_index.e89df347-6492833d-5d9a3e5d-217892f3.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/data/complete_aob_25-50.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/data/complete_higher50.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/data/complete_lower25.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a - Copy/pred_miscatches_25_50_cv_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a - Copy/pred_miscatches_25_50_cv_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a - Copy/pred_miscatches_higher50_cv_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a - Copy/pred_miscatches_higher50_cv_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_25_50_cv_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_25_50_cv_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_25_50_cv_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_25_50_cv_3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_25_50_cv_4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_higher50_cv_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_higher50_cv_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_higher50_cv_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b - Copy/pred_miscatches_25_50_cv_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b - Copy/pred_miscatches_25_50_cv_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b - Copy/pred_miscatches_higher50_cv_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b - Copy/pred_miscatches_higher50_cv_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b - Copy/pred_miscatches_higher50_cv_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b/pred_miscatches_25_50_cv_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b/pred_miscatches_25_50_cv_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b/pred_miscatches_25_50_cv_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b/pred_miscatches_25_50_cv_3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b/pred_miscatches_25_50_cv_4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b/pred_miscatches_higher50_cv_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b/pred_miscatches_higher50_cv_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3b/pred_miscatches_higher50_cv_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/higher50 - Copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/higher50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/higher50_P3b - Copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/higher50_P3b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/lower25 p3b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/lower25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/noneparams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/params.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsupervised_p3a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsupervised_p3b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DQ/AOB_Novel_remove.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DQ/AOB_Target_remove.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/EDA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/lower25 - Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retraining_after_lableing/lower25 p3b copy2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/with unsup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/miscatch_classifier.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/miscatch_classifier.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/catboost_training.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn/events.out.tfevents" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catboost_info/learn_error.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/learn_error.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catboost_info/time_left.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/catboost_info/time_left.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cross_validation_lower than 25.py" beforeDir="false" afterPath="$PROJECT_DIR$/cross_validation_lower than 25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsupervised_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/unsupervised_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_profiling/P3a_dataset_pandas_profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_profiling/P3a_variables.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_profiling/P3a_variables_first6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_profiling/P3a_variables_last6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_profiling/P3b_dataset_pandas_profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_profiling/P3b_variables.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_profiling/P3b_variables_first6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_profiling/P3b_variables_last6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/catboost_training.json" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/catboost_training.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/learn/events.out.tfevents" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/learn/events.out.tfevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/learn_error.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/learn_error.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/time_left.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/catboost_info/time_left.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_higher50_cv_0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_higher50_cv_0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_higher50_cv_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_higher50_cv_1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_higher50_cv_2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/exports_p3a/pred_miscatches_higher50_cv_2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/higher50 - Copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/higher50 - Copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/higher50_P3b - Copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/higher50_P3b - Copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/lower25 p3b.py" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/lower25 p3b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/lower25.py" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/lower25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retraining_after_lableing/params.py" beforeDir="false" afterPath="$PROJECT_DIR$/retraining_after_lableing/params.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,16 +57,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing\data" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing" />
       <recent name="C:\Users\nogag\aob-miscatch-detection" />
       <recent name="C:\Users\nogag\miscatch_classifier" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nogag\aob-miscatch-detection\DQ" />
+      <recent name="C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing" />
+      <recent name="C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing\data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -134,7 +83,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lower25 p3b">
+  <component name="RunManager" selected="Python.with unsup">
+    <configuration name="Aviv- Resting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="miscatch_classifier" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Downloads/Aviv- Resting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EDA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="miscatch_classifier" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/retraining_after_lableing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retraining_after_lableing/EDA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="cross_validation" type="PythonConfigurationType" factoryName="Python">
       <module name="miscatch_classifier" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="higher50 - Copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="export" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="miscatch_classifier" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/retraining_after_lableing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retraining_after_lableing/higher50 - Copy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/export.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="higher50_P3b - Copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lower25 p3b copy2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="miscatch_classifier" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retraining_after_lableing/higher50_P3b - Copy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retraining_after_lableing/lower25 p3b copy2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="higher50_P3b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="with unsup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="miscatch_classifier" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,53 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/retraining_after_lableing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retraining_after_lableing/higher50_P3b.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lower25 p3b" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="miscatch_classifier" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/retraining_after_lableing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retraining_after_lableing/lower25 p3b.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lower25" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="miscatch_classifier" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/retraining_after_lableing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retraining_after_lableing/lower25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/with unsup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lower25 p3b" />
-        <item itemvalue="Python.lower25" />
-        <item itemvalue="Python.higher50 - Copy" />
-        <item itemvalue="Python.higher50_P3b - Copy" />
-        <item itemvalue="Python.higher50_P3b" />
+        <item itemvalue="Python.with unsup" />
+        <item itemvalue="Python.EDA" />
+        <item itemvalue="Python.export" />
+        <item itemvalue="Python.Aviv- Resting" />
+        <item itemvalue="Python.lower25 p3b copy2" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +237,13 @@
       <option name="presentableId" value="LOCAL‎00001" />
       <updated>1583312236085</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎00002" summary="retraining">
+      <created>1584014790552</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1584014790552</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,7 +261,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final clf" />
-    <option name="LAST_COMMIT_MESSAGE" value="final clf" />
+    <MESSAGE value="retraining" />
+    <option name="LAST_COMMIT_MESSAGE" value="retraining" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -400,6 +356,81 @@
           <url>file://$PROJECT_DIR$/retraining_after_lableing/25_50.py</url>
           <line>208</line>
           <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/retraining_after_lableing/higher50 - Copy.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/retraining_after_lableing/higher50 - Copy.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/retraining_after_lableing/lower25 p3b copy2.py</url>
+          <line>160</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/retraining_after_lableing/lower25 p3b copy2.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/retraining_after_lableing/lower25 p3b.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/retraining_after_lableing/lower25 p3b.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/retraining_after_lableing/lower25 p3b.py</url>
+          <line>189</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/retraining_after_lableing/lower25 p3b.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/retraining_after_lableing/lower25.py</url>
+          <line>197</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/export.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/export.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/export.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/retraining_after_lableing/EDA.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/with unsup.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/with unsup.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

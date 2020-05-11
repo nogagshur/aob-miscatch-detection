@@ -107,7 +107,7 @@ for train_index, test_index in cv.split(df[features], df['miscatch_P3a_novel']):
     print('precision', precision_score(yv, target_out))
     print('confusion martix\n', confusion_matrix(yv, target_out), '\n')
 
-    export_ids[target_out==1].to_csv(fr'C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing\exports_p3a\pred_miscatches_higher50_cv_{i}.csv', index=False, header=['taskData.elm_id'])
+    export_ids[target_out==1].to_csv(fr'C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing\exports_p3a - Copy\pred_miscatches_higher50_cv_{i}.csv', index=False, header=['taskData.elm_id'])
 
     i = i+1
 
@@ -117,7 +117,7 @@ all_data = pd.read_csv(r"S:\Data_Science\Core\FDA_submission_10_2019\06-Data\02-
 all_data['agebin'] = all_data.apply(get_agebin, axis=1)
 all_data = all_data[(all_data['agebin'] == "aob_35-50") | (all_data['agebin'] == "aob_25-39")]
 X_pred = all_data[~all_data['taskData.elm_id'].isin(df['taskData._id.$oid'])]
-
+X_pred = X_pred.dropna(subset=features)
 
 pipeline = Pipeline(steps=[
     ("preprocess", StandardScaler()),
@@ -129,4 +129,4 @@ pipeline = Pipeline(steps=[
 grid_search = GridSearchCV(pipeline, param_grid=param_grid, scoring='roc_auc', cv=StratifiedKFold(3))
 grid_search.fit(df[features], df['miscatch_P3a_novel'])
 target_out = grid_search.predict(X_pred[features])
-X_pred[target_out==1]['taskData.elm_id'].to_csv(fr'C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing\exports_p3a\pred_miscatches_higher50_unlabeleddata.csv', index=False, header=['taskData.elm_id'])
+X_pred[target_out==1]['taskData.elm_id'].to_csv(fr'C:\Users\nogag\aob-miscatch-detection\retraining_after_lableing\exports_p3a - Copy\pred_miscatches_higher50_unlabeleddata.csv', index=False, header=['taskData.elm_id'])
